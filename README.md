@@ -115,18 +115,29 @@ Diese Liste basiert auf dem neuen Prüfungskatalog zur AP1 für die IT-Berufe vo
 
 ## Netzwerktechnik
 
-- OSI-Modell, TCP/IP-Modell
+- [ ] OSI-Modell
+- [ ] TCP/IP-Modell
+
 - Netzwerktopologien, VLANs, PoE
-- Protokolle: DHCP, DNS, IP, TCP/UDP
-- Routing, Firewall, VPN
+
+- Protokolle:
+- [x] DHCP - Tanja ✅
+- [ ] DNS
+- [ ] IP
+- [ ] TCP/UDP
+- [ ] Routing
+- [ ] Firewall
+- [ ] VPN
 
 ---
 
 ## Multimedia
 
-- Zeichenkodierungen (ASCII, Unicode, UTF-8)
-- Bild- und Videoformate (JPEG, PNG, MP4)
-- Audiobearbeitung (Sampling, Kompression)
+- [ ] Zeichenkodierungen (ASCII, Unicode, UTF-8) - Farzaneh
+- [ ] Bild- und Videoformate (JPEG, PNG, MP4)
+- [ ] Audiobearbeitung (Sampling, Kompression)
+
+__Formeln müssen auswendig gelernt werden__
 
 ---
 
