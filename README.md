@@ -35,7 +35,7 @@ Diese Liste basiert auf dem neuen Prüfungskatalog zur AP1 für die IT-Berufe vo
 - Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten
 - Projektdefinition, -planung, -durchführung, -abschluss
 - Kick-Off-Meeting, Projektstrukturplan, Meilensteine
-- Lasten- und Pflichtenheft
+- [ ] Lasten- und Pflichtenheft - Heiko
 - Aufgaben und Rollen im Projekt
 - Problemanalyse und Lösungsentwicklung
 - Root-Cause-Analysis, 5 Whys
