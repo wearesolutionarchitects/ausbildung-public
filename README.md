@@ -40,7 +40,7 @@ Diese Liste basiert auf dem neuen Prüfungskatalog zur AP1 für die IT-Berufe vo
 - Problemanalyse und Lösungsentwicklung
 - Root-Cause-Analysis, 5 Whys
 - Fehlermanagement, Ticketsysteme
-- Vor- und Nachkalkulation
+- [ ] Vor- und Nachkalkulation
 
 ---
 
