@@ -1,0 +1,29 @@
+---
+name: 1. Projektmanagement
+description: Themen rund um das Projektmanagement
+title: "[Projektmanagement]: "
+labels: ["Projektmanagement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Themenbezogene Aufgaben für Projektmanagement**
+  - type: checkboxes
+    id: projektmanagement-themen
+    attributes:
+      label: Wähle die relevanten Themen
+      options:
+        - label: Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten
+        - label: Projektdefinition, -planung, -durchführung, -abschluss
+        - label: Kick-Off-Meeting, Projektstrukturplan, Meilensteine
+        - label: Lasten- und Pflichtenheft
+        - label: Aufgaben und Rollen im Projekt
+        - label: Problemanalyse und Lösungsentwicklung
+        - label: Root-Cause-Analysis, 5 Whys
+        - label: Fehlermanagement, Ticketsysteme
+        - label: Vor- und Nachkalkulation
+  
+  - type: markdown
+    id: Aufgabe
+    attributes:
+      value: "Erstelle einen Sub-Issue zum markierten Thema mit einer Übungsaufgabe und einer Lösung."

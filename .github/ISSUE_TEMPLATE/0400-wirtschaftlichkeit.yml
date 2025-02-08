@@ -1,0 +1,23 @@
+---
+name: 4. Wirtschaftlichkeit
+description: Themen rund um Wirtschaftlichkeit
+title: "[Wirtschaftlichkeit]: "
+labels: ["Wirtschaftlichkeit"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Themenbezogene Aufgaben für Wirtschaftlichkeit**
+  - type: checkboxes
+    id: wirtschaftlichkeit-themen
+    attributes:
+      label: Wähle die relevanten Themen
+      options:
+        - label: "Machbarkeitsanalyse: technisch, organisatorisch, wirtschaftlich, rechtlich"
+        - label: "Make-or-buy-Entscheidung, Risikoanalyse"
+        - label: "Rentabilitätsrechnung, Amortisationsrechnung, Deckungsbeitrag"
+        - label: "Kalkulation von Rabatten und Skonto"
+  - type: markdown
+    id: Referenz
+    attributes:
+      value: "Quellenangabe: Kommunikation mit ChatGTP, Model o3-mini"
