@@ -1,7 +1,7 @@
 ---
 name: 1. Projektmanagement
 description: Themen rund um das Projektmanagement
-title: "[Projektmanagement]: "
+title: "[Projektmanagement]"
 labels: ["Projektmanagement"]
 body:
   - type: markdown
