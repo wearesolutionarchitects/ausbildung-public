@@ -14,22 +14,49 @@ __Teil 1 der Abschlussprüfung:__
 
 ## Themen / Lernfelder
 
-1. ?
+1. Schutzmassnahmen BSI IT-Grundschutz-Kompendium, Sicherheitsrisiken
 2. ?
 3. ?
 4. Lasten- und Pflichtenheft
 
 ## Die Aufgaben 1 bis 4 beziehen sich auf folgende Ausgangssituation
 
-Sie sind Auszubildender der Identify OHG, die sich auf die Herstellung von elektronischen Schlüsselsystemen und Ausweisen unter Beachtung höchster Sicherheitsanforderungen spezialisiert hat.
+| | |
+| :--- |
+| __Situation__:  Sie sind Auszubildender der Identify OHG, die sich auf die Herstellung von elektronischen Schlüsselsystemen und Ausweisen unter Beachtung höchster Sicherheitsanforderungen spezialisiert hat. |
 
 ---
 
 ## 1. Aufgabe (26 Punkte)
 
-### a. (? Punkte)
+Zur Vorbereitung der Absicherung eines Besprechungsraums informieren Sie sich u. a. über Maßnahmen aus dem BSI IT-Grund-schutz-Kompendium und wirken an der Umsetzung mit.
 
 ---
+
+### a. (3 Punkte)
+
+Zur Absicherung des Besprechungsraums soll u. a. eine automatische Zutrittskontrolle an der Eingangstür eingerichtet werden.
+Nennen Sie __drei__ technische Möglichkeiten, um eine automatische Zutrittskontrolle zu gewährleisten.
+
+1. ...
+2. ...
+3. ...
+
+---
+
+### b. (3 Punkte)
+
+Beschreiben Sie die Sicherheitsrisiken der folgenden Situationen:
+
+| Situation | Sicherheitsrisiko |
+| :--- | :--- |
+| Geöffnete Fenster undTüren nach Verlassen des Besprechungsraums | __Beispiel:__ Informationen in Papierform oder IT-Geräte können durch Diebstahl in falsche Hände geraten. |
+| Nutzung durch externe Personen | |
+| Lose verlegte Kabel | |
+| Nutzung von BYOD-Geräten (Bring Your Own Device) | |
+
+---
+
 
 ## 4. Aufgabe (26 Punkte)
 
