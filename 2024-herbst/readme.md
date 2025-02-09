@@ -33,7 +33,7 @@ Zur Vorbereitung der Absicherung eines Besprechungsraums informieren Sie sich u.
 
 ---
 
-### a. (3 Punkte)
+### a. Zugangs- und Zugriffskontrolle (3 Punkte)
 
 Zur Absicherung des Besprechungsraums soll u. a. eine automatische Zutrittskontrolle an der Eingangstür eingerichtet werden.
 Nennen Sie __drei__ technische Möglichkeiten, um eine automatische Zutrittskontrolle zu gewährleisten.
@@ -44,16 +44,31 @@ Nennen Sie __drei__ technische Möglichkeiten, um eine automatische Zutrittskont
 
 ---
 
-### b. (3 Punkte)
+### b. Sicherheitsrisiken (3 Punkte)
 
 Beschreiben Sie die Sicherheitsrisiken der folgenden Situationen:
 
 | Situation | Sicherheitsrisiko |
 | :--- | :--- |
-| Geöffnete Fenster undTüren nach Verlassen des Besprechungsraums | __Beispiel:__ Informationen in Papierform oder IT-Geräte können durch Diebstahl in falsche Hände geraten. |
+| Geöffnete Fenster und Türen nach Verlassen des Besprechungsraums | __Beispiel:__ Informationen in Papierform oder IT-Geräte können durch Diebstahl in falsche Hände geraten. |
 | Nutzung durch externe Personen | |
 | Lose verlegte Kabel | |
 | Nutzung von BYOD-Geräten (Bring Your Own Device) | |
+
+---
+
+### c. Maßnahmen zur Absicherung (6 Punkte)
+
+Ein PC soll für die Durchführung von Präsentationen mit einem Anzeigegerät verbunden werden. Der BSI-Grundschutz empfiehlt, den Präsentationsrechner in dem Besprechungsraum sicher zu konfigurieren.
+Begründen Sie die folgenden vorgeschlagenen Maßnahmen.
+
+Nutzung einer Minimalkonfiguration mit festgelegter Anwendungssoftware:
+
+__Begründung:__ ...
+
+Anschluss an ein vom LAN der Institution getrenntes Datennetz:
+
+__Begründung:__ ...
 
 ---
 
