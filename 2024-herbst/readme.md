@@ -72,6 +72,47 @@ __Begründung:__ ...
 
 ---
 
+### d. (3 Punkte)
+
+Sie erhalten vom Netzwerkadministrator der Identify OHG die folgenden Vorgaben für die Netzwerkkonfiguration des Präsenta-
+tionsrechners. Die Adressvergabe soll statisch erfolgen, um eine spätere Fernwartung zu vereinfachen.
+
+Netzwerk: 192.168.20.0/24
+DHCP-Range: 192.168.20.20 - 192.168.20.254
+Router: 192.168.20.1
+
+---
+
+#### da (2 Punkte)
+
+Bei der Analyse des PCs wird Ihnen jedoch die IP-Adresse 169.254.122.115 angezeigt.
+
+Begründen Sie diese „Vorkonfiguration":
+
+__Begründung:__ ...
+
+---
+
+#### db (2 Punkte)
+
+Markieren Sie bzw. passen Sie die Konfiguration entsprechend der Vorgaben des Administrators in der folgenden Eingabemaske an.
+
+__Eingabemaske:__
+
+---
+
+#### dc (5 Punkte)
+
+Entsprechend der BSI-Empfehlungen ist das IP-Netz des Präsentationsrechners vom Firmennetz getrennt. Im Besprechungsraum befindet sich eine unbeschriftete Netzwerk-Doppeldose. Hier wird auf der einen Seite das Firmennetz, auf der anderen Seite das Netz für den Präsentationsrechner zur Verfügung gestellt. Ihre Aufgabe besteht nun darin, die richtige RJ-45-Buchse (links oder rechts) der Netzwerkdose zu ermitteln und zu beschriften. Ihnen steht dazu ein Patchkabel und der Präsentationsrechner mit seiner Kommandozeile zur Verfügung. Beschreiben Sie Ihre Vorgehensweise stichpunktartig.
+
+1. ...
+2. ...
+3. ...
+4. ...
+
+---
+
+
 
 ## 4. Aufgabe (26 Punkte)
 
