@@ -176,6 +176,20 @@ Ergänzen Sie das gegebene UML-Anwendungsfalldiagramm.
 
 ---
 
+### e. Array in Pseudocode (6 Punkte)
+
+Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erstelt. Diese übergibt eine Mitarbeiter-ID und eine Raumnummer, um abzufragen, ob für diesen Raum eine Zutritsberechtigung besteht. Ermitteln und begründen Sie den Rückgabewert, der bei Aufruf der Funktion mit id = 3 und romNr = 236 geliefert wird.
+
+Hinweis:
+Die Funktion greift auf ein globales zweidimensionales Array keyData [][] zu. In der ersten Spalte steht die Mitarbeiter-ID. Die
+folgenden Spalten enthalten die Räume, für die eine Zutrittsberechtigung besteht. Der Zeilen- und Spaltenindex beginnt bei O.
+Es gibt __keine Kopfzeile__ im Array, sie dient nur zur Erläuterung.
+
+| | Mitarbeiter-ID | Room1 | Room 2 | Room 3 | Room 4 | Room 5 | Room 6 | Roomxx |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 223 | 312 | 154 | 47 | 124 | 236 | 241 | 242 |
+
+
 ## 4. Aufgabe (26 Punkte)
 
 ### a. Lasten- und Pflichtenheft (6 Punkte)
