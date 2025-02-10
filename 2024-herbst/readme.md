@@ -14,7 +14,7 @@ __Teil 1 der Abschlussprüfung:__
 
 ## Themen / Lernfelder
 
-1. Schutzmassnahmen BSI IT-Grundschutz-Kompendium, Sicherheitsrisiken
+1. Schutzmassnahmen BSI IT-Grundschutz-Kompendium, Sicherheitsrisiken, Aktivitäten bei Installationen und Konfigurationen
 2. ?
 3. ?
 4. Lasten- und Pflichtenheft
@@ -112,7 +112,69 @@ Entsprechend der BSI-Empfehlungen ist das IP-Netz des Präsentationsrechners vom
 
 ---
 
+#### dd 05 Aktivitäten bei Installationen und Konfigurationen kennen und beurteilen (4 Punkte)
 
+Für die Einrichtung weiterer Maßnahmen der IT-Sicherheit im Netzwerk benötigt Ihr Administrator die MAC-Adresse des Präsentationsrechners.
+
+Geben Sie einen möglichen Konsolenbefehl an, um die Adresse zu ermitteln und nennen Sie ein Beispiel für eine MAC-Adresse in strukturierter hexadezimaler Darstellung.
+
+__Konsolenbefehl:__ ...
+
+__MAC-Adresse:__ ...
+
+---
+
+## 2. Aufgabe (25 Punkte)
+
+Die Identify OHG benötigt eine neue Software für ihre Schließsysteme. Sie arbeiten in der Abteilung Softwareentwicklung bei der
+Planung der neuen Software mit. Dabei erstellen Sie auch eine Kostenübersicht für einen Kunden.
+
+### a. Fremdvergabe (2 Punkte)
+
+In der Softwareentwicklungsabteilung des Unternehmens gibt es derzeit einen personellen Engpass. Die Identify OHG denkt über eine Fremdvergabe nach.
+
+Nennen Sie zwei Argumente, die gegen eine Fremdvergabe sprechen.
+
+1. ...
+2. ...
+
+---
+
+### b. Progammiersprache (3 Punkte)
+
+Es wird beschlossen, die Software selbst zu entwickeln. Die Entwicklungsabteilung fragt, in welcher Programmiersprache die
+Software entwickelt werden soll.
+
+Nennen Sie ein allgemeingültiges Kriterium, welches für die Auswahl der Programmiersprache von Bedeutung ist und geben Sie
+dazu eine kurze Begründung an.
+
+__Kriterium:__ ...
+
+__Begründung:__ ...
+
+---
+
+### c. Compiler und Interpreter (3 Punkte)
+
+Zur Auswahl der Programmiersprachen stehen Compiler- und Interpreter-Sprachen.
+
+Erläutern Sie den wesentlichen Unterschied zwischen den beiden Übersetzungsarten.
+
+__Compiler:__ ...
+
+__Interpreter:__ ...
+
+### d. UML-Anwendungsfall-Diagramm (5 Punkte)
+
+Sie werden beauftragt, für die Schlüsselsystemsoftware ein UML-Anwendungsfaldiagramm (Use-Case) zu erstellen. Die folgenden Anforderungen liegen vor:
+
+- Der Mitarbeiter kann Türen öffnen und Türen zuschließen. Dabei findet immer eine Berechtigungsprüfung statt.
+- Der Administrator kann alles, was ein Mitarbeiter kann. Zusätzlich kann er die Türschlösser programmieren. Dabei findet
+immer eine Berechtigungsprüfung statt.
+
+Ergänzen Sie das gegebene UML-Anwendungsfalldiagramm.
+
+---
 
 ## 4. Aufgabe (26 Punkte)
 
