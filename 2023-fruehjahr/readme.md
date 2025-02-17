@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # Abschlussprüfung Frühjahr 2023 Teil 1 der Abschlussprüfung
 
 ---
