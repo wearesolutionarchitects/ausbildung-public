@@ -1,226 +1,139 @@
 # Prüfungsthemen für Teil 1 der gestreckten Abschlussprüfung (GAP)
 
-Diese Liste basiert auf dem neuen Prüfungskatalog zur AP1 für die IT-Berufe vom Oktober 2024 und gilt erstmals für die Frühjahrsprüfung 2025.
-
----
-
-## Inhaltsverzeichnis
-
-1. [Projektmanagement](#projektmanagement)
-2. [Methoden und Modelle](#methoden-und-modelle)
-3. [Teamarbeit](#teamarbeit)
-4. [Wirtschaftlichkeit](#wirtschaftlichkeit)
-5. [Märkte und Bedarfe](#märkte-und-bedarfe)
-6. [Kundenberatung und Präsentieren](#kundenberatung-und-präsentieren)
-7. [Marketing](#marketing)
-8. [Angebotsvergleich](#angebotsvergleich)
-9. [Hardware](#hardware)
-10. [Netzwerktechnik](#netzwerktechnik)
-11. [Multimedia](#multimedia)
-12. [Internet](#internet)
-13. [Software](#software)
-14. [Betriebssysteme](#betriebssysteme)
-15. [Softwareentwicklung](#softwareentwicklung)
-16. [Qualitätssicherung](#qualitätssicherung)
-17. [IT-Sicherheit](#it-sicherheit)
-18. [Datenschutz](#datenschutz)
-19. [Verträge](#verträge)
-20. [Leistungserbringung](#leistungserbringung)
-21. [Change Management](#change-management)
-
----
-
-## Projektmanagement
-
-- Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten
-- Projektdefinition, -planung, -durchführung, -abschluss
-- Kick-Off-Meeting, Projektstrukturplan, Meilensteine
-- [ ] Lasten- und Pflichtenheft - Heiko
-- Aufgaben und Rollen im Projekt
-- Problemanalyse und Lösungsentwicklung
-- Root-Cause-Analysis, 5 Whys
-- Fehlermanagement, Ticketsysteme
-- [ ] Vor- und Nachkalkulation
-
----
-
-## Methoden und Modelle
-
-- Wasserfallmodell, Scrum, Agile Methoden
-- Netzplantechnik, Gantt-Diagramm, kritischer Pfad
-- Risikoanalyse und Projektcontrolling
-- Projektstrukturplanung (Top-Down, Bottom-Up, Yo-Yo)
-
----
-
-## Teamarbeit
-
-- Phasen der Teamentwicklung (Forming, Storming, Norming, Performing, Adjourning)
-- Reflexion, Feedback-Kultur, Lessons Learned
-- Win-Win-Strategie, Harvard-Konzept
-- Kommunikationsmodelle (4-Ohren-Modell, Sender-Empfänger)
-- Diversity, Interkulturalität
-
----
-
-## Wirtschaftlichkeit
-
-- Machbarkeitsanalyse: technisch, organisatorisch, wirtschaftlich, rechtlich
-- Make-or-buy-Entscheidung, Risikoanalyse
-- Rentabilitätsrechnung, Amortisationsrechnung, Deckungsbeitrag
-- Kalkulation von Rabatten und Skonto
-
----
-
-## Märkte und Bedarfe
-
-- Marktformen: Monopol, Oligopol, Polypol
-- Bedürfnis vs. Bedarf vs. Nachfrage
-- Zielgruppenanalyse, Marktforschung
-
----
-
-## Kundenberatung und Präsentieren
-
-- Präsentationstechniken
-- Zielgruppengerechte Kommunikation
-- Nutzung von Fachquellen in Deutsch und Englisch
-
----
-
-## Marketing
-
-- ABC-Analyse, AIDA-Modell
-- Produktlebenszyklus, Marktentwicklung
-- Vertriebskonzepte: B2B, B2C, B2G
-
----
-
-## Angebotsvergleich
-
-- Make-or-buy-Entscheidung
-- Kosten- und Leistungsanalyse
-- Angebotseinholung und Bewertung
-
----
-
-## Hardware
-
-- IT-Komponenten: CPU, RAM, Netzteile, SSD/HDD, GPUs
-- Bootvorgang, USV-Typen
-- Peripheriegeräte, Monitore, Drucker
-- Ergonomie und Green IT
-
----
-
-## Netzwerktechnik
-
-- [ ] OSI-Modell
-- [ ] TCP/IP-Modell
-
-- Netzwerktopologien, VLANs, PoE
-
-- Protokolle:
-- [x] DHCP - Tanja ✅
-- [ ] DNS
-- [ ] IP
-- [ ] TCP/UDP
-- [ ] Routing
-- [ ] Firewall
-- [ ] VPN
-
----
-
-## Multimedia
-
-- [ ] Zeichenkodierungen (ASCII, Unicode, UTF-8) - Farzaneh
-- [ ] Bild- und Videoformate (JPEG, PNG, MP4)
-- [ ] Audiobearbeitung (Sampling, Kompression)
-
-__Formeln müssen auswendig gelernt werden__
-
----
-
-## Internet
-
-- URLs, Protokolle (HTTP, FTP, SMTP, POP3)
-- Webtechnologien: HTML5, CSS3, JavaScript
-- Responsive Webdesign
-- CMS, Webhosting
-
----
-
-## Software
-
-- Standardsoftware vs. Individualsoftware
-- Open Source vs. proprietäre Software
-- ERP, CRM, DMS
-- Lizenzmodelle: EULA, GPL, MIT
-
----
-
-## Betriebssysteme
-
-- Linux, Windows, Unix
-- Dateisysteme (FAT, NTFS, ext4)
-- Prozesse und Multitasking
-
----
-
-## Softwareentwicklung
-
-- Programmiersprachen und Paradigmen
-- Algorithmen und Datenstrukturen
-- UML, ER-Modelle
-- Debugging und Fehleranalyse
-
----
-
-## Qualitätssicherung
-
-- Qualitätsmanagementsysteme
-- Testverfahren: Black-Box, White-Box, Unit-Tests
-- Dokumentation und Testprotokolle
-
----
-
-## IT-Sicherheit
-
-- Schutzziele: Vertraulichkeit, Integrität, Verfügbarkeit
-- Sicherheitsmaßnahmen: Firewall, Antivirus, Verschlüsselung
-- Netzwerk- und WLAN-Sicherheit (WPA, VPN)
-- Angriffsszenarien: Phishing, SQL-Injection, XSS
-
----
-
-## Datenschutz
-
-- DSGVO, BDSG
-- Betroffenenrechte: Auskunft, Löschung, Widerspruch
-- Anonymisierung und Pseudonymisierung
-
----
-
-## Verträge
-
-- Vertragsarten: Kaufvertrag, Lizenzvertrag, SLA
-- Service Level Agreements (SLA)
-- Urheberrecht, Creative Commons
-
----
-
-## Leistungserbringung
-
-- Dokumentation von erbrachten Leistungen
-- Abnahmeprotokolle, Mängelrügen
-- Kosten- und Zeiterfassung
-
----
-
-## Change Management
-
-- Veränderungsprozesse und Widerstand gegen Veränderungen
-- Kaizen, Continuous Improvement
-- Lewin-Modell (Unfreeze, Change, Refreeze)
-
----
+## Struktur
+
+```plaintext
+AP1_Einrichten_eines_IT-gestützten_Arbeitsplatzes
+├── 01_Planen_Vorbereiten_Durchfuehren
+│   ├── 01_Projektmanagement_Methoden
+│   │   ├── Merkmale eines Projektes
+│   │   ├── Strukturplan, Netzplan, Gantt-Diagramm
+│   │   ├── Kritischer Weg, Pufferzeiten, fristgerechte Terminierung
+│   │   ├── Lösungsmoeglichkeiten bei Terminproblemen
+│   │   ├── SMART-Prinzip, Meilensteine
+│   │   ├── Projektphasen (Wasserfallmodell, SCRUM)
+│   │   └── Teambildung und -entwicklung, Feedback-Kultur, Lessons Learned
+│   ├── 02_Machbarkeit_und_Wirtschaftlichkeit
+│   │   ├── Machbarkeitsanalyse inkl. Budgetvorgabe
+│   │   ├── Vor- und Nachkalkulation
+│   │   └── Einfluss der Stakeholder und Risikoanalyse
+│   └── 03_Arbeitsaufgaben_in_Geschaefts_und_Leistungsprozessen
+│       ├── Planung, Vorbereitung und Durchführung
+│       ├── Kundenkommunikation
+│       ├── Fehlermanagement und Störungsmanagement (Ticketsystem, Support)
+│       └── Abstimmung mit internen und externen Kunden sowie Ressourcen- und Budgeteinsatz
+│
+├── 02_Informieren_und_Beraten_von_Kunden
+│   ├── 01_Marktsituationen_bewerten
+│   │   ├── Marktformen (Monopol, Oligopol, Polypol)
+│   │   ├── Käufer-/Verkaeufermarkt
+│   │   └── Zielgruppendefinition und Angebotsbewertung
+│   ├── 02_Zielgruppengerechte_Bedarfsanalyse
+│   │   ├── Eigene Datenerhebung (z. B. Kundenbefragung)
+│   │   └── Auswertung vorhandener Daten (Anforderungen an Büroarbeitsplätze)
+│   ├── 03_Zielgerichtete_Methoden_zur_Kundenberatung
+│   │   ├── Situationsgerechte Kundenkommunikation
+│   │   ├── Kommunikationsmodelle (4‑Ohren‑Modell, Sender‑Empfaenger-Modell)
+│   │   ├── Ermittlung von Kundenbeduerfnissen
+│   │   └── Unterbreiten von Angeboten sowie Interpretation englischsprachiger Texte
+│   ├── 04_Informationen_aufbereiten_und_praesentieren
+│   │   ├── Technische und kaufmaennische Texte (deutsch, englisch)
+│   │   └── Präsentation und Medienkompetenz
+│   └── 05_Marketingaktivitaeten_unterstuetzen
+│       ├── Nutzwertanalyse
+│       └── Vertriebsformen (direkter, indirekter Vertrieb)
+│
+├── 03_Beurteilen_marktaegiger_IT-Systeme_und_Loesungen
+│   ├── 01_Marktgaengige_IT-Systeme_bewerten
+│   │   ├── Funktionale, oekonomische, oekologische Aspekte
+│   │   ├── Ergonomie, Leistungsparameter, Kosten, Energieverbrauch
+│   │   └── Recyclingfaehigkeit
+│   ├── 02_Typische_IT-Systeme_und_Einsatzbereiche
+│   │   ├── Hardwareprodukte (CPU, Motherboard, Speicher, Peripheriegeräte)
+│   │   └── Softwareprodukte (Standard-, Branchen- und Systemsoftware, Entwicklungssysteme, Cloudloesungen)
+│   ├── 03_Leistungsfaehigkeit_und_Energieeffizienz
+│   │   ├── Messung von Leistungsdaten (BIOS/UEFI, CPU, RAM, SSD/HDD etc.)
+│   │   └── Barrierefreier Zugriff, Energieeffizienz-Gütesiegel
+│   └── 04_Wirtschaftlichkeit_von_IT-Systemen
+│       ├── Anschaffungs-, Betriebs-, Lizenz- und Finanzierungskosten
+│       └── Preis-Leistungs-Vergleich, Nutzwertanalyse, Wertschöpfung
+│
+├── 04_Entwickeln_Erstellen_Betreuen_von_IT-Loesungen
+│   ├── 01_IT-Systeme_konzeptionieren_und_dokumentieren
+│   │   ├── Bedarfsanalyse
+│   │   ├── Lasten- und Pflichtenheft (Zweck, Urheber, Inhalt)
+│   │   └── Installation und Einrichtung (Betriebssysteme, BIOS/UEFI, Netzwerkanbindung, Remote-Desktop)
+│   ├── 02_Auswahl_von_Hardware
+│   │   ├── Geräteklassen (Desktops, Notebooks, Thin Clients, Tablets, Smartphones)
+│   │   └── Beruecksichtigung von Barrierefreiheit und Zusatzhardware
+│   ├── 03_Auswahl_von_Software
+│   │   ├── Anwendungssoftware und Betriebssysteme (Filemanagement, Freigaben)
+│   │   ├── Einsatz von IDEs
+│   │   ├── Open Source vs. proprietäre Software
+│   │   └── Beurteilungskriterien (Anpassbarkeit, Wartbarkeit, Schnittstellen)
+│   ├── 04_Urheberrecht_und_Lizenzmodelle
+│   │   ├── Grundlagen des Urheberrechtsschutzes
+│   │   ├── Lizenzarten (EULA, OEM, GNU, Pay-per-Use)
+│   │   └── Rechtliche Rahmenbedingungen
+│   ├── 05_Installationen_und_Konfigurationen
+│   │   ├── Hardware- und Betriebssysteminstallation
+│   │   ├── Konfiguration von Netzwerken (IP, DHCP, WLAN, VPN)
+│   │   └── Konsolenbefehle und Troubleshooting
+│   └── 06_Programmiersprachen_und_Methoden
+│       ├── Compiler, Linker, Interpreter
+│       ├── Prozedurale vs. objektorientierte Ansätze
+│       ├── Kontrollstrukturen, Variablen, Funktionen, Klassen
+│       ├── Skriptsprachen und Debugging
+│       └── Vergleich verschiedener Programmiersprachen
+│
+├── 07_Programmierwerkzeuge_und_Datenbanken
+│   ├── 07_Programmierwerkzeuge
+│   │   ├── Darstellung von Kontrollstrukturen (Pseudocode, UML-Diagramme)
+│   │   ├── Entwurf von Bildschirmausgabemasken (Softwareergonomie, Corporate Identity, Barrierefreiheit)
+│   │   └── Fehleranalyse im Quellcode (Schreibtischtest)
+│   └── 08_Grundlagen_von_relationalen_Datenbanken
+│       └── Erstellung einfacher ER-Modelle
+│
+├── 05_Durchfuehren_und_Dokumentieren_von_Qualitaetssichernden_Massnahmen
+│   ├── 01_Grundverstaendnis_QM_Systeme
+│   │   ├── Betriebliche QM-Systeme, QS-Normen, Zertifizierung
+│   └── 02_Massnahmen_des_Qualitaetsmanagements
+│       ├── Qualitätsplanung und -ziele
+│       ├── Qualitätslenkung (Umsetzung der Planphase)
+│       └── PDCA-Zyklus, Testprotokolle
+│
+├── 06_IT-Sicherheit_und_Datenschutz
+│   ├── 01_IT-Sicherheitsregelungen_und_Grundschutz
+│   │   ├── Verfuegbarkeit, Vertraulichkeit, Integritaet
+│   │   ├── Technisch-organisatorische Maßnahmen (TOM)
+│   │   └── IT-Sicherheitsrichtlinien (z. B. Passwort-Policy)
+│   ├── 02_Schutzbedarfsanalyse
+│   │   └── Analyse von Anwendungen, IT-Systemen, Infrastruktur und Kommunikationsverbindungen
+│   ├── 03_Modellierung_eines_Sicherheitskonzepts
+│   │   ├── Ableitung von Schutzbedarfskategorien
+│   │   └── Risiko-Klassifikation (z. B. mit Matrix)
+│   └── 04_Umsetzung_des_Sicherheitskonzepts
+│       ├── Schaffung eines Sicherheitsbewusstseins (Security by Design/Default)
+│       ├── Technische, organisatorische und personelle Schutzmaßnahmen
+│       └── Maßnahmen wie Härtung von Betriebssystemen, Datensicherung, Zugriffskontrolle
+│
+└── 07_Leistungen_und_Auftragsabschluss
+    ├── 01_Vertragsarten_und_Stoerungen
+    │   ├── Kauf-, Miet-, Leasing-, Lizenz-, Service- und Werkvertraege
+    │   └── Vertragsbestandteile und Stoerungsmanagement
+    ├── 02_Unternehmenszielsetzungen
+    │   └── Ableitung von okonomischen, oekologischen und sozialen Zielsetzungen
+    ├── 03_Leistungserbringungsvarianten
+    │   ├── Vor Ort vs. Remote (Ticketsystem, Kundenvorgaben)
+    ├── 04_Abstimmung_mit_Unternehmensorganisation
+    │   └── Aufbauorganisation (Mehrlinien-, Einlinien-, Matrixorganisation)
+    ├── 05_Veraenderungsprozesse_begleiten
+    │   ├── Identifikation von Veraenderungsbedarfen
+    │   └── Einbeziehung von Mitarbeitern, Qualifizierung
+    ├── 06_Leistungsuebergabe_und_Einweisungen
+    │   └── Planung und Dokumentation (Abnahmeprotokolle, Mängelarten)
+    └── 07_Leistungserbringung_bewerten_und_dokumentieren
+        ├── Soll-Ist-Vergleich, Abweichungsanalyse
+        ├── Nachkalkulation
+        └── Lessons Learned, Generierung von Nachfolgeauftraegen
+```
