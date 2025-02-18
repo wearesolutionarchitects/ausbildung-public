@@ -4,15 +4,15 @@
   - [ ] 01_Planen_Vorbereiten_Durchfuehren
     - [ ] 01_Projektmanagement_Methoden
       - [x] Merkmale eines Projektes
-      - [ ] Strukturplan, __Netzplan__, Gantt-Diagramm
+      - [ ] Strukturplan, **Netzplan**, Gantt-Diagramm
       - [x] Kritischer Weg, Pufferzeiten, fristgerechte Terminierung
       - [x] Lösungsmoeglichkeiten bei Terminproblemen
-      - [ ] __SMART-Prinzip__, Meilensteine
+      - [ ] **SMART-Prinzip**, Meilensteine
       - [x] Projektphasen (Wasserfallmodell, SCRUM)
       - [x] Teambildung und -entwicklung, Feedback-Kultur, Lessons Learned
     - [ ] 02_Machbarkeit_und_Wirtschaftlichkeit
       - [x] Machbarkeitsanalyse inkl. Budgetvorgabe
-      - [ ] __Vor- und Nachkalkulation__
+      - [ ] **Vor- und Nachkalkulation**
       - [x] Einfluss der Stakeholder und Risikoanalyse
     - [ ] 03_Arbeitsaufgaben_in_Geschaefts_und_Leistungsprozessen
       - [x] Planung, Vorbereitung und Durchführung
@@ -21,7 +21,7 @@
       - [x] Abstimmung mit internen und externen Kunden sowie Ressourcen- und Budgeteinsatz
   - [ ] 02_Informieren_und_Beraten_von_Kunden
     - [ ] 01_Marktsituationen_bewerten
-      - [ ] Marktformen (Monopol, Oligopol, Polypol)
+      - [ ] **Marktformen (Monopol, Oligopol, Polypol)**
       - [ ] Käufer-/Verkaeufermarkt
       - [ ] Zielgruppendefinition und Angebotsbewertung
     - [ ] 02_Zielgruppengerechte_Bedarfsanalyse
@@ -127,4 +127,5 @@
       - [ ] Nachkalkulation
       - [ ] Lessons Learned, Generierung von Nachfolgeauftraegen
 
+---
 Diese Checkliste bietet Dir einen umfassenden Überblick über alle Themen und Unterpunkte der gestreckten Abschlussprüfung Teil 1 (AP1). Jede Checkbox kann abgehakt werden, sobald das jeweilige Thema bearbeitet oder geprüft wurde.
