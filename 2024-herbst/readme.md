@@ -189,6 +189,7 @@ Es gibt __keine Kopfzeile__ im Array, sie dient nur zur Erläuterung.
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 223 | 312 | 154 | 47 | 124 | 236 | 241 | 242 |
 
+---
 
 ## 4. Aufgabe (26 Punkte)
 
@@ -209,3 +210,13 @@ Bei La Mediterranea ist auch bei __internen Aufträgen__ ein Lasten- und Pflicht
 
 ---
 
+### b. Erweitere das unten angegebene Datenmodell redundanzfrei um die vorliegenden Angaben. Gib Sie auch die Kardinalitäten an
+
+Angaben zur Datenbank:
+
+- Die Bearbeitung eines __Issues__ darf immer nur von einem einzigen __Praktikanten__ erfolgen.
+- Neben seinem Namen ist auch der Vorname zu erfassen.
+- Jeder Issue hat einen Beginn und ein Ende der Bearbeitung.
+- In jeder Entitätsmenge sol eine eindeutige Identifizierung durch einen Primärschlüssel möglich sein
+
+---

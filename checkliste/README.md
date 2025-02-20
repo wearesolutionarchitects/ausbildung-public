@@ -6,7 +6,7 @@ Einrichten eines IT gestützten Arbeitsplatzes
 
 - [ ] 01 Projektmanagement Methoden
 - [ ] 02 Machbarkeit und Wirtschaftlichkeit
-- [ ] 03 Arbeitsaufgaben in Geschaefts- und Leistungsprozessen
+- [ ] 03 Arbeitsaufgaben in Geschaefts- und Leistungsprozessen plannen, vorbereiten und durchführen
 
 ---
 
@@ -28,17 +28,24 @@ Einrichten eines IT gestützten Arbeitsplatzes
 - [ ] **Vor- und Nachkalkulation**
 - [x] Einfluss der Stakeholder und Risikoanalyse
 
-### 01-03 Arbeitsaufgaben in Geschaefts und Leistungsprozessen
+### 01-03 Arbeitsaufgaben in Geschaefts und Leistungsprozessen plannen, vorbereiten und durchführen
 
 - [x] Planung, Vorbereitung und Durchführung
-      - [x] Kundenkommunikation
-      - [x] Fehlermanagement und Störungsmanagement (Ticketsystem, Support)
-      - [x] Abstimmung mit internen und externen Kunden sowie Ressourcen- und Budgeteinsatz
-  - [ ] 02_Informieren_und_Beraten_von_Kunden
-    - [ ] 01_Marktsituationen_bewerten
-      - [ ] **Marktformen (Monopol, Oligopol, Polypol)**
-      - [ ] Käufer-/Verkaeufermarkt
-      - [ ] Zielgruppendefinition und Angebotsbewertung
+- [x] Kundenkommunikation
+- [x] Fehlermanagement und Störungsmanagement (Ticketsystem, Support)
+- [x] Abstimmung mit internen und externen Kunden sowie Ressourcen- und Budgeteinsatz
+
+## 02 Informieren und Beraten von Kunden
+
+### 02-01 Marktsituationen bewerten
+
+- [ ] Marktsituationen_bewerten
+- [ ] **Marktformen (Monopol, Oligopol, Polypol)**
+- [ ] Käufer-/Verkaeufermarkt
+- [ ] Zielgruppendefinition und Abgrenzung
+
+### 02-02 Zielgruppengerechte Bedarfsanalyse
+
     - [ ] 02_Zielgruppengerechte_Bedarfsanalyse
       - [ ] Eigene Datenerhebung (z. B. Kundenbefragung)
       - [ ] Auswertung vorhandener Daten (Anforderungen an Büroarbeitsplätze)
