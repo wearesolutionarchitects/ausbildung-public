@@ -1,20 +1,35 @@
-# Markdown-Checkliste für Teil 1 der gestreckten Abschlussprüfung (GAP)
+# Checkliste für Teil 1 der gestreckten Abschlussprüfung (GAP)
 
-- [ ] **AP1_Einrichten_eines_IT-gestützten_Arbeitsplatzes**
-  - [ ] 01_Planen_Vorbereiten_Durchfuehren
-    - [ ] 01_Projektmanagement_Methoden
-      - [x] Merkmale eines Projektes
-      - [ ] Strukturplan, **Netzplan**, Gantt-Diagramm
-      - [x] Kritischer Weg, Pufferzeiten, fristgerechte Terminierung
-      - [x] Lösungsmoeglichkeiten bei Terminproblemen
-      - [ ] **SMART-Prinzip**, Meilensteine
-      - [x] Projektphasen (Wasserfallmodell, SCRUM)
-      - [x] Teambildung und -entwicklung, Feedback-Kultur, Lessons Learned
-    - [ ] 02_Machbarkeit_und_Wirtschaftlichkeit
-      - [x] Machbarkeitsanalyse inkl. Budgetvorgabe
-      - [ ] **Vor- und Nachkalkulation**
-      - [x] Einfluss der Stakeholder und Risikoanalyse
-    - [ ] 03_Arbeitsaufgaben_in_Geschaefts_und_Leistungsprozessen
+Einrichten eines IT gestützten Arbeitsplatzes
+
+## 01 Planen Vorbereiten Durchfuehren
+
+- [ ] 01 Projektmanagement Methoden
+- [ ] 02 Machbarkeit und Wirtschaftlichkeit
+- [ ] 03 Arbeitsaufgaben in Geschaefts- und Leistungsprozessen
+
+---
+
+### 01-01 Projektmanagement Methoden
+
+- [x] Merkmale eines Projektes
+- [ ] Strukturplan, **Netzplan**, Gantt-Diagramm
+- [x] Kritischer Weg, Pufferzeiten, fristgerechte Terminierung
+- [ ] Lösungsmoeglichkeiten bei Terminproblemen
+- [ ] **SMART-Prinzip**, Meilensteine
+- [x] Projektphasen (Wasserfallmodell, SCRUM)
+- [x] Teambildung und -entwicklung, Feedback-Kultur, Lessons Learned
+
+---
+
+### 01-02 Machbarkeit und Wirtschaftlichkeit
+
+- [x] Machbarkeitsanalyse inkl. Budgetvorgabe
+- [ ] **Vor- und Nachkalkulation**
+- [x] Einfluss der Stakeholder und Risikoanalyse
+
+### 01-03 Arbeitsaufgaben in Geschaefts und Leistungsprozessen
+
       - [x] Planung, Vorbereitung und Durchführung
       - [x] Kundenkommunikation
       - [x] Fehlermanagement und Störungsmanagement (Ticketsystem, Support)
