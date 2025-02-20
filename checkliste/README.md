@@ -30,7 +30,7 @@ Einrichten eines IT gestützten Arbeitsplatzes
 
 ### 01-03 Arbeitsaufgaben in Geschaefts und Leistungsprozessen
 
-      - [x] Planung, Vorbereitung und Durchführung
+- [x] Planung, Vorbereitung und Durchführung
       - [x] Kundenkommunikation
       - [x] Fehlermanagement und Störungsmanagement (Ticketsystem, Support)
       - [x] Abstimmung mit internen und externen Kunden sowie Ressourcen- und Budgeteinsatz
