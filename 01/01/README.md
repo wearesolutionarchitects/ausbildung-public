@@ -12,11 +12,11 @@ Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fä
 
 ## 01 Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischen Geschäfts- und Leistungsprozessen (§ 4 Absatz 2 Nummer 1)
 
+LF 1, LF 2, LF 3, LF 5, LF 6
+
 ---
 
 ### 01-01 Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können
-
-LF 1, LF 2, LF 3, LF 5, LF 6
 
 ---
 
@@ -53,165 +53,116 @@ LF 1, LF 2, LF 3, LF 5, LF 6
 zum Beispiel:
 
 - [ ] Feedback-Kultur
-- [ ]Lessons Learned
+- [ ] Lessons Learned
 
 ---
 
-## 02 Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen können
+### 01-02 Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen können
 
+- [ ] Machbarkeitsanalyse mithilfe einer Budgetvorgabe
+- [ ] Vor- und Nachkalkulation
+- [ ] Einfluss der Stakeholder beurteilen konnen
+- [ ] Risikoanalyse
 
-• Phasen der Teambildung und -entwicklung kenner
-Reflektionsmethoden kennen, z. B. Feedback-Kultur
-Lessons Learned
-• Machbarkeitsanalyse mithilfe einer Budgetvorgabe
-• Vor- und Nachkalkulation
-• Einfluss der Stakeholder beurteilen konnen
-- Risikoanalyse
-03 Arbeitsaufgaben im Rahmen von Geschäfts- und
-Leistungsprozessen planen, vorbereiten und
-durchführen
-- Kundenkommunikation
-- Fehlermanagement
-Störungs-Management
-Bearbeitungsstatus, z. B. mittels Ticketsystem
-Kl-Unterstützung
-Support- und Serviceanfragen (First-, Second- und
-Thirdlevelsupport)
-Beispiele für betriebliche Handlungen/
-Qualifikationen
-Grundsätze und Methoden des Projektmanage-
-ments anwenden
-Auftragsunterlagen und Durchführbarkeit des
-Auftrags prüfen, insbesondere im Hinblick
-auf rechtliche, wirtschaftliche und terminliche
-Vorgaben, und den Auftrag mit den betrieblichen
-Prozessen und Möglichkeiten abstimmen
-Zeitplan und Reihenfolge der Arbeitsschritte für
-den eigenen Arbeitsbereich festlegen
-Termine planen und abstimmen sowie Termin-
-überwachung durchführen
-Probleme analysieren und als Aufgabe definieren
-sowie Lösungsalternativen entwickeln und
-beurteilen
-Arbeits- und Organisationsmittel wirtschaftlich
-und okologisch unter Berücksichtigung der
-vorhandenen Ressourcen und der Budgetvorga-
-ben einsetzen
-Aufgaben im Team sowie mit internen und exter-
-nen Kunden und Kundinnen abstimmen
-Betriebswirtschaftlich relevante Daten erheben
-und bewerten und dabei Geschäfts- und Leis-
-tungsprozesse berücksichtigen
-Eigene Vorgehensweise sowie die Aufgaben•
-durchführung im Team reflektieren und bei der
-Verbesserung der Arbeitsprozesse mitwirken
-9
+---
 
+### 01-03 Arbeitsaufgaben im Rahmen von Geschäfts- und Leistungsprozessen planen, vorbereiten und durchführen
 
-Teil 1 der Abschlussprüfung (AP) - Einrichten eines IT-gestützten Arbeitsplatzes) -
-Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-Fragenkomplex
-02 Informieren und Beraten von Kunden und Kundinnen
-(§ 4 Absatz 2 Nummer 2)
-Themenkreis
+- [ ] Kundenkommunikation
+- [ ] Fehlermanagement
+- [ ] Störungs-Management
+- [ ] Bearbeitungsstatus, zum Beispiel mittels Ticketsystem
+- [ ] Kl-Unterstützung
+- [ ] Support- und Serviceanfragen (First-, Second- und Thirdlevelsupport)
+
+---
+
+## 02 Informieren und Beraten von Kunden und Kundinnen (§ 4 Absatz 2 Nummer 2)
+
 LF 1, LF 2
-01 Marktsituationen bewerten können
-• Marktformen, z. B. Monopol, Oligopol, Polypol,
-Käufer-/Verkäufermarkt
-• Zielgruppendefinition - und Abgrenzung
-- Quantitative und qualitative Angebotsbewertung
-02 Zielgruppengerechte Bedarfsanalyse durch-
-führen können
-• Eigene Datenerhebung, z. B. Kundenbefragung
-• Auswertung vorhandener Daten, z. B. Anforderung
-an Büroarbeitsplätze
-03 Zielgerichtete Methoden zur Kundenberatung
-kennen und beurteilen können
-• Situationsgerechte Kundenkommunikation
-- Kommunikationsmodelle, z. B.
-• 4-Ohren-Modell
-• Sender-Empfänger-Model
-- Kundenbedarf ermitteln und Angebote unterbreiten
-- Interpretation englischsprachiger Texte
-04 Informationen aufbereiten und präsentieren
-sowie Quellen auswerten können
-- Technische und kaufmännische Texte in deutscher
-und englischer Sprache
-- Präsentation und Medienkompetenz
-05 Marketingaktivitäten unterstützen können
-Nutzwertanalyse
-• Vertriebsformen (direkter Vertrieb, indirekter Ver-
-trieb)
-Beispiele für betriebliche Handlungen/
-Qualifikationen
-Im Rahmen der Marktbeobachtung Preise,
-Leistungen und Konditionen von Wettbewerbern
-vergleichen
-Bedarfe von Kunden und Kundinnen feststellen
-sowie Zielgruppen unterscheiden
-Kunden unter Beachtung von Kommunikations-
-regeln informieren sowie Sachverhalte präsen-
-tieren und deutsche und englische Fachbegriffe
-anwenden
-Maßnahmen für Marketing und Vertrieb unter-
-stützen (betrieblich)
-Informationsquellen auch in englischer Sprache
-aufgabenbezogen auswerten und für die Kun-
-deninformation nutzen
-10
 
+---
 
-Teil 1 der Abschlussprüfung (AP1 - Einrichten eines IT-gestützten Arbeitsplatzes) -
-Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-Fragenkomplex
-03 Beurteilen marktgängiger IT-Systeme und kundenspe-
-zifischer Lösungen
-(§ 4 Absatz 2 Nummer 3)
-Themenkreis
+### 02-01 Marktsituationen bewerten können
+
+- [ ] Marktformen, zum Beispiel Monopol, Oligopol, Polypol,Käufer-/Verkäufermarkt
+- [ ] Zielgruppendefinition - und Abgrenzung
+- [ ] Quantitative und qualitative Angebotsbewertung
+
+---
+
+### 02-02 Zielgruppengerechte Bedarfsanalyse durchführen können
+
+- [ ] Eigene Datenerhebung, zum Beispiel Kundenbefragung
+- [ ] Auswertung vorhandener Daten, zum Beispiel Anforderung an Büroarbeitsplätze
+
+---
+
+### 02-03 Zielgerichtete Methoden zur Kundenberatung kennen und beurteilen können
+
+- [ ] Situationsgerechte Kundenkommunikation
+- [ ] Kommunikationsmodelle, zum Beispiel 4-Ohren-Modell, Sender-Empfänger-Modell
+- [ ] Kundenbedarf ermitteln und Angebote unterbreiten
+- [ ] Interpretation englischsprachiger Texte
+
+---
+
+### 02-04 Informationen aufbereiten und präsentieren sowie Quellen auswerten können
+
+- [ ] Technische und kaufmännische Texte in deutscher und englischer Sprache
+- [ ] Präsentation und Medienkompetenz
+
+---
+
+### 02-05 Marketingaktivitäten unterstützen können
+
+- [ ] Nutzwertanalyse
+- [ ] Vertriebsformen (direkter Vertrieb, indirekter Vertrieb)
+
+---
+
+## 03 Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen (§ 4 Absatz 2 Nummer 3)
+
 LF 2, LF 3
-01 Marktgängige IT-Systeme kennen, unterschei-
-den und beurteilen können
-- Funktionale, ökonomische und ökologische Aspekte,
-z. B. Ergonomie, Leistungsparameter, einmalige und
-laufende Kosten, Nutzungsdauer, Energieverbrauch,
-Recyclingfähigkeit
-- Hardwareprodukte, z. B. CPU, Motherboard,
-Speicher, Datenspeicher, Netzteile, Grafikkarte, Peri-
-pheriegeräte, Sensoren, Netzwerkkomponenten wie
-z. B. WLAN-Router, Switch, Gateway, Accesspoint
-- Softwareprodukte, z. B. Anwendungen, Betriebssys-
-teme
-• Standardsoftware, z. B. Office-Pakete, Datenbank-
+
+---
+
+### 03-01 Marktgängige IT-Systeme kennen, unterscheiden und beurteilen können
+
+- [ ] Funktionale, ökonomische und ökologische Aspekte,zum Beispiel Ergonomie, Leistungsparameter, einmalige und laufende Kosten, Nutzungsdauer, Energieverbrauch und Recyclingfähigkeit
+- [ ] Hardwareprodukte, zum Beispiel CPU, Motherboard,Speicher, Datenspeicher, Netzteile, Grafikkarte, Peripheriegeräte, Sensoren, Netzwerkkomponenten wie zum Beispiel WLAN-Router, Switch, Gateway, Accesspoint
+- [ ] Softwareprodukte, zum Beispiel Anwendungen, Betriebssysteme
+• Standardsoftware, zum Beispiel Office-Pakete, Datenbank-
 Managementsysteme, Browser
-• Branchensoftware, z. B. ERP-Systeme, Supply
+• Branchensoftware, zum Beispiel ERP-Systeme, Supply
 Chain Management, Customer Relationship
 • Systemsoftware
-• Entwicklungssysteme, z. B. Compiler, virtuelle
+• Entwicklungssysteme, zum Beispiel Compiler, virtuelle
 Maschinen, Interpreter, Editoren und Debugger
-- Cloudlösungen, z. B. Software as a Service, Desktop
+- Cloudlösungen, zum Beispiel Software as a Service, Desktop
 as a Service
 - Kl-Software
 - Virtuelle Desktops (Cloud oder lokal)
 02 Typische IT-Systeme und deren Einsatzbereiche
 identifizieren und zuordnen können
-- Kommunikationssysteme, z. B. Videokonferenzsys-
+- Kommunikationssysteme, zum Beispiel Videokonferenzsys-
 teme, Social-Media-Systeme
 - Client-Server-Systeme
 - Einbindung in einer Domäne
-- Mobile Geräte, z. B. Smartphone, Tablet
-- Netzwerkprotokolle (z. B. Ethernet, IP, DNS) und
+- Mobile Geräte, zum Beispiel Smartphone, Tablet
+- Netzwerkprotokolle (zum Beispiel Ethernet, IP, DNS) und
 OSI-Modell
 03 Leistungsfähigkeit und Energieeffizienz von
 IT-Systemen bestimmen, analysieren und beur-
 teilen können
 - Kenngrößen, Leistungsdaten, Funktionsumfang,
-z. B. Einstellungsmöglichkeiten im BIOS, UEFI, CPU,
-RAM, Datenspeicher (SSD/HDD), Filesysteme (z. B.
+zum Beispiel Einstellungsmöglichkeiten im BIOS, UEFI, CPU,
+RAM, Datenspeicher (SSD/HDD), Filesysteme (zum Beispiel
 fat32, NTFS, APFS, ext4), Grafikkarte, Netzwerkkarte,
 Gateway/Router, Switch, LWL, Ethernet Standards,
 WLAN-Standards
 - Barrierefreier Zugriff auf IT-Systeme am Arbeitsplatz,
-z. B. Einstellungsmöglichkeiten auf Webseiten
+zum Beispiel Einstellungsmöglichkeiten auf Webseiten
 - Gütesiegel für Energieeffizienz
 - Kenngrößen, Leistungsdaten
 • Übertragungsraten, -zeiten, Datenmengen von
@@ -254,18 +205,18 @@ Umfeldes konzeptionieren, konfigurieren, testen
 und dokumentieren können
 • Bedarfsanalyse
 - Lasten- und Pflichtenheft (Zweck, Urheber, Inhalt)
-- Installation und Einrichtung von Systemen, z. B.
+- Installation und Einrichtung von Systemen, zum Beispiel
 Betriebssysteme, BIOS, UEFI, Partitionierungen/
 Formatierungen, Netzwerkanbindungen, IP(v4/v6)-
 Konfiguration, Remote-Desktop, KI-Software
 02 Bedarfsgerechte Auswahl von Hardware vor-
 nehmen und begründen können
-- Geräteklassen, z. B. Desktops, Notebooks, All-in-One,
+- Geräteklassen, zum Beispiel Desktops, Notebooks, All-in-One,
 Thin Clients, Tablets, Smartphones
 - Mobile und stationäre Arbeitsplatzsysteme wie PC,
 Terminals, LAN, WLAN
 - Barrierefreiheit, Unterstützung durch zusätzliche
-Hardware, z. B. größerer Monitor, breitere Tastatur,
+Hardware, zum Beispiel größerer Monitor, breitere Tastatur,
 Lautsprecher/Mikrofon zur Verfügung stellen
 03 Bedarfsgerechte Auswahl von Software vorneh-
 men und begründen können
@@ -282,7 +233,7 @@ Schnittstellen)
 04 Urheberrechtsgesetz kennen und Lizenzmodelle
 unterscheiden können
 - Grundlagen des Schutzes der Urheber
-- Lizenzarten, z. B. EULA, OEM, GNU
+- Lizenzarten, zum Beispiel EULA, OEM, GNU
 - Pay-per-Use
 05 Aktivitäten bei Installationen und Konfigurati-
 onen kennen und beurteilen
@@ -292,11 +243,11 @@ Arbeiten mit der Kommandozeile, Befehlssyntax,
 Parameter
 • Anpassung von Software
 - Konfiguration, Test, Troubleshooting und Dokumen-
-tation von Netzwerkverbindungen, z. B. IP-Adressen,
+tation von Netzwerkverbindungen, zum Beispiel IP-Adressen,
 DHCP, WLAN-Zugang, Pre shared key/Enterprise,
 VPN
 - Konsolenbefehle für Dateioperationen und Netz-
-werktroubleshooting, z. B. dir, Is, mkdir, ipconfig,
+werktroubleshooting, zum Beispiel dir, Is, mkdir, ipconfig,
 ifconfig/ip, alias, iproute2, arp, del, cp, copy, chmod,
 ping, traceroute, nslookup
 06 Programmiersprachen mit folgenden Merk-
@@ -305,11 +256,11 @@ können
 Compiler, Linker, Interpreter
 - Prozedurale und objektorientierte Herangehensweise
 Variablen, Datentypen und -strukturen
-Kontrollstrukturen, z. B. Verzweigung, Schleife
+Kontrollstrukturen, zum Beispiel Verzweigung, Schleife
 Prozeduren, Funktionen
 Klassen, Attribute, Objekte, Methoden, Sichtbarkeit
 Bibliotheken, Frameworks
-Skriptsprachen, z. B. Shell-Skript
+Skriptsprachen, zum Beispiel Shell-Skript
 - Debugging, formale und inhaltliche Fehler
 Beispiele für betriebliche Handlungen/
 Qualifikationen
@@ -330,7 +281,7 @@ Fragenkomplex
 Themenkreis
 07 Programmierwerkzeuge kennen und anwenden
 können
-• Abbildung der Kontrollstrukturen, z. B. Verzwei-
+• Abbildung der Kontrollstrukturen, zum Beispiel Verzwei-
 gungen, Schleife, mittels Pseudocode
 - UML (Use Case bzw. Anwendungsfalldiagramm,
 Klassendiagramm, Aktivitätsdiagramm)
@@ -397,7 +348,7 @@ und Integrität der Daten
 und Datenschutzbeauftragtem im Betrieb
 • Erläuterung von IT-Sicherheitsrichtlinien wie
 Passwort-Policy
-• Benennung von technischen Maßnahmen, z. B.
+• Benennung von technischen Maßnahmen, zum Beispiel
 Virenschutz, Personal Firewall, Verschlüsselung
 (inkl. Unterscheidung symmetrisch, asymmetrisch
 und hybrid)
@@ -405,7 +356,7 @@ und hybrid)
 heitsbewusstseins
 • Auszüge aus BSI IT-Grundschutz-Kompendium
 Einhaltung der Grundzüge der Datenschutzgesetze,
-national und auf EU-Ebene, z. B. DSGVO, BDSG
+national und auf EU-Ebene, zum Beispiel DSGVO, BDSG
 überprüfen
 • Definition von personenbezogenen Daten
 • Rechte der Betroffenen, Konsequenzen der
@@ -425,28 +376,28 @@ Sicherheitskonzeptes nach BSI IT Grundschutz
 - Bausteine aus dem Grundschutzkatalog
 - Schutzbedarfskategorien (normal, hoch, sehr hoch)
 ableiten und begründen
-Risiko-Klassifikation, z. B. mit Matrix
+Risiko-Klassifikation, zum Beispiel mit Matrix
 Informations-Sicherheitsmanagementsystem (ISMS)
 kennen und unterstützen
 04 Umsetzung des arbeitsplatzbezogenen Sicher-
 heitskonzeptes unterstützen können
 - Schaffung eines Sicherheitsbewusstseins bei den
-Mitarbeitern, z. B. Security by Design, Security by
+Mitarbeitern, zum Beispiel Security by Design, Security by
 Default
 - IT-Sicherheitsmanagement
 - Durch technische (infrastrukturelle), organisatorische
 und personelle Schutzmaßnahmen
 - Härtung Betriebssystem (Schwachstellen schließen)
 Datensicherung/Backup-Verfahren
-Sicherung der Verfügbarkeit, z. B. NAS
+Sicherung der Verfügbarkeit, zum Beispiel NAS
 Zugangs- und Zugriffskontrolle
 Verschlüsselungstechniken kennen (symmetrische,
 asymmetrische und hybride Verschlüsselung)
 - Hashwerte, Zertifikate und digitale Signaturen
 verwenden
-- Authentifizierung (z. B. Zweifaktor) kennen,
+- Authentifizierung (zum Beispiel Zweifaktor) kennen,
 Passwort-Policy bewerten
-Personal Firewall anpassen, z. B. Softwarezugriff auf
+Personal Firewall anpassen, zum Beispiel Softwarezugriff auf
 Internet sperren
 Beispiele für betriebliche Handlungen/
 Qualifikationen
@@ -472,28 +423,28 @@ tragsstörungen kennen und unterscheiden
 • Lizenzvertrag
 • Servicevertrag, Service Level Agreement (SLA)
 Werkvertrag, Dienstvertrag
-- Vertragsbestandteile, z. B. Leistungsbeschreibung,
+- Vertragsbestandteile, zum Beispiel Leistungsbeschreibung,
 Termine, Entgelte, Sanktionen/Konventionalstrafen
 - Vertragsstörungen
 02 Zielsetzungen des Unternehmens dem Leitbild
 entnehmen können
-- Okonomisch, z. B. Umsatz und Gewinn
-• Okologisch, z. B. Ressourcenschonung, Nachhaltig-
+- Okonomisch, zum Beispiel Umsatz und Gewinn
+• Okologisch, zum Beispiel Ressourcenschonung, Nachhaltig-
 keit
-• Sozial, z. B. Arbeitsbedingungen
+• Sozial, zum Beispiel Arbeitsbedingungen
 03
 Umsetzungsvarianten der Leistungserbringung
 kennen
 Leistungserbringung vor Ort vs. Remote
 • Ticketsystem
-• Kundenvorgaben bei der Leistungserbringung, z. B
+• Kundenvorgaben bei der Leistungserbringung, zum Beispiel
 • Termin und Erfüllungsort
-• technische Voraussetzungen, z. B. Betriebssystem,
+• technische Voraussetzungen, zum Beispiel Betriebssystem,
 Hersteller
 • Einhaltung des Budgets
 04 Leistungserbringung gemäß der Aufbauorgani-
 sation des eigenen Unternehmens abstimmen,
-z. B.
+zum Beispiel
 • Mehrliniensystem, Einliniensystem, Matrixorgani-
 sation
 - Handlungs- und Entscheidungsspielräume/Voll-
@@ -506,12 +457,12 @@ Chancen
 schritten
 • Einbeziehung der Mitarbeiter in den Veränderungs-
 prozess
-• Mitarbeiterqualifizierung, z. B. durch Blended-
+• Mitarbeiterqualifizierung, zum Beispiel durch Blended-
 Learning, Multiplikatoren
 • Erkennen von Promoter, Bremser, Skeptiker und
 Widerständler
 • Ursachen von Widerständen gegen Veränderungen,
-z. B.
+zum Beispiel
 • Angst vor Kompetenzverlust
 • Wissenslücken
 • Persönliche Historie
@@ -558,7 +509,7 @@ Fragenkomplex
 (§ 4 Absatz 2 Nummer 4)
 Themenkreis
 LF 3, LF 6, LF 9, LF 12
-01 Aktives Zuhören, Kommunikationsmodelle (z. B.
+01 Aktives Zuhören, Kommunikationsmodelle (zum Beispiel
 Telefonkonferenzen, Chat, virtuelle Teambespre-
 chung), Verkaufsgespräche (Anfrage, Angebot,
 Auftrag), Analyse der Kundenbedürfnisse -
@@ -590,7 +541,7 @@ LF 5, LF 6, LF 7, LF 8, LF 10, LF 11, LF 12
 Fehler erkennen, analysieren und beheben
 • Debugging, Breakpoint
 - Software-Test, dynamische und statische Testverfah-
-ren, z. B. Black Box, White Box, Review, Extremwer-
+ren, zum Beispiel Black Box, White Box, Review, Extremwer-
 tetest
 - Testdaten
 - Komponententest, Integrationstest, Systemtest
@@ -656,9 +607,9 @@ sichernden Maßnahmen
 Themenkreis
 LF 1, LF 2, LF 5, LF 6, LF 8, LF 11, LF 12
 01 Methoden der Qualitätslenkung anwenden
-- Verschiedene Prüfverfahren, z. B. Parität, Redundanz
+- Verschiedene Prüfverfahren, zum Beispiel Parität, Redundanz
 - Software-Test, dynamische und statische Testverfah-
-ren (z. B. Black Box, White Box, Review, Extremwer-
+ren (zum Beispiel Black Box, White Box, Review, Extremwer-
 tetest, Testdaten, Last- und Performancetest)
 - Debugging, Ablaufverfolgung
 02 Methoden zur Messung der Zielerreichung im
@@ -695,18 +646,18 @@ Beeinträchtigung von Vertraulichkeit, Integrität
 oder Verfügbarkeit entstehen könnten!
 01 Schadenspotenziale von IT-Sicherheitsvorfällen
 einschätzen und Schäden verhindern können,
-z. B.
+zum Beispiel
 - Imageschaden
 - Wirtschaftlicher Schaden
 - Datenverlust
 02 Präventive IT-Sicherheitsmaßnahmen für
 verschiedene Bedrohungsszenarien planen und
-umsetzen, z. B. Maßnahmen gegen
+umsetzen, zum Beispiel Maßnahmen gegen
 • Datendiebstahl
 - Digitale Erpressung (Ransomware)
 - Identitätsdiebstahl (Phishing)
 03 Ziele zur Entwicklung von IT-Sicherheitskriterien
-definieren, z. B.
+definieren, zum Beispiel
 - Richtschnur für Entwickler
 • Objektive Bewertung der Systeme (IT-Grundschutz-
 modellierung)
@@ -726,10 +677,10 @@ Rahmenbedingungen
 • Rechtlich
 • Ethisch
 Risikoanalyse
-Bedrohungsszenarien, z. B, Man-in-the-Middle.
+Bedrohungsszenarien, zum Beispiel, Man-in-the-Middle.
 SQL-Injection, DDoS-Attack
 05 Verschiedene Tools zur Überprüfung von IT-
-Sicherheitsmaßnahmen erläutern, z. B.
+Sicherheitsmaßnahmen erläutern, zum Beispiel
 - Penetrations-Test
 - Device Security Check
 - Identity & Access Management.
@@ -737,15 +688,15 @@ Sicherheitsmaßnahmen erläutern, z. B.
 06 Wirksamkeit und Effizienz der umgesetzten
 Technisch Organisatorischen Maßnahmen (TOM)
 zur IT-Sicherheit und zum Datenschutz prüfen
-- Zutrittskontrolle, z. B.
+- Zutrittskontrolle, zum Beispiel
 • Alarmanlage
 • Videoüberwachung
 • Besucherausweise
-Zugangskontrolle, z. B.
+Zugangskontrolle, zum Beispiel
 • Bildschirmschoner mit Passwortschutz
 • Biometrische Verfahren
 • Magnet- oder Chipkarte
-Zugriffskontrolle, z. B.
+Zugriffskontrolle, zum Beispiel
 • Verschlüsselung von Datenträgern
 • Löschung von Datenträgern
 • User/Rollenkonzept
@@ -773,7 +724,7 @@ Betreiben von IT-Systemen
 (§ 4 Absatz 2 Nummer 8)
 Themenkreis
 LF 3, LF 4, LF 5, LF 6, LF 7, LF 8, LF 9, LF 11
-01 Schichtenmodelle, z. B. OSI, TCP/IP benennen
+01 Schichtenmodelle, zum Beispiel OSI, TCP/IP benennen
 und zuordnen können
 - |Pv4/IPv6
 • MAC
@@ -782,7 +733,7 @@ Switching
 ARP
 - TCP/UDP
 02 Netzwerkkomponenten vergleichen und be-
-schreiben können, z. B.
+schreiben können, zum Beispiel
 - Switch
 - Bridge
 - Router
@@ -804,12 +755,12 @@ Netzwerktopologie (FI DV/FI SI)
 04 Peer 2 Peer bzw. Client-Server-Konzepte verglei-
 chen und hinsichtlich ihres Einsatzes bewerten
 können
-- Dateifreigaben, z. B. SMB/CIFS
-- Datenabruf, z. B. HTTP. ODBC
+- Dateifreigaben, zum Beispiel SMB/CIFS
+- Datenabruf, zum Beispiel HTTP. ODBC
 05
 Ubertragungsprotokolle und ihre Eigenschaften
 erläutern und zielgerichtet einsetzen können,
-z. B.
+zum Beispiel
 TCP/UDP
 - HTTP/HTTPS
 06 Standortübergreifende und -unabhängige
@@ -890,15 +841,15 @@ Berechtigungskonzepte, Organisationsstrukturen
 (Zugang, Zutritt, Zugriff)
 02 Möglichkeiten der physischen/hardwaretech-
 nischen Absicherung benennen
-- Zugangskontrollen, z. B. Gebäude, Serverraum,
+- Zugangskontrollen, zum Beispiel Gebäude, Serverraum,
 Schrank ..
-- Elementarrisiken, z. B. Feuer, Hochwasser
+- Elementarrisiken, zum Beispiel Feuer, Hochwasser
 03 Möglichkeiten der softwaretechnischen
 Absicherung implementieren können
 - User- und Zugriffsmanagement
 Firewall/Webfilter
 - Portsecurity
-- Verschlüsselung, z. B. Bitlocker
+- Verschlüsselung, zum Beispiel Bitlocker
 04 Verschiedene Service- und Liefermodelle benen-
 nen und bedarfsorientiert auswählen können
 - On Premises, Cloud ....
@@ -908,7 +859,7 @@ können
 • Datenaustauschformate: XML, JSON, CSV u. a.
 • Bildung eines Data Lake o. a.
 06 Netzwerkkomponenten und -protokolle be-
-schreiben können, z. B.
+schreiben können, zum Beispiel
 - NAS
 - SAN
 - iSCSI
@@ -955,7 +906,7 @@ LF 5, LF 7, LF 10, LF 12
 Schnittstellen nutzen
 • Datenaustauschformate (XML, JSON ...)
 • SQL
-- API, z. B. REST
+- API, zum Beispiel REST
 04 Situationsgerechte Auswahl einer passenden
 Programmiersprache begründen können
 • Performance, Speicherverbrauch
@@ -969,7 +920,7 @@ Die Darstellung soll in allgemein verständlichem
 Programm- oder Pseudocode erfolgen
 Im Prüfungskontext muss der Code nicht 1:1 kompilier-
 bar sein, Syntaxfehler werden toleriert.
-Kontrollstrukturen (z. B. durch Einrücken) müssen
+Kontrollstrukturen (zum Beispiel durch Einrücken) müssen
 ersichtlich sein.
 06 Cyber-physische Systeme beschreiben und
 erweitern können
@@ -980,11 +931,11 @@ erweitern können
 - Kenntnis des Zugriffs auf Sensoren und Aktoren
 07 Wiederkehrende Systemabläufe mithilfe von
 Skripten automatisieren und überwachen kön-
-Shellprogrammierung, z. B. PowerShell, Bash
-- Skriptprogrammierung, z. B. Python ....
+Shellprogrammierung, zum Beispiel PowerShell, Bash
+- Skriptprogrammierung, zum Beispiel Python ....
 08 Qualitätssicherung und Tests
 - Black Box-/White Box-Tests
-- Grundsätzliches Vorgehen beim Testen, z. B. print-
+- Grundsätzliches Vorgehen beim Testen, zum Beispiel print-
 Debugging, TDD, Unit-Test, E2E Test
 Beispiele für betriebliche Handlungen/
 Qualifikationen
@@ -1006,12 +957,12 @@ Softwareanwendungen
 Themenkreis
 LF 5, LF 7, LF 8, LF 10a, LF 11a, LF 12a
 01 Lasten-/Pflichtenheft erstellen können
-02 Vorgehensmodelle unterscheiden können, z. B.
-- Klassische Modelle, z. B.
+02 Vorgehensmodelle unterscheiden können, zum Beispiel
+- Klassische Modelle, zum Beispiel
 • Wasserfallmodell
 • Spiralmodell
 • V-Modell
-- Agile Modelle, z. B.
+- Agile Modelle, zum Beispiel
 • Scrum
 03
 Strukturierte Analyse- und Designverfahren
@@ -1026,13 +977,13 @@ delle und Strukturen aus fachlichen Anfor
 derungen ableiten, Schnittstellen festleger
 geeignete Programmiersprachen auswähle
 06
-Konzepte von Programmiersprachen (z. B. struk-
+Konzepte von Programmiersprachen (zum Beispiel struk-
 turiert, prozedural, funktional, objektorientiert)
 kennen und exemplarisch Programmiersprachen
 nennen können
 07
 Software-Entwicklungswerkzeuge aufgabenbe.
-zogen auswählen und anwenden können, z. B
+zogen auswählen und anwenden können, zum Beispiel
 - Editor
 • IDE
 - Programmgenerator
@@ -1056,7 +1007,7 @@ Aktivitatsdiagramm
 11 Normalisierung anwenden können (1. bis 3.
 Normalform)
 12 Architektur- und Design-Pattern anwenden
-können, z. B.
+können, zum Beispiel
 • Observer
 • Singleton
 - Factory
@@ -1094,7 +1045,7 @@ Themenkreis
 16 Algorithmen erstellen können
 Pseudocode
 Objektorientierte Programmiermethodenkon-
-zepte anwenden können, z. B.
+zepte anwenden können, zum Beispiel
 • Kapselung
 - Vererbung
 • Polymorphie
@@ -1104,7 +1055,7 @@ zepte anwenden können, z. B.
 Einfache Such- und Sortier-Algorithmen kennen
 - Lineare Suche
 - Binäre Suche
-- Elementares Sortieren, z. B. Bubble Sort, Selection
+- Elementares Sortieren, zum Beispiel Bubble Sort, Selection
 Sort, Insertion Sort
 19
 Bestehende Funktionen/Klassen erweitern
