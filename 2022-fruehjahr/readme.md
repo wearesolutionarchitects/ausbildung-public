@@ -4,70 +4,78 @@ Termin: Mittwoch, 30. März 2022
 
 ## Inhalt
 
-1. 01-02 Machbarkeit und Wirtschaftlichkeit von Projekten  
+### 1. 01-02 Machbarkeit und Wirtschaftlichkeit von Projekten  
 
 - Angebotsdaten, Projektauftrag, formale Informationen, Kosten/Nutzen  
   - [Aufgabe 1ca](#1ca-lastenheft-ist-analyse-zeitrahmen) (Lastenheft, Ist-Analyse, Zeitrahmen)
   - [Aufgabe 1cb](#1cb-angebotsdaten-projektauftrag-formale-informationen) (formale Informationen)
   - Aufgabe 4c (Lizenzkosten vs. Eigenentwicklung)
 
-2. 01-03 Arbeitsaufgaben im Rahmen von Geschäftsprozessen  
-   - Kundenkommunikation, Präsentation beim Erstgespräch, Außendienst  
-   - **Aufgaben:**  
-     - [Aufgabe 1a](#1a-präsentation-erstgespräch) (Präsentation, Erstgespräch)  
-     - Aufgabe 1c (Informationsbedarf für Projekt)
+### 2. 01-03 Arbeitsaufgaben im Rahmen von Geschäftsprozessen  
 
-3. 02-03 Zielgerichtete Methoden zur Kundenberatung  
-   - Nutzenorientierte Leistungsbeschreibung, Vorteile für den Kunden  
-   - **Aufgaben:**  
-     - Aufgabe 1b (Leistungsangebote überzeugend formulieren)
+- Kundenkommunikation, Präsentation beim Erstgespräch, Außendienst  
+  - [ ] [Aufgabe 1a](#1a-präsentation-erstgespräch) (Präsentation, Erstgespräch)  
+  - [ ] Aufgabe 1c (Informationsbedarf für Projekt)
 
-4. 02-04 Informationen aufbereiten und präsentieren  
-   - Erstellung einer Präsentationsfolie, zielgruppengerechte Darstellung  
-   - **Aufgaben:**  
-     - Aufgabe 1a (Folie zur Unternehmensdarstellung)
+### 3. 02-03 Zielgerichtete Methoden zur Kundenberatung  
 
-5. 03-01 Marktgängige IT-Systeme (Hardwarekomponenten und Anschlüsse)  
-   - CPU, RAM, SSD, GPU-Schnittstellen (DVI, HDMI, DisplayPort usw.)  
-   - **Aufgaben:**  
-     - Aufgabe 2a, 2b, 2c, 2d, 2e, 2f, 2g (Mainboard-CPU, RAM, SSD, Grafikkarte, USB-Anschlüsse, Taktfrequenz etc.)
+- Nutzenorientierte Leistungsbeschreibung, Vorteile für den Kunden  
+  - [ ] Aufgabe 1b (Leistungsangebote überzeugend formulieren)
 
-6. 03-02 Typische IT-Systeme und deren Einsatzbereiche  
-   - Nutzung von WLAN, OSI-Modell, Netzwerkprotokolle  
-   - **Aufgaben:**  
-     - Aufgabe 3 (WLAN-Einrichtung, WPA-PSK/Enterprise, OSI-Schichten)
+### 4. 02-04 Informationen aufbereiten und präsentieren
 
-7. 03-03 Leistungsfähigkeit und Energieeffizienz von IT-Systemen  
-   - Taktfrequenz, CPU-Kerne, Cache, logische Prozessoren  
-   - **Aufgaben:**  
-     - Aufgabe 2g (CPU-Werte, Caches)
+- Erstellung einer Präsentationsfolie, zielgruppengerechte Darstellung  
+  - [ ] Aufgabe 1a (Folie zur Unternehmensdarstellung)
 
-8. 04-01 IT-Systeme konzipieren, konfigurieren, testen, dokumentieren  
-   - Workspace-Management-Software (cloudbasiert / on-premises)  
-   - **Aufgaben:**  
-     - Aufgabe 4a, 4b (Software-Funktionen, Cloud vs. on-premises)
+### 5. 03-01 Marktgängige IT-Systeme (Hardwarekomponenten und Anschlüsse)
 
-9. 04-05 Aktivitäten bei Installationen und Konfigurationen  
-   - Softwarepaketierung, Patch-Management, RADIUS/EAP-Konfiguration  
-   - **Aufgaben:**  
-     - Aufgabe 3b (WPA-Enterprise RADIUS)  
-     - Aufgabe 4a (Patchmanagement, Inventarisierung)
+- CPU, RAM, SSD, GPU-Schnittstellen (DVI, HDMI, DisplayPort usw.)  
+- **Aufgaben:**  
+- Aufgabe 2a, 2b, 2c, 2d, 2e, 2f, 2g (Mainboard-CPU, RAM, SSD, Grafikkarte, USB-Anschlüsse, Taktfrequenz etc.)
 
-10. 04-07 Programmierwerkzeuge, Pseudocode  
-    - Struktogramm, Schleifen (for, while), Datenbankabfragen  
-    - **Aufgaben:**  
-      - Aufgabe 4d (Struktogramm für die automatische Konfiguration)
+### 6. 03-02 Typische IT-Systeme und deren Einsatzbereiche  
 
-11. 03-04 Wirtschaftlichkeit von IT-Systemen bestimmen  
-    - Lizenzkosten vs. Eigenentwicklung (Kalkulation)  
-    - **Aufgaben:**  
-      - Aufgabe 4c (interne vs. externe Lizenzkosten)
+- Nutzung von WLAN, OSI-Modell, Netzwerkprotokolle  
+- **Aufgaben:**  
+  - [ ] Aufgabe 3 (WLAN-Einrichtung, WPA-PSK/Enterprise, OSI-Schichten)
 
-12. 06-04 Umsetzung eines arbeitsplatzbezogenen Sicherheitskonzeptes  
-    - WLAN-Sicherheit (WPA, RADIUS), Datenübertragung in die Cloud  
-    - **Aufgaben:**  
-      - Aufgabe 3b (WPA-Enterprise)  
-      - Aufgabe 4e (Daten-Upload in die Cloud)
+### 7. 03-03 Leistungsfähigkeit und Energieeffizienz von IT-Systemen
+
+- Taktfrequenz, CPU-Kerne, Cache, logische Prozessoren  
+- **Aufgaben:**  
+  - [ ] Aufgabe 2g (CPU-Werte, Caches)
+
+#### 8. 04-01 IT-Systeme konzipieren, konfigurieren, testen, dokumentieren  
+
+- Workspace-Management-Software (cloudbasiert / on-premises)  
+- **Aufgaben:**  
+  - [ ] Aufgabe 4a, 4b (Software-Funktionen, Cloud vs. on-premises)
+
+### 9. 04-05 Aktivitäten bei Installationen und Konfigurationen
+
+- Softwarepaketierung, Patch-Management, RADIUS/EAP-Konfiguration  
+- **Aufgaben:**  
+  - [ ] Aufgabe 3b (WPA-Enterprise RADIUS)  
+  - [ ]Aufgabe 4a (Patchmanagement, Inventarisierung)
+
+### 10. 04-07 Programmierwerkzeuge, Pseudocode
+
+- Struktogramm, Schleifen (for, while), Datenbankabfragen  
+- **Aufgaben:**  
+  - [ ] Aufgabe 4d (Struktogramm für die automatische Konfiguration)
+
+### 11. 03-04 Wirtschaftlichkeit von IT-Systemen bestimmen
+
+- Lizenzkosten vs. Eigenentwicklung (Kalkulation)  
+-**Aufgaben:**  
+  - [ ] Aufgabe 4c (interne vs. externe Lizenzkosten)
+
+## 12. 06-04 Umsetzung eines arbeitsplatzbezogenen Sicherheitskonzeptes
+
+- WLAN-Sicherheit (WPA, RADIUS), Datenübertragung in die Cloud  
+- **Aufgaben:**  
+  - [ ] Aufgabe 3b (WPA-Enterprise)  
+  - [ ] Aufgabe 4e (Daten-Upload in die Cloud)
 
 ---
 
