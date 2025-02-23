@@ -186,3 +186,154 @@ Welche formale Information könnte darüber hinaus auch noch erforderlich sein? 
 ...
 
 ---
+
+## 2. Aufgabe
+
+Das Angebot wurde angenommen. Nach der Beschaffung einzelner Hardwarekomponenten besteht Ihre Aufgabe nun darin, die
+Standardarbeitsplätze zu konfigurieren. Sie solen einzelne Komponenten einbauen und die Schnittstellen der Computer identifizieren. (24 Punkte)
+
+---
+
+### 2. a Mainboard-CPU
+
+Sie möchten die CPU in den CPU-Sockel des Mainboards einbauen. Dazu lesen Sie sich die folgende Anleitung durch.
+
+**CPU installation:** To fit the processor in the socket, first lift the lever. The CPU fits in only one correct orientation. Make sure the arrow on top of the processor is aligned with the arrow on the processor socket. Do not force the CPU into the socket to prevent bending the connectors on the socket and damaging the CPU. Gently push the processor into place. Push the lever down to secure the processor.
+
+![Mainboard-CPU](image.png)
+
+---
+
+#### 2. aa
+
+Nennen Sie die drei Schritte für den Einbau der CPU. (3 Punkte)
+
+1. ...
+2. ...
+3. ...
+
+---
+
+#### 2. ab
+
+Beschreiben Sie, welche beiden Punkte beim Schritt 2 besonders zu beachten sind. (2 Punkte)
+
+1. ...
+2. ...
+
+---
+
+### 2. b
+
+Nach dem Einsetzen der CPU auf das Mainboard wolen Sie den CPU-Kühler montieren. Dem CPU-Kühler liegt eine kleine Tube Wärmeleitpaste bei.
+
+Erläutern Sie, welche Aufgabe die Wärmeleitpaste hat. (2 Punkte)
+
+...
+
+---
+
+### 2. c RAM
+
+Sie möchten nun den DDR 4 Arbeitsspeicher in die Slots des Motherboards einsetzen. Sie haben zwei DDR 4 RAM Riegel und möchten den RAM im Dual Channel Modus betreiben. Auf dem Motherboard sehen Sie die folgenden Slots:
+
+![RAM](image-1.png)
+
+Erläutern Sie, was Sie beim Einsetzen der beiden Speicherriegel beachten müssen, damit der RAM im Dual Channel Modus
+arbeitet. (3 Punkte)
+
+...
+
+---
+
+### 2. d SSD
+
+Als Datenspeicher haben Sie sich für eine SSD entschieden. Zur Wahl steht eine SATA SSD und eine M.2 SSD.
+Nennen Sie einen Vorteil und einen Nachteil einer M.2 SSD gegenüber einer SATA SSD. (2 Punkte)
+
+Vorteil: ...
+Nachteil: ...
+
+---
+
+### 2. e Grafikkarte
+
+Nachdem der PC fertig zusammengebaut ist, möchten Sie den Monitor an die Grafikkarte anschließen. Sie sehen an der Grafik-
+karte die folgenden Anschlüsse:
+
+![Grafikkarte](image-2.png)
+
+Um welche Anschlüsse handelt es sich bei den mit A, B und C markierten Schnittstellen?
+Nennen Sie die korrekten Bezeichnungen/Abkürzungen. (3 Punkte)
+
+A: ...  
+B: ...  
+C: ...  
+
+---
+
+### 2. f besonderer USB-Anschluss (BIOS-Flashback)
+
+An der Rückseite des PC sehen Sie die folgenden Anschlüsse:
+
+![USB-Anschluss](image-3.png)
+
+#### 2. fa
+
+Beschreiben Sie, welche Besonderheit der umrahmte USB-Anschlus hat. (2 Punkte)
+
+...
+
+---
+
+#### 2. fb
+
+Nennen Sie zwei Vorteile des USB-C Anschlusses gegenüber dem USB-3 Anschlus. (2 Punkte)
+
+![USB-C](image-4.png)
+
+1. ...
+2. ...
+
+---
+
+### 2. g Taktfrequenz, Cache, logische Prozessoren
+
+Sie testen den PC. Der Taskmanager zeigt die folgenden Daten:
+
+| | |
+| :--- | :--- |
+| Basisgeschwindigkeit | 3,40 GHz |
+| Sockets | 1 |
+| Kerne | 16 |
+| Logische Prozessoren | 32 |
+| Virtualisierung | Aktiviert |
+| L1-Cache | 1 MB |
+| L2-Cache | 8 MB |
+| L3-Cache | 64 MB |
+
+---
+
+#### 2. ga Logische Prozessoren
+
+Erläutern Sie den Begriff „Logische Prozessoren". (2 Punkte)
+
+...
+
+---
+
+#### 2. gb Cache-Speicher
+
+Beschreiben Sie allgemein die Aufgabe eines „Cache"-Speichers. (2 Punkte)
+
+...
+
+---
+
+#### 2. gc Taktfrequenz
+
+Geben Sie die Taktfrequenz von 3,4 GHz in Hertz an. (1 Punkt)
+
+...
+
+---
