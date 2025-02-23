@@ -49,11 +49,11 @@ Sie sind in dem Projektteam, das geeignete Systeme auswählt.
 
 ### a. (? Punkte)
 
-Nach der Auswertung von vier Firmenangeboten ergibt sich die folgende Tabelle. Unternehmen 3 bietet ausschließlich eine __Software as a Service (SAAS) Lösung__ an.
+Nach der Auswertung von vier Firmenangeboten ergibt sich die folgende Tabelle. Unternehmen 3 bietet ausschließlich eine **Software as a Service (SAAS) Lösung** an.
 
 |Nr.|Komponente|Gewichtung|Unternehmen 1||Unternehmen 2||Unternehmen 3||Unternehmen 4||
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-||||Punkte|__gP__|Punkte|__gP__|Punkte|__gP__|Punkte|__gP__|
+||||Punkte|**gP**|Punkte|**gP**|Punkte|**gP**|Punkte|**gP**|
 |1|Grafikkarte|20 %|3|60|2|40|4|80||60|
 |2|Arbeitsspeicher (RAM)|25 %||100|3|75|4|100|3|75|
 |3|Monitor|40 %|2|80||40|4|160|4||
@@ -89,11 +89,11 @@ Das ausgewählte Unternehmen legt folgendes Angebot vor:
 |:---|:---|:---|
 |Monitor|450,00 €||
 |PC|720,00 €||
-|Softwareleasing|50,00 €|pro Monat __und__ Arbeitsplatz|
-|Wartungspauschale|1200,00 €|pro Jahr für __alle__ Geräte|
-|||Rabatt __5 %__ auf __PC__ und __Monitor__|
+|Softwareleasing|50,00 €|pro Monat **und** Arbeitsplatz|
+|Wartungspauschale|1200,00 €|pro Jahr für **alle** Geräte|
+|||Rabatt **5 %** auf **PC** und **Monitor**|
 
-Berechnen Sie die !aufenden Kosten __pro Monat__ für dæ gesamte CAD-Arbeitsplätze unter der Voraussetzung, dass die Nutzungsdauer der __Monitore 4 Jahre__ und der  __PCs drei Jahre__  Geben Sie den Rechenweg an.
+Berechnen Sie die !aufenden Kosten **pro Monat** für dæ gesamte CAD-Arbeitsplätze unter der Voraussetzung, dass die Nutzungsdauer der **Monitore 4 Jahre** und der  **PCs drei Jahre**  Geben Sie den Rechenweg an.
 
 ...
 
@@ -105,7 +105,7 @@ Nach der Beschaffung und der Lieferung sollen die Büros vor Ort eingerichtet we
 Die gelieferten Monitore besitzen eventuell die nachstehenden Anschlüsse.
 Ordnen sie die Anschlüsse den Abbildungen zu:
 
-__Anschlüsse:__
+**Anschlüsse:**
 
 |Anschluss|Zuordnung|
 |:---|:---|
@@ -114,7 +114,7 @@ __Anschlüsse:__
 |DVI|...|
 |DisplayPort (DP)|...|
 
-__Abbildungen:__
+**Abbildungen:**
 ![Alt text](image.png)
 
 ---
@@ -186,7 +186,7 @@ LED blinkt unregelmäßig.
 
 ### b. (4 Punkte)
 
-Nach der Eingabe des Befehls __"ipconfig /all"__ auf der Kommanduzeile Ihres PCs erhalten sie u. a. die fo!genden weiteren Informationen (Abb. 1)
+Nach der Eingabe des Befehls **"ipconfig /all"** auf der Kommanduzeile Ihres PCs erhalten sie u. a. die fo!genden weiteren Informationen (Abb. 1)
 
 ![Abb. 1](image-2.png)
 
