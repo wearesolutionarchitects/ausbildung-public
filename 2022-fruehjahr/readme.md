@@ -5,10 +5,11 @@ Termin: Mittwoch, 30. März 2022
 ## Inhalt
 
 1. 01-02 Machbarkeit und Wirtschaftlichkeit von Projekten  
-   - Angebotsdaten, Projektauftrag, formale Informationen, Kosten/Nutzen  
-   - **Aufgaben:**  
-     - Aufgabe 1c (Lastenheft, Ist-Analyse, Zeitrahmen)  
-     - Aufgabe 4c (Lizenzkosten vs. Eigenentwicklung)
+
+- Angebotsdaten, Projektauftrag, formale Informationen, Kosten/Nutzen  
+  - [Aufgabe 1ca](#1ca-lastenheft-ist-analyse-zeitrahmen) (Lastenheft, Ist-Analyse, Zeitrahmen)
+  - [Aufgabe 1cb](#1cb-angebotsdaten-projektauftrag-formale-informationen) (formale Informationen)
+  - Aufgabe 4c (Lizenzkosten vs. Eigenentwicklung)
 
 2. 01-03 Arbeitsaufgaben im Rahmen von Geschäftsprozessen  
    - Kundenkommunikation, Präsentation beim Erstgespräch, Außendienst  
@@ -150,3 +151,30 @@ nen Leistungsangebote möglichst auftrags- und nutzenbezogen erläutert werden. 
 
 ---
 
+## 1.c Informationsbedarf für Projekt
+
+Die AlRound AG sol ein Angebot für das Projekt zur kompleten Neuorganisation der Verwaltung und der IT-Gesamtkonzeption
+der Rullix GmbH erstellen.
+
+### 1.ca Lastenheft, Ist-Analyse, Zeitrahmen
+
+Schildern Sie analog des Beispiels, warum folgende Informationen für die Erstellung des Angebots benötigt werden:
+(6 Punkte)
+
+| **Informationen** | **Erläuterung** |
+| :--- | :--- |
+| Beispiel: Räumliche Gegebenheiten | Bestimmung der Entfernungen, um den logistischen Aufwand abschätzen zu können |
+| Lastenheft | ... |
+| Geplanter Zeitramen | ... |
+| Ergebnisse der Ist-Analyse | ... |
+
+---
+
+### 1.cb Angebotsdaten, Projektauftrag, formale Informationen
+
+Zur Erstellung eines Angebots werden auch formale Informationen benötigt, z. B. die Adresse.
+Welche formale Information könnte darüber hinaus auch noch erforderlich sein? (1 Punkt)
+
+...
+
+---
