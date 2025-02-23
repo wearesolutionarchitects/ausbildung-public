@@ -1,13 +1,8 @@
----
-marp: true
-paginate: true
-class: invert
-theme: default
----
-
 # Abschlussprüfung Herbst 2023 Teil 1 der Abschlussprüfung
 
-__Einrichten eines IT-gestützten Arbeitsplatzes.__
+**Einrichten eines IT-gestützten Arbeitsplatzes.**
+
+Termin: Dienstag, 19. September 2023
 
 - 4 Aufgaben
 - 90 Minuten Prüfungszeit
@@ -18,9 +13,25 @@ __Einrichten eines IT-gestützten Arbeitsplatzes.__
 ## Themen / Lernfelder
 
 - Use Case Diagramm (UML)
-- ERD (Entity-Relationship-Diagramm)
+  - [ ] **siehe Aufgabe 1a**
+- ERD (Entity-Relationship-Diagramm)  
+  - [ ] **siehe Aufgaben 3c, 4c**
 - SQL-Abfragen
+  - [ ] **siehe Aufgaben 3cb, 3cc, 3cd, 4cb, 4cc**
 - Übersetzung englischer Texte zum Service in Deutsch
+  - [ ] **siehe Aufgabe 1d**
+- Prozessanalyse und Prozessverbesserung
+  - [ ] **siehe Aufgaben 1b, 1c**
+- Kommunikationsmodelle (Vier-Ohren-Modell)  
+  - [ ] **siehe Aufgabe 1e**
+- Preiskalkulation und Service-Pricing  
+  - [ ] **siehe Aufgaben 1d, 2e**
+- Arbeitsschutz, Ergonomie und Telearbeit  
+  - [ ] **siehe Aufgaben 2a, 2b, 2c, 2d**
+- Datenschutz und IT-Sicherheit (BSI, TOM, Verschlüsselung, VPN)
+- [ ] **siehe Aufgaben 3a, 3b, 3c, 3d**
+- Projektmanagement (Gantt, Netzplan)
+  - [ ] **siehe Aufgaben 4a, 4b**
 
 ## Situation
 
