@@ -1,88 +1,80 @@
-# Übergeordnete Projektsituation
+# "Ganzheitliche Aufgabe I – Themenübersicht"
 
-Alle fünf Handlungsschritte beziehen sich auf ein Szenario bei der „WärL Chemie GmbH“, die für ein neues Gebäude eine automatisierte Gebäudesteuerung einführt. Die IT-Abteilung entwickelt die Steuerungs- und Wartungsprozesse selbst. Die Prüfungsaufgaben sind auf Teilaspekte dieses Projekts zugeschnitten und erfordern jeweils unterschiedliche IT-Fachkenntnisse.
+Termin: Mittwoch, 24. November 2021
 
-3. Inhalte der fünf Handlungsschritte (Aufgabenkomplexe)
+---
 
-3.1 Handlungsschritt 1 – UML-Diagramme: Zustands- und Anwendungsfalldiagramm
-	1.	Zustandsdiagramm (State Machine Diagram) für einen Lichtsteuerungs-Controller:
-	•	Zustände „wartend“, „auto“, „manuell“, „zeitgesteuert“
-	•	Sensorerkennung und Übergänge (z. B. Licht ein-/ausschalten, verzögertes Einschalten, manuelle Eingriffe)
-	•	Typische UML-Notation: Anfangszustand, Endzustand, Übergänge mit Trigger-/Guard-Bedingungen, Aktionen.
-	2.	Anwendungsfalldiagramm (Use-Case-Diagramm) für das Gebäudemanagement:
-	•	Akteure: verschiedene Mitarbeiter-Rollen (Wartungsmitarbeiter, Administrator, allgemein jeder Mitarbeiter)
-	•	Anwendungsfälle: Daten auslesen, Sensordaten auswerten, Login, Wartungsaufgaben etc.
+## Inhaltsverzeichnis
 
-	Themenschwerpunkte: UML-Grundlagen, State Machine Diagrams, Use-Case-Diagrams, Identifikation von Zuständen, Übergängen und Akteuren.
+- [1. UML-Diagramme: Zustands- und Anwendungsfalldiagramm](#1-uml-diagramme-zustands--und-anwendungsfalldiagramm)
+- [2. Objektorientierte Programmierung und Pseudocode](#2-objektorientierte-programmierung-und-pseudocode)
+- [3. UML-Modellierung für ein Smartphone-Dashboard--observer-pattern](#3-uml-modellierung-für-ein-smartphone-dashboard--observer-pattern)
+- [4. ER-Modellierung und Datenbankstruktur](#4-er-modellierung-und-datenbankstruktur)
+- [5. SQL-Abfragen-und-tabellenmanipulation](#5-sql-abfragen-und-tabellenmanipulation)
 
-3.2 Handlungsschritt 2 – OOP/Pseudocode: Methoden zur Temperaturerfassung
-	1.	Pseudocode für onNewValue(...):
-	•	Erstellung eines Value-Objekts (Parameter: sensor_id, value, time)
-	•	Speichern in einer TempList (Aufruf von setValue(...))
-	•	Methodensignatur: onNewValue(sensor_id: Integer, value: Double, time: Long)
-	2.	Pseudocode für maxPeriod(sensor_id: Integer, mindestwert: Double):
-	•	Bestimmung der längsten Sequenz nacheinander erfasster Messwerte, die über einem bestimmten Grenzwert liegen.
-	•	Beispielwerte werden gegeben (22, 23, 21, …). Ergebnis: maximale aufeinanderfolgende Messreihen oberhalb des Grenzwerts.
+---
 
-	Themenschwerpunkte: Objektorientierung, Klassenstruktur (Value, TempList), Schleifen, If-Bedingungen, Zählen/Sequenzermittlung, allgemeine Pseudocode-Syntax.
+## Ganzheitliche Aufgabe I – Themenübersicht
 
-3.3 Handlungsschritt 3 – UML-Modellierung fürs Smartphone-Dashboard & Observer Pattern
-	1.	UML-Klassendiagramm für die Klasse Tank:
-	•	Instanzvariablen (z. B. bezeichner, fuellstand, fassungsvermoegen)
-	•	Konstruktor und Methoden (Get-/Set-Methoden)
-	•	Datentypen für Attribute und Sichtbarkeiten (private, public etc.)
-	2.	Observer-Muster (TankDaten, Dashboard, History):
-	•	Interface Observer: update()-Methode
-	•	Interface ObservedSubject: addObserver(), removeObserver(), notifyObservers()
-	•	Klassen TankDaten, Dashboard, History: Implementierung des Observer Patterns
-	•	UML-Sequenzdiagramm: Erzeugung von Objekten (Client → TankDaten / Dashboard), Aufrufe von addObserver, setDaten, notifyObservers, update, display.
+Nachfolgend sind die fachlichen Schwerpunkte aus der ganzheitlichen Aufgabe I für Fachinformatiker/innen Anwendungsentwicklung zusammengefasst. Alle prüfungsrelevanten Inhalte sind in fünf Handlungsschritte (Aufgabenkomplexe) gegliedert.
 
-	Themenschwerpunkte: UML-Klassendiagramme (Attribute, Methoden, Sichtbarkeiten), Implementierung des Observer Patterns, Sequenzdiagramme, Methodenaufrufe und Interaktionsabläufe.
+---
 
-3.4 Handlungsschritt 4 – ER-Modellierung und Datenbanknormalisierung
-	1.	ER-Modell zur Speicherung von Sensordaten:
-	•	Entitäten: Sensor, Sensor-Art, Standort, Messung, Aktion, Aktionsprotokoll etc.
-	•	Beziehungstypen (z. B. 1:n, m:n) und Besonderheiten (z. B. „Ein Sensor hat genau eine Sensor-Art“, „Von einem Sensor können mehrere Messungen ausgehen“).
-	2.	Problem bei Wegfall der Tabelle Aktion-Art:
-	•	Entfernen des Fremdschlüssels, Hinzufügen der Beschreibung der Aktionsart in der Tabelle Aktion (führt u. a. zu Redundanzen / Verletzung von Normalformen).
+## 1. UML-Diagramme: Zustands- und Anwendungsfalldiagramm
 
-	Themenschwerpunkte: Relationale Datenmodellierung, Entity-Relationship-Diagramme, Normalisierung, Redundanzen vermeiden, Fremdschlüssel.
+- **Zustandsdiagramm** (State Machine Diagram) für eine automatisierte Lichtsteuerung  
+  - Zustände (z. B. „wartend“, „auto“, „manuell“, „zeitgesteuert“)  
+  - Übergänge (Sensorerkennung, zeitgesteuerte Abschaltung, manueller Eingriff)  
+  - Aktionen (Licht ein-/ausschalten)  
 
-3.5 Handlungsschritt 5 – SQL-Abfragen und Tabellenmanipulation
-	1.	Korrektur fehlerhafter Datensätze via UPDATE
-	2.	Abfrage (SELECT) der Urlaubstage aller Mitarbeiter im Jahr 2021
-	3.	Datenbankstruktur anpassen:
-	•	Tabelle Fehlzeit löschen (DROP TABLE)
-	•	Neue Tabelle Fehlzeitgrund erstellen (z. B. Fehlzeitgrund mit ID und Bezeichnung)
-	•	Neue Tabelle Fehlzeit anlegen, die über Grund_ID (als Fremdschlüssel) mit Fehlzeitgrund verknüpft ist.
+- **Anwendungsfalldiagramm** (Use-Case-Diagramm) für das Gebäudemanagement  
+  - Akteure (Wartungsmitarbeiter, Administrator, allgemeine Mitarbeiter)  
+  - Anwendungsfälle (Login, Sensordaten lesen/auswerten, Wartungsaufgaben)  
 
-	Themenschwerpunkte: SQL-Grundlagen (DML – SELECT, UPDATE, INSERT, DELETE), DDL (CREATE TABLE, DROP TABLE, ALTER TABLE), Fremdschlüsselbeziehungen, JOIN- und Restrukturierungsaufgaben.
+---
 
-4. Übersicht der abgefragten Kompetenzen
-	1.	UML-Kenntnisse
-	•	Anwendungsfalldiagramme, Zustandsdiagramme, Klassendiagramme (einschl. Sichtbarkeiten, Methoden/Attribute), Sequenzdiagramme.
-	2.	Objektorientierung in Pseudocode
-	•	Klassenstrukturen (Konstruktoren, Get/Set), Schleifen, Verzweigungen, methodische Umsetzung in einer Java-ähnlichen Syntax.
-	3.	Observer Pattern
-	•	Schnittstellendefinition (Observer, ObservedSubject), Implementierung in konkreten Klassen, Ereignisbenachrichtigung (notify, update).
-	4.	Relationale Datenbanken
-	•	ER-Modellierung (1:n, n:m, Normalisierung, Vermeidung von Redundanz, Fremdschlüssel).
-	•	Grundlegende DDL-Befehle (CREATE TABLE, DROP TABLE, ALTER TABLE) und DML-Befehle (SELECT, UPDATE, INSERT, DELETE).
-	•	Fremdschlüsseldefinition (REFERENCES), Primärschlüssel.
-	5.	Allgemeine Prüfungskompetenzen
-	•	Arbeiten nach Vorgaben (z. B. max. Anzahl anzugebenen Items), Genauigkeit bei Syntax, Einhaltung vorgegebener Struktur.
-	•	Zeitmanagement (90 Minuten) und Auswahl von 4 aus 5 Aufgaben.
+## 2. Objektorientierte Programmierung und Pseudocode
 
-5. Fazit: Prüfungsschwerpunkte
+- **Methoden zur Temperaturerfassung**  
+  - `onNewValue(...)`: Messwerte in einer Liste speichern  
+  - `maxPeriod(...)`: Längste Sequenz an Messwerten oberhalb eines Mindestwertes ermitteln  
+- **Pseudocode-Elemente**: Schleifen, Bedingungen, Methodenaufrufe, Objektinstanziierung  
 
-Die Ganzheitliche Aufgabe I ist typisch für die schriftliche Prüfung angehender Fachinformatiker/innen (Anwendungsentwicklung). Sie integriert wesentliche Kompetenzen:
-	•	Softwareengineering / Modellierung (UML, Objektorientierung, Datenmodellierung)
-	•	Programmierung (Pseudocode, OOP-Konzepte, Methoden)
-	•	Datenbanken (ER-Modell, Normalformen, SQL-Queries, DDL, DML)
-	•	Grundlagen der Softwarearchitektur (Observer Pattern)
+---
 
-Wer diese Aufgabe bearbeitet, sollte fundierte Kenntnisse in UML-Diagrammarten, Pseudocode-Strukturen, SQL-Befehlen sowie den Entwurf und die Normalisierung von Datenbankschemata haben. Darüber hinaus zeigt die Prüfung, dass Verständnis für die Dokumentation (z. B. Sequenzdiagramm) und für das Zusammenspiel verschiedener Softwarekomponenten (Controller, Observer, Datenhaltung) gefragt ist.
+## 3. UML-Modellierung für ein Smartphone-Dashboard & Observer Pattern
 
-Kurz zusammengefasst
+- **UML-Klassendiagramm** für die Klasse `Tank`  
+  - Instanzvariablen (z. B. `bezeichner`, `fuellstand`, `fassungsvermoegen`)  
+  - Konstruktor, Getter/Setter  
+- **Observer-Muster** (TankDaten, Dashboard, History)  
+  - Interface `Observer` (Methode `update()`)  
+  - Interface `ObservedSubject` (`addObserver()`, `removeObserver()`, `notifyObservers()`)  
+- **UML-Sequenzdiagramm**  
+  - Objekterzeugung (Client → `TankDaten`/`Dashboard`)  
+  - Aufrufketten (`addObserver`, `setDaten`, `notifyObservers`, `update`, `display`)  
 
-Die PDF-Prüfungsaufgabe testet vor allem UML-Diagramme, objektorientierte Programmierung (Pseudocode), ER-Modellierung, SQL-Abfragen, und klassische Softwarekonzepte (z. B. Observer Pattern). Die Handlungsschritte bauen auf einem praxisnahen Szenario auf (Gebäudeautomation, Sensor-/Messdaten, Wartungs- und Verwaltungsaufgaben) und verdeutlichen, wie vielfältig das Einsatzgebiet von Fachinformatiker/innen für Anwendungsentwicklung ist.
+---
+
+## 4. ER-Modellierung und Datenbankstruktur
+
+- **Entity-Relationship-Modell** für Sensordaten  
+  - Entitäten (Sensor, Sensor-Art, Standort, Messung, Aktion usw.)  
+  - Beziehungstypen und Kardinalitäten  
+- **Problem bei Reduktion der Tabelle `Aktion-Art`**  
+  - Mögliche Redundanzen oder Verletzung der Normalisierung  
+
+---
+
+## 5. SQL-Abfragen und Tabellenmanipulation
+
+- **Aktualisieren und Abfragen von Datensätzen**  
+  - `UPDATE` zur Korrektur einer fehlerhaften Erfassung  
+  - `SELECT` zur Ermittlung von Urlaubstagen im Jahr 2021  
+- **Anpassen der Datenbankstruktur**  
+  - `DROP TABLE`, `CREATE TABLE`, Fremdschlüsselbeziehungen (`REFERENCES`)  
+  - Neuer Aufbau für Tabellen (`Fehlzeit`, `Fehlzeitgrund`)  
+
+---
+
+> **Hinweis**: Von den fünf Handlungsschritten sind nur vier zu bearbeiten. Jeder Schritt umfasst ein eigenes Themengebiet (UML, OOP, Datenbankmodellierung, SQL). Die hier aufgeführten Schwerpunkte zeigen, welche Kompetenzen (z. B. Modellierung, Programmierung, SQL, ER-Diagramme) relevant sind.
