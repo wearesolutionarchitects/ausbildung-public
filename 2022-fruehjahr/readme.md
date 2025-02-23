@@ -1,12 +1,4 @@
-***
-
-marp: true
-paginate: true
-class: invert
-theme: default
---------------
-
-# Abschlussprüfung Herbst 2022
+# Abschlussprüfung Frühjahr 2022
 
 Termin: Mittwoch, 30. März 2022
 
