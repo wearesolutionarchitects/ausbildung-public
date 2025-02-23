@@ -119,3 +119,34 @@ Ergänzen Sie den Folienbereich um die drei zur Botschaft passenden Aufzählungs
 | - ... |
 
 ---
+
+## 1.b Leistungsangebote überzeugend formulieren
+
+**Aus dem Unternehmensportfolio der AllRound AG sind Ihnen folgende Begriffe im Gedächtnis:**
+
+- Industrie 4.0
+- Support in den Bereichen Prozess- und IT-Management
+- Migrationsunterstützung
+- Big Data
+- Cloud-Hosting in allen Varianten
+- Beratung im Hinblick auf DSGVO und BDSG
+- Webhosting
+- Remarketing von IT-Geraten
+
+Die Leistungsangebote der AllRound AG solen dem Kunden nicht nur erklärt, sondern auch sprachlich überzeugend formuliert
+werden.
+
+Wählen Sie aus den obenstehenden Begrifen drei aus und beschreiben Sie diese dem zukünftigen Kunden so, dass die einzel-
+nen Leistungsangebote möglichst auftrags- und nutzenbezogen erläutert werden. (9 Punkte)
+
+---
+
+| **Leistungsangebot** | **Erläuternder Text, in ganzen Sätzen** |
+| :--- | :--- |
+| Industrie 4.0 |Beispiel: Wir optimieren Ihren Produktionsprozess durch Nutzung intelligenter Informations- und Kommunikationstechnik. Angestrebt wird die Schaffung einer möglichst hohen Flexibilität durch eine weitgehend selbstorganisierte Produktion. |
+| ... | ... |
+| ... | ... |
+| ... | ... |
+
+---
+
