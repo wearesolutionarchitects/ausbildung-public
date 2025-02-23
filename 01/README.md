@@ -16,7 +16,7 @@ LF 1, LF 2, LF 3, LF 5, LF 6
 
 ---
 
-### 01-01 Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können
+### [01-01 Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können](01/01/README.md)
 
 ---
 
