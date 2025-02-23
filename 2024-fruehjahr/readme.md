@@ -1,17 +1,10 @@
----
-marp: true
-paginate: true
-class: invert
-theme: default
----
-
 # Abschlussprüfung Frühjahr 2024 Teil 1 der Abschlussprüfung
 
 Termin: Mittwoch, 28. Februar 2024
 
-__Einrichten eines IT-gestützten Arbeitsplatzes.__
+**Einrichten eines IT-gestützten Arbeitsplatzes.**
 
-__Teil 1 der Abschlussprüfung:__
+**Teil 1 der Abschlussprüfung:**
 
 - 4 Aufgaben
 - 90 Minuten Prüfungszeit
@@ -21,10 +14,27 @@ __Teil 1 der Abschlussprüfung:__
 
 ## Themen / Lernfelder
 
-1. Nutzwertanalyse, laufende Kosten, Leasing vs. Kauf, Zuordnung der Anschlüsse und Schnittstellen, Kaufvertrag, Willenserklärung, Abgrenzung von juritischen Bestandteilen eines Kaufvertrages. Kaufvertragsstörungen und entsprechende Maßnahmen.
-2. ITT-Net
-3. Dateiformate, Umrechnung von Bytes in Bit, RGB Farbraum, Leistungsaufnahme von Netzteilen, Stromkosten
-4. Schutzbedarf, Maßnahmen, Berechnung von Datenübertragungsraten
+**Nutzwertanalyse, laufende Kosten, Leasing vs. Kauf, Kaufvertrag**  
+
+- [ ] Siehe insbesondere Aufgabe 1a (Nutzwertanalyse, SaaS vs. on-premise, Bewertung von Angeboten), 1b (laufende Kosten pro Monat, Wartung, Abschreibung), 1c (Anschlüsse, Monitortypen), 1d–1f (Kaufvertrag, Willenserklärung,Laufvertragsstörungen)  
+
+**ITT-Net*werke, OSI-Schichten, IP-Konfiguration, LED-Status**  
+
+- [ ] Siehe insbesondere Aufgabe 2a, 2b (Netzwerkeinstellungen, LED-Status, IP-Konfiguration, OSI-Schichten)
+
+**Dateiformate, Byte-/Bit-Umrechnung, Farbräume, Stromkosten**
+
+- [ ] (Gemäß Aufgabenstellung für die Frühjahr 2024-Prüfung, nicht im hier gezeigten Auszug)  
+
+**Schutzbedarf, IT-Sicherheitsmaßnahmen, Datenübertragungsraten**  
+
+- [ ] (Gemäß Aufgabenstellung für die Frühjahr 2024-Prüfung, nicht im hier gezeigten Auszug)
+
+**Hinweis:**  
+
+- Die Aufgaben 3 und 4 sind in diesem Ausschnitt nicht vollständig abgebildet.  
+- In der Gesamtprüfung umfassen sie weitere Themen wie Dateiformate, RGB-Farbraum,  
+- Energieverbrauch, Schutzbedarf und Berechnung von Datenübertragungsraten.
 
 ## Die Aufgaben 1 bis 4 beziehen sich auf folgende Ausgangssituation
 
