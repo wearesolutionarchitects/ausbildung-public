@@ -337,3 +337,18 @@ Geben Sie die Taktfrequenz von 3,4 GHz in Hertz an. (1 Punkt)
 ...
 
 ---
+
+## 3. Aufgabe
+
+### 3. a WLAN-Einrichtung
+
+Ihre Aufgabe besteht darin, für ein Notebook einen Netzwerkzugriff ins Firmen-WLAN einzurichten. Hierbei handelt es sich um ein WLAN mit WPA-PSK oder auch WPA Personal.
+
+Nennen Sie zwei wesentliche Informationen, die Sie vom Administrator erfragen müssen, um das Notebook im WLAN anmelden
+zu können. (2 Punkte)
+
+1. ...
+2. ...
+
+---
+
