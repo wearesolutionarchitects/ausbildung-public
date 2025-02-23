@@ -6,16 +6,16 @@
 
 >Sie arbeiten in der SecuRita AG, einem Unternehmen des Finanzsektors. Hier steht eine Neustrukturierung der Arbeitsplätze unter Beachtung von Datensicherheit und Datenschutz an. Dabei sollen Sie die folgenden Aufgaben erledigen:
 
-1. Nutzwertanalyse, Vergleich Endgeräte
-2. Bezugspreisermittlung mit Gegenüberstellung von Kauf und Leasing
-3. Datenschutz und Datensicherheit
-4. Einsatz von KI bei der Schadensabwicklung, Lasten- und Pflichtenheft, UML, SELECT
+1. [Nutzwertanalyse](#1-b-16-punkte), [Vergleich Endgeräte](#1-a-4-punkte), [Entscheidung](#1-c-4-punkte), [Kriterium](#1-d-2-punkte), [Cloudlösungen / SaaS]
+2. [Bezugspreisermittlung](#2-aa-10-punkte) mit Gegenüberstellung von Kauf und Leasing
+3. Datenschutz und Datensicherheit bei der [Betriebssystemkonfiguration](#3-a-4-punkte), [BSI](#3-b-24-punkte), [Protokollierung](#3-c-4-punkte)
+4. Einsatz von KI bei der Schadensabwicklung, [Lasten- und Pflichtenheft](#4-bb-2-punkte), UML, SELECT
 
 ---
 
 ### 1. Aufgabe (26 Punkte)
 
-Das Unternehmen plant, seine Arbeitsumgebungen zu modernisieren. Das bisher genutzte Großraumbüro mit festen Arbeitsplätzen soll durch eine flexible Struktur ersetzt werden. Dafür sollen verschiedene Modelle für Arbeitsplatzrechner mithilfe einer Nutzwertanalyse verglichen werden. Die zur Auswahl stehenden Modelle finden Sie im Belegsatz.
+Das Unternehmen plant, seine Arbeitsumgebungen zu modernisieren. Das bisher genutzte Großraumbüro mit festen Arbeitsplätzen soll durch eine flexible Struktur ersetzt werden. Dafür sollen verschiedene Modelle für Arbeitsplatzrechner mithilfe einer **Nutzwertanalyse** verglichen werden. Die zur Auswahl stehenden Modelle finden Sie im Belegsatz.
 
 ---
 
@@ -53,7 +53,7 @@ gP = gewichtete Punkte
 
 ---
 
-#### 1 c ( 4 Punkte)
+#### 1 c (4 Punkte)
 
 Entscheiden Sei sich für eines der Modelle unter Berücksichtigung der geplanten Modernisierung der Arbeitsumgebung. Begründen Sie Ihre Entscheidung.
 

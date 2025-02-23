@@ -117,6 +117,8 @@ LF 1, LF 2
 ### 02-05 Marketingaktivitäten unterstützen können
 
 - [ ] Nutzwertanalyse
+  - [ ] [Frühjahr 2023](../2023-fruehjahr/readme.md)
+  - [ ] [Frühjahr 2024](../2024-fruehjahr/readme.md)
 - [ ] Vertriebsformen (direkter Vertrieb, indirekter Vertrieb)
 
 ---
@@ -134,11 +136,13 @@ LF 2, LF 3
 - [ ] Funktionale, ökonomische und ökologische Aspekte,zum Beispiel Ergonomie, Leistungsparameter, einmalige und laufende Kosten, Nutzungsdauer, Energieverbrauch und Recyclingfähigkeit
 - [ ] Hardwareprodukte, zum Beispiel CPU, Motherboard,Speicher, Datenspeicher, Netzteile, Grafikkarte, Peripheriegeräte, Sensoren, Netzwerkkomponenten wie zum Beispiel WLAN-Router, Switch, Gateway, Accesspoint
 - [ ] Softwareprodukte, zum Beispiel Anwendungen, Betriebssysteme
+  - [ ] [Frühjahr 2023](../2023-fruehjahr/readme.md)  
   - [ ] Standardsoftware, zum Beispiel Office-Pakete, Datenbank-Managementsysteme, Browser
   - [ ] Branchensoftware, zum Beispiel ERP-Systeme, Supply Chain Management, Customer Relationship
   - [ ] Systemsoftware
   - [ ] Entwicklungssysteme, zum Beispiel Compiler, virtuelle Maschinen, Interpreter, Editoren und Debugger
 - [ ] Cloudlösungen, zum Beispiel Software as a Service, Desktop as a Service
+  - [ ] [Frühjahr 2023](../2023-fruehjahr/readme.md)  
 - [ ] Kl-Software
 - [ ] Virtuelle Desktops (Cloud oder lokal)
 
@@ -321,6 +325,7 @@ LF 4
 und hybrid)
   - [ ] personelle Maßnahmen, Entwicklung des Sicherheitsbewusstseins
   - [ ] Auszüge aus BSI IT-Grundschutz-Kompendium
+    - [ ] [Frühjahr 2023](../2023-fruehjahr/readme.md)  
 - [ ] Einhaltung der Grundzüge der Datenschutzgesetze,national und auf EU-Ebene, zum Beispiel DSGVO, BDSG überprüfen
   - [ ] Definition von personenbezogenen Daten
   - [ ] Rechte der Betroffenen, Konsequenzen der Einwilligung der Betroffenen kennen
@@ -353,6 +358,7 @@ und hybrid)
 - [ ] IT-Sicherheitsmanagement
 - [ ] Durch technische (infrastrukturelle), organisatorische und personelle Schutzmaßnahmen
 - [ ] Härtung Betriebssystem (Schwachstellen schließen)
+  - [ ] [Frühjahr 2023](../2023-fruehjahr/readme.md)  
 - [ ] Datensicherung/Backup-Verfahren
 - [ ] Sicherung der Verfügbarkeit, zum Beispiel NAS
 - [ ] Zugangs- und Zugriffskontrolle
