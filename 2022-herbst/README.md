@@ -21,6 +21,7 @@ Nachfolgend sind die inhaltlichen Schwerpunkte (Themen) der Abschlussprüfung f�
 ---
 
 ## Situation: Package AG
+
 Die „Package AG“ produziert und handelt mit Verpackungsmaterial. Zur Steigerung der Produktionskapazitäten wird eine höhere Automatisierung der Arbeitsplätze in der Produktion angestrebt. Eine eigene Arbeitsgruppe wurde gebildet, um die dafür notwendigen Anforderungen und Projekte zu planen. In diesem Kontext gliedern sich die folgenden vier Aufgaben.
 
 ---
