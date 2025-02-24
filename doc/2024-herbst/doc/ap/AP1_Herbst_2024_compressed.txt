@@ -1,0 +1,276 @@
+Situation
+Sie sind Auszubildender der Identify OHG, die sich auf die Herstellung von elektronischen Schlüsselsystemen und Ausweisen
+unter Beachtung höchster Sicherheitsanforderungen spezialisiert hat.
+1. Aufgabe (25 Punkte)
+Zur Vorbereitung der Absicherung eines Besprechungsraums informieren Sie sich u. a. über Maßnahmen aus dem BSI IT-Grund-
+schutz-Kompendium und wirken an der Umsetzung mit.
+a) Zur Absicherung des Besprechungsraums soll u. a. eine automatische Zutrittskontrolle an der Eingangstür eingerichtet werden.
+Nennen Sie drei technische Möglichkeiten, um eine automatische Zutrittskontrolle zu gewährleisten.
+3 Punkte
+
+b) Beschreiben Sie die Sicherheitsrisiken der folgenden Situationen.
+Situation
+Sicherheitsrisiko
+Geöffnete Fenster und
+Beispiel:
+Türen nach Verlassen des
+Besprechungsraums
+Nutzung durch externe
+Personen
+3 Punkte
+Informationen in Papierform oder IT-Geräte können durch Diebstahl in falsche Hände geraten.
+Lose verlegte Kabel
+Nutzung von BYOD
+(Bring Your Own Device)
+Ein PC soll für die Durchführung von Präsentationen mit einem Anzeigegerät verbunden werden. Der BSI-Grundschutz emp-
+fiehlt, den Präsentationsrechner in dem Besprechungsraum sicher zu konfigurieren.
+Begründen Sie die folgenden vorgeschlagenen Maßnahmen.
+4 Punkte
+Nutzung einer Minimalkonfiguration mit festgelegter Anwendungssoftware:
+Anschluss an ein vom LAN der Institution getrenntes Datennetz:
+
+d) Sie erhalten vom Netzwerkadministrator der Identify OHG die folgenden Vorgaben für die Netzwerkkonfiguration des Präsenta-
+tionsrechners. Die Adressvergabe soll statisch erfolgen, um eine spätere Fernwartung zu vereinfachen.
+Netzwerk:
+192.168.20.0/24
+DHCP-Range:
+192.168.20.20 - 192.168.20.254
+Router:
+192.168.20.1
+da) Bei der Analyse des PCs wird Ihnen jedoch die IP-Adresse 169.254.122.115 angezeigt.
+Begründen Sie diese „Vorkonfiguration".
+2 Punkte
+
+db) Markieren Sie bzw. passen Sie die Konfiguration entsprechend der Vorgaben des Administrators in der folgenden Eingabe-
+maske an.
+•IP-Adresse automatisch beziehen
+• Folgende IP-Adresse verwenden:
+IP-Adresse:
+Subnetzmaske:
+Standardgateway:
+4 Punkte
+dc) Entsprechend der BSI-Empfehlungen ist das IP-Netz des Präsentationsrechners vom Firmennetz getrennt. Im Bespre-
+chungsraum befindet sich eine unbeschriftete Netzwerk-Doppeldose. Hier wird auf der einen Seite das Firmennetz, auf der
+anderen Seite das Netz für den Präsentationsrechner zur Verfügung gestellt. Ihre Aufgabe besteht nun darin, die richtige
+RJ-45-Buchse (links oder rechts) der Netzwerkdose zu ermitteln und zu beschriften. Ihnen steht dazu ein Patchkabel und
+der Präsentationsrechner mit seiner Kommandozeile zur Verfügung.
+Beschreiben Sie Ihre Vorgehensweise stichpunktartig.
+5 Punkte
+
+
+Fortsetzung 1. Aufgabe
+dd) Für die Einrichtung weiterer Maßnahmen der IT-Sicherheit im Netzwerk benötigt Ihr Administrator die MAC-Adresse des
+Präsentationsrechners.
+Geben Sie einen möglichen Konsolenbefehl an, um die Adresse zu ermitteln und nennen Sie ein Beispiel für eine MAC-
+Adresse in strukturierter hexadezimaler Darstellung.
+Konsolenbefehl:
+MAC-Adresse:
+2. Aufgabe (25 Punkte)
+Die Identify OHG benötigt eine neue Software für ihre Schließsysteme. Sie arbeiten in der Abteilung Softwareentwicklung bei der
+Planung der neuen Software mit. Dabei erstellen Sie auch eine Kostenübersicht für einen Kunden.
+a) In der Softwareentwicklungsabteilung des Unternehmens gibt es derzeit einen personellen Engpass. Die Identify OHG denkt
+über eine Fremdvergabe nach.
+Nennen Sie zwei Argumente, die gegen eine Fremdvergabe sprechen.
+2 Punkte
+b) Es wird beschlossen, die Software selbst zu entwickeln. Die Entwicklungsabteilung fragt, in welcher Programmiersprache die
+Software entwickelt werden soll.
+Nennen Sie ein allgemeingültiges Kriterium, welches für die Auswahl der Programmiersprache von Bedeutung ist und geben Sie
+dazu eine kurze Begründung an.
+3 Punkte
+c) Zur Auswahl der Programmiersprachen stehen Compiler- und Interpreter-Sprachen.
+Erläutern Sie den wesentlichen Unterschied zwischen den beiden Übersetzungsarten.
+3 Punkte
+
+
+
+d) Sie werden beauftragt, für die Schlüsselsystemsoftware ein UML-Anwendungsfalldiagramm (Use-Case) zu erstellen. Die folgen-
+den Anforderungen liegen vor:
+- Der Mitarbeiter kann Türen öffnen und Türen zuschließen. Dabei findet immer eine Berechtigungsprüfung statt.
+- Der Administrator kann alles, was ein Mitarbeiter kann. Zusätzlich kann er die Türschlösser programmieren. Dabei findet
+immer eine Berechtigungsprüfung statt.
+Ergänzen Sie das gegebene UML-Anwendungsfalldiagramm.
+5 Punkte
+System
+Mitarbeiter
+
+
+
+Fortsetzung 2. Aufgabe
+e) Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erstellt. Diese übergibt
+eine Mitarbeiter-ID und eine Raumnummer, um abzufragen, ob für diesen Raum eine Zutrittsberechtigung besteht.
+Ermitteln und begründen Sie den Rückgabewert, der bei Aufruf der Funktion mit id = 3 und roomNr = 236 geliefert wird
+6 Punkte
+Hinweis:
+Die Funktion greift auf ein globales zweidimensionales Array keyData(||) zu. In der ersten Spalte steht die Mitarbeiter-ID. Die
+folgenden Spalten enthalten die Räume, für die eine Zutrittsberechtigung besteht. Der Zeilen- und Spaltenindex beginnt bei O.
+Es gibt keine Kopfzeile im Array, sie dient nur zur Erläuterung.
+Mitarbeiter-ID
+Room1
+Room2
+Room3
+223
+312
+154
+103
+401
+14
+20
+312
+235
+Room4
+47
+236
+17
+Room5
+124
+56
+124
+Room6
+236
+Roomxx
+334
+32
+3
+Pseudocode
+1 Funktion checkAuthority (id, roomNr)
+Für i von 0 bis (AnzahlZeilen von keyData) - 1
+3
+4
+5
+Für j von 1 bis (AnzahlBelegteSpalten von keyData) - 1
+Wenn id gleich keyData[i][0] und roomNr gleich keyData[i][jl dann
+Rückgabe True
+Ende Wenn
+Ende Für
+Ende Für
+Rückgabe False
+10 Ende Funktion
+f) Eine Schule hat eine Anfrage zur Ausstattung ihres Schließsystems gestellt. Die benötigten Komponenten sind:
+- 65 Schließzylinder zu einem Stückpreis von 512,00 EUR (Nettopreis).
+- 80 Transponder zu einem Stückpreis von 39,00 EUR (Nettopreis).
+- Ein Programmiergerät zum Preis von 2.300,00 EUR (Nettopreis).
+- Eine Administrationssoftware, die eine jährliche Lizenzgebühr von 349,00 EUR (Nettopreis) hat.
+Berechnen Sie die Gesamtkosten für die Schule über einen Zeitraum von fünf Jahren. Geben Sie sowohl den Nettopreis als auch
+den Bruttopreis bei 19 % Mehrwertsteuer an. Der Rechenweg ist anzugeben.
+6 Punkte
+
+
+3. Aufgabe (24 Punkte)
+Die Identify OHG möchte Computer kaufen und Sie begleiten den Beschaffungsprozess. Ferner soll der Arbeitsspeicher bestehen-
+der Laptops erweitert werden.
+a) Ein Angebot für die zehn Computer beläuft sich auf 12.000 EUR.
+Die Identify OHG entschließt sich zum Kauf der Computer auf Kredit und erhält von der Kleinstadt-Bank ein Angebot für ein
+Ratendarlehen.
+Nominalzins: 6 % jährlich
+Laufzeit:
+36 Monate
+Tilgung:
+jeweils in gleichen Beträgen zum Jahresende
+Ermitteln Sie für den genannten Darlehensbetrag die jährlichen Zahlungen und die fälligen Gesamtzinsen sowie die Zahlungen
+insgesamt.
+7 Punkte
+Zeitraum
+Restschuld EUR
+Zinsen EUR
+Tilgung EUR
+Zahlungen/
+12 Monate EUR
+Korrekturrand
+01.04.2025 - 31.03.2026
+01.04.2026 - 31.03.2027
+01.04.2027 - 31.03.2028
+Summe
+12.000
+b) Der Abteilungsleiter der Entwicklungsabteilung der Identify OHG möchte, dass in Zukunft alle entwickelten Anwendungen auf
+der firmeninternen Cloud ausgerollt werden. Darum müssen alle Anwendungen auch mit entsprechenden Tools entwickelt und
+getestet werden. Aus den Hardwareanforderungen eines dieser Tools geht hervor, dass die Laptops der Entwickler folgende
+Bedingungen erfüllen müssen:
+- Windows 11
+- 32 GB RAM
+Der aktuelle Laptop der Entwickler verfügt über die folgenden Eckdaten:
+- Prozessor:
+Intel® CoreT™ i5-1335U Prozessor der 13. Generation
+- Betriebssystem:
+Windows 11 Professional (64 Bit)
+- Grafik:
+Integrierte Intel® UHD-Grafik
+- Arbeitsspeicher:
+16 GB DDR4-3200MHz
+- Massenspeicher:
+1 TB HDD
+- WLAN:
+Intel® Wi-Fi 6 AX201 2x2 AX und Bluetooth® 5.1
+Der Abteilungsleiter der Entwicklungsabteilung hat sich dazu entschieden, dass die vorhandenen Laptops um den benötigten
+Arbeitsspeicher erweitert werden. Der Laptop verfügt über einen weiteren Slot für einen weiteren Arbeitsspeicher-Riegel. Von
+dem Hardware-Dienstleister der Identify OHG bekommen Sie folgende drei Arbeitsspeicher angeboten:
+Arbeitsspeicher 1 - 82,20 EUR:
+- 16 GB DDR5-6000MHz
+Arbeitsspeicher 2 - 75,70 EUR:
+- 16 GB DDR4-5600MHz
+Arbeitsspeicher 3 - 31,80 EUR:
+- 16 GB DDR4-3200MHz
+ba) Erklären Sie die Kompatibilität für jeden der drei Arbeitsspeicher mit dem vorhandenen Laptop.
+3 Punkte
+Arbeitsspeicher 1:
+Arbeitsspeicher 2:
+
+
+Fortsetzung 3. Aufgabe
+Arbeitsspeicher 3:
+
+bb) Begründen Sie, welchen Arbeitsspeicher Sie dem Abteilungsleiter zur Anschaffung empfehlen.
+2 Punkte
+bc) Sie schlagen dem Abteilungsleiter vor, die HDD im Laptop mit einer SSD zu ersetzen.
+Nennen Sie drei Vorteile einer SSD gegenüber einer HDD.
+3 Punkte
+c) Bei der Korrespondenz mit dem Hardwarelieferanten werden häufig E-Mails ausgetauscht. Sie warnen die Anwender darum vor
+Phishingmails.
+ca) Beschreiben Sie eine Gefahr durch Phishingmails.
+2 Punkte
+cb) Nennen Sie drei Anzeichen, an denen der User erkennen kann, dass es sich um eine Phishingmail handelt.
+3 Punkte
+cc) Nennen Sie zwei Maßnahmen, die Sie dem Unternehmen zum Schutz vor Phishingmails empfehlen.
+2 Punkte
+cd) Nennen Sie zwei Maßnahmen, die das Unternehmen den Mitarbeitern beim Empfang von Mails vorgibt, um sich vor
+Phishingmail zu schützen.
+2 Punkte
+
+4. Aufgabe (26 Punkte)
+Alle Vorgänge des Produktionsprozesses müssen dokumentiert werden. Als Grundlage wird ein Datenmodell erstellt.
+a) Bei der Identify OHG ist auch bei internen Aufträgen ein Lasten- und Pflichtenheft üblich.
+Erklären Sie jeweils den Zweck von Lasten- und Pflichtenheft und führen Sie jeweils ein konkretes Beispiel für den Inhalt an.
+Tragen Sie Ihr Ergebnis in nachfolgende Tabelle ein.
+6 Punkte
+Lastenheft
+Pflichtenheft
+Korrekturrand
+Zweck
+Beispiel für mög-
+lichen Inhalt
+b) Erweitern Sie das unten angegebene Datenmodell redundanzfrei um die vorliegenden Angaben. Geben Sie auch die Kardinali-
+täten an.
+6 Punkte
+Angaben zur Datenbank:
+Die Bearbeitung eines Auftrags darf immer nur von einem einzigen Mitarbeiter erfolgen. Neben seinem Namen ist auch der
+Vorname zu erfassen. Jeder Auftrag hat einen Beginn und ein Ende der Bearbeitung
+In jeder Entitätsmenge soll eine eindeutige Identifizierung durch einen Primärschlüssel möglich sein.
+Mitarbeiter-ID
+(PS)
+Mitarbeiter
+bearbeitet
+Mitarbeiter_Name
+
+Fortsetzung 4. Aufgabe
+c) Da sich die Störungen an einer Maschine häufen, soll eine neue zur Herstellung von Ausweiskarten beschafft werden. Es wer-
+den Überlegungen zur Beschaffung über Leasing angestellt.
+Beschreiben Sie drei Vorteile der Beschaffung über Leasing.
+6 Punkte
+Korrekturrand
+d) Nach Ablauf der Leasingdauer bieten sich bezüglich der weiteren Nutzung der Maschine mehrere Möglichkeiten.
+Beschreiben Sie zwei dieser Möglichkeiten.
+4 Punkte
+e) Ein Kollege informiert Sie, dass die Maschine trotz ihrer technischen Veralterung, der Störungen und ihrer erhöhten Ausschuss-
+produktion weiter genutzt werden kann.
+Bei der Beschaffung der Maschine spielen nicht nur finanzielle, sondern auch ökologische Aspekte eine Rolle.
+Beschreiben Sie zwei ökologische Aspekte, die bei einer Neuinvestition zu beachten sind.
+4 Punkte

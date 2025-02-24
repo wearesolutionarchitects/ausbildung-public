@@ -16,7 +16,7 @@ LF 1, LF 2, LF 3, LF 5, LF 6
 
 ---
 
-### [01-01 Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können](01/01/README.md)
+### 01-01 Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können
 
 ---
 
@@ -58,6 +58,8 @@ zum Beispiel:
 ---
 
 ### 01-02 Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen können
+
+- [ ] [Herbst 2024](doc/2024-herbst/readme.md)
 
 - [ ] Machbarkeitsanalyse mithilfe einer Budgetvorgabe
 - [ ] Vor- und Nachkalkulation
@@ -116,9 +118,10 @@ LF 1, LF 2
 
 ### 02-05 Marketingaktivitäten unterstützen können
 
+- [ ] [Frühjahr 2024](doc/2024-fruehjahr/readme.md)
+- [ ] [Frühjahr 2023](doc/2023-fruehjahr/readme.md)
+
 - [ ] Nutzwertanalyse
-  - [ ] [Frühjahr 2023](../2023-fruehjahr/readme.md)
-  - [ ] [Frühjahr 2024](../2024-fruehjahr/readme.md)
 - [ ] Vertriebsformen (direkter Vertrieb, indirekter Vertrieb)
 
 ---
@@ -131,7 +134,7 @@ LF 2, LF 3
 
 ### 03-01 Marktgängige IT-Systeme kennen, unterscheiden und beurteilen können
 
----
+- [ ] [Herbst 2024](doc/2024-herbst/readme.md)
 
 - [ ] Funktionale, ökonomische und ökologische Aspekte,zum Beispiel Ergonomie, Leistungsparameter, einmalige und laufende Kosten, Nutzungsdauer, Energieverbrauch und Recyclingfähigkeit
 - [ ] Hardwareprodukte, zum Beispiel CPU, Motherboard,Speicher, Datenspeicher, Netzteile, Grafikkarte, Peripheriegeräte, Sensoren, Netzwerkkomponenten wie zum Beispiel WLAN-Router, Switch, Gateway, Accesspoint

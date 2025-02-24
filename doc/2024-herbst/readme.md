@@ -2,9 +2,9 @@
 
 Termin: Mittwoch, 28. Februar 2024
 
-__Einrichten eines IT-gestützten Arbeitsplatzes.__
+**Einrichten eines IT-gestützten Arbeitsplatzes.**
 
-__Teil 1 der Abschlussprüfung:__
+**Teil 1 der Abschlussprüfung:**
 
 - 4 Aufgaben
 - 90 Minuten Prüfungszeit
@@ -12,18 +12,43 @@ __Teil 1 der Abschlussprüfung:__
 
 ---
 
-## Themen / Lernfelder
+## Inhaltsverzeichnis – Katalogthemen und Zuordnung zu den Aufgaben
 
-1. Schutzmassnahmen BSI IT-Grundschutz-Kompendium, Sicherheitsrisiken, Aktivitäten bei Installationen und Konfigurationen
-2. ?
-3. ?
-4. Lasten- und Pflichtenheft
+1. **06-04 IT-Sicherheitsmaßnahmen (BSI IT-Grundschutz, Netzwerksegmentierung, Technische / organisatorische Maßnahmen)**
+   - **Aufgaben**: 1a (Zutrittskontrolle), 1b (Sicherheitsrisiken), 1c (sicher konfigurierte Präsentationsrechner), 1d (IP-Netztrennung und MAC-Adresse)
+
+2. **01-02 Machbarkeit und Wirtschaftlichkeit von Projekten**  
+   - **Aufgaben**: 2a (Fremdvergabe vs. Eigenentwicklung – Argumente), 2f (Kostenberechnung Schließzylinder & Transponder über 5 Jahre)
+
+3. **04-06 Programmiersprachen / Softwareentwicklung**  
+   - **Aufgaben**: 2b (Kriterium Programmiersprache), 2c (Compiler vs. Interpreter), 2e (OOP-Funktion checkAuthority und Array-Prüfung)
+
+4. **04-07 Programmierwerkzeuge (UML)**  
+   - **Aufgaben**: 2d (UML-Anwendungsfalldiagramm)
+
+5. **03-04 Wirtschaftlichkeit von IT-Systemen (Finanzierung / Leasing, Kostenvergleiche)**  
+   - **Aufgaben**: 3a (Ratendarlehen für PCs), 4c und 4d (Vorteile Leasing, Nutzung nach Ablauf)
+
+6. **03-01 Marktgängige IT-Systeme (Hardware, RAM, SSD)**
+   - **Aufgaben**: 3b (RAM-Kompatibilität / Empfehlung, SSD-Vorteile)
+
+7. **06-04 IT-Sicherheitsmaßnahmen (Phishing-Schutz)**  
+   - **Aufgaben**: 3c (Phishing: Gefahren, Anzeichen, Schutz)
+
+8. **04-01 IT-Systeme konzipieren (Lasten- und Pflichtenheft)**
+   - **Aufgaben**: 4a (Zweck und Inhalte Lasten-/Pflichtenheft)
+
+9. **04-08 Grundlagen von relationalen Datenbanken** (bei Datenmodellierung)
+   - **Aufgaben**: 4b (ER-Modell ergänzen, redundanzfrei mit Kardinalitäten)
+
+10. **03-01 Marktgängige IT-Systeme (ökologische Aspekte)**
+    - **Aufgaben**: 4e (zwei ökologische Aspekte bei Neuinvestition)
 
 ## Die Aufgaben 1 bis 4 beziehen sich auf folgende Ausgangssituation
 
 | | |
 | :--- |
-| __Situation__:  Sie sind Auszubildender der Identify OHG, die sich auf die Herstellung von elektronischen Schlüsselsystemen und Ausweisen unter Beachtung höchster Sicherheitsanforderungen spezialisiert hat. |
+| **Situation**:  Sie sind Auszubildender der Identify OHG, die sich auf die Herstellung von elektronischen Schlüsselsystemen und Ausweisen unter Beachtung höchster Sicherheitsanforderungen spezialisiert hat. |
 
 ---
 
@@ -36,7 +61,7 @@ Zur Vorbereitung der Absicherung eines Besprechungsraums informieren Sie sich u.
 ### a. Zugangs- und Zugriffskontrolle (3 Punkte)
 
 Zur Absicherung des Besprechungsraums soll u. a. eine automatische Zutrittskontrolle an der Eingangstür eingerichtet werden.
-Nennen Sie __drei__ technische Möglichkeiten, um eine automatische Zutrittskontrolle zu gewährleisten.
+Nennen Sie **drei** technische Möglichkeiten, um eine automatische Zutrittskontrolle zu gewährleisten.
 
 1. ...
 2. ...
@@ -50,7 +75,7 @@ Beschreiben Sie die Sicherheitsrisiken der folgenden Situationen:
 
 | Situation | Sicherheitsrisiko |
 | :--- | :--- |
-| Geöffnete Fenster und Türen nach Verlassen des Besprechungsraums | __Beispiel:__ Informationen in Papierform oder IT-Geräte können durch Diebstahl in falsche Hände geraten. |
+| Geöffnete Fenster und Türen nach Verlassen des Besprechungsraums | **Beispiel:** Informationen in Papierform oder IT-Geräte können durch Diebstahl in falsche Hände geraten. |
 | Nutzung durch externe Personen | |
 | Lose verlegte Kabel | |
 | Nutzung von BYOD-Geräten (Bring Your Own Device) | |
@@ -64,11 +89,11 @@ Begründen Sie die folgenden vorgeschlagenen Maßnahmen.
 
 Nutzung einer Minimalkonfiguration mit festgelegter Anwendungssoftware:
 
-__Begründung:__ ...
+**Begründung:** ...
 
 Anschluss an ein vom LAN der Institution getrenntes Datennetz:
 
-__Begründung:__ ...
+**Begründung:** ...
 
 ---
 
@@ -89,7 +114,7 @@ Bei der Analyse des PCs wird Ihnen jedoch die IP-Adresse 169.254.122.115 angezei
 
 Begründen Sie diese „Vorkonfiguration":
 
-__Begründung:__ ...
+**Begründung:** ...
 
 ---
 
@@ -97,7 +122,7 @@ __Begründung:__ ...
 
 Markieren Sie bzw. passen Sie die Konfiguration entsprechend der Vorgaben des Administrators in der folgenden Eingabemaske an.
 
-__Eingabemaske:__
+**Eingabemaske:**
 
 ---
 
@@ -118,9 +143,9 @@ Für die Einrichtung weiterer Maßnahmen der IT-Sicherheit im Netzwerk benötigt
 
 Geben Sie einen möglichen Konsolenbefehl an, um die Adresse zu ermitteln und nennen Sie ein Beispiel für eine MAC-Adresse in strukturierter hexadezimaler Darstellung.
 
-__Konsolenbefehl:__ ...
+**Konsolenbefehl:** ...
 
-__MAC-Adresse:__ ...
+**MAC-Adresse:** ...
 
 ---
 
@@ -148,9 +173,9 @@ Software entwickelt werden soll.
 Nennen Sie ein allgemeingültiges Kriterium, welches für die Auswahl der Programmiersprache von Bedeutung ist und geben Sie
 dazu eine kurze Begründung an.
 
-__Kriterium:__ ...
+**Kriterium:** ...
 
-__Begründung:__ ...
+**Begründung:** ...
 
 ---
 
@@ -160,9 +185,9 @@ Zur Auswahl der Programmiersprachen stehen Compiler- und Interpreter-Sprachen.
 
 Erläutern Sie den wesentlichen Unterschied zwischen den beiden Übersetzungsarten.
 
-__Compiler:__ ...
+**Compiler:** ...
 
-__Interpreter:__ ...
+**Interpreter:** ...
 
 ### d. UML-Anwendungsfall-Diagramm (5 Punkte)
 
@@ -183,7 +208,7 @@ Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erst
 Hinweis:
 Die Funktion greift auf ein globales zweidimensionales Array keyData [][] zu. In der ersten Spalte steht die Mitarbeiter-ID. Die
 folgenden Spalten enthalten die Räume, für die eine Zutrittsberechtigung besteht. Der Zeilen- und Spaltenindex beginnt bei O.
-Es gibt __keine Kopfzeile__ im Array, sie dient nur zur Erläuterung.
+Es gibt **keine Kopfzeile** im Array, sie dient nur zur Erläuterung.
 
 | | Mitarbeiter-ID | Room1 | Room 2 | Room 3 | Room 4 | Room 5 | Room 6 | Roomxx |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -197,7 +222,7 @@ Es gibt __keine Kopfzeile__ im Array, sie dient nur zur Erläuterung.
 
 Ale Vorgänge des Produktionsprozesses müssen dokumentiert werden. Als Grundlage wird ein Datenmodell erstellt.
 
-Bei La Mediterranea ist auch bei __internen Aufträgen__ ein Lasten- und Pflichtenheft üblich. Erklären Sie jeweils den Zweck von Lasten- und Pflichtenheft und führen Sie jeweils ein konkretes Beispiel für den Inhalt an. Tragen Sie Ihr Ergebnis in nachfolgende Tabelle ein.
+Bei La Mediterranea ist auch bei **internen Aufträgen** ein Lasten- und Pflichtenheft üblich. Erklären Sie jeweils den Zweck von Lasten- und Pflichtenheft und führen Sie jeweils ein konkretes Beispiel für den Inhalt an. Tragen Sie Ihr Ergebnis in nachfolgende Tabelle ein.
 
 | | Lastenheft | Pflichtenheft |
 | :--- | :--- | :--- |
@@ -214,7 +239,7 @@ Bei La Mediterranea ist auch bei __internen Aufträgen__ ein Lasten- und Pflicht
 
 Angaben zur Datenbank:
 
-- Die Bearbeitung eines __Issues__ darf immer nur von einem einzigen __Praktikanten__ erfolgen.
+- Die Bearbeitung eines **Issues** darf immer nur von einem einzigen **Praktikanten** erfolgen.
 - Neben seinem Namen ist auch der Vorname zu erfassen.
 - Jeder Issue hat einen Beginn und ein Ende der Bearbeitung.
 - In jeder Entitätsmenge sol eine eindeutige Identifizierung durch einen Primärschlüssel möglich sein
