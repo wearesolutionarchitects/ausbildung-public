@@ -135,11 +135,11 @@ LF 2, LF 3
 ### 03-01 Marktgängige IT-Systeme kennen, unterscheiden und beurteilen können
 
 - [ ] [Herbst 2024](doc/2024-herbst/readme.md)
+- [ ] [Frühjahr 2023](doc/2023-fruehjahr/readme.md)  
 
 - [ ] Funktionale, ökonomische und ökologische Aspekte,zum Beispiel Ergonomie, Leistungsparameter, einmalige und laufende Kosten, Nutzungsdauer, Energieverbrauch und Recyclingfähigkeit
 - [ ] Hardwareprodukte, zum Beispiel CPU, Motherboard,Speicher, Datenspeicher, Netzteile, Grafikkarte, Peripheriegeräte, Sensoren, Netzwerkkomponenten wie zum Beispiel WLAN-Router, Switch, Gateway, Accesspoint
 - [ ] Softwareprodukte, zum Beispiel Anwendungen, Betriebssysteme
-  - [ ] [Frühjahr 2023](../2023-fruehjahr/readme.md)  
   - [ ] Standardsoftware, zum Beispiel Office-Pakete, Datenbank-Managementsysteme, Browser
   - [ ] Branchensoftware, zum Beispiel ERP-Systeme, Supply Chain Management, Customer Relationship
   - [ ] Systemsoftware
@@ -195,6 +195,8 @@ fat32, NTFS, APFS, ext4), Grafikkarte, Netzwerkkarte, Gateway/Router, Switch, LW
 
 ### 03-04 Wirtschaftlichkeit von IT-Systemen bestimmen und beurteilen können
 
+- [ ] [Herbst 2024](doc/2024-herbst/readme.md)
+
 - [ ] Anschaffungskosten
 - [ ] Betriebskosten
 - [ ] Variable und fixe Kosten
@@ -213,6 +215,8 @@ fat32, NTFS, APFS, ext4), Grafikkarte, Netzwerkkarte, Gateway/Router, Switch, LW
 LF 5
 
 ### 04-01 IT-Systeme unter Berücksichtigung des IT-Umfeldes konzeptionieren, konfigurieren, testen und dokumentieren können
+
+- [ ] [Herbst 2024](doc/2024-herbst/readme.md)
 
 - [ ] Bedarfsanalyse
 - [ ] Lasten- und Pflichtenheft (Zweck, Urheber, Inhalt)
@@ -269,6 +273,8 @@ LF 5
 
 ### 04-06 Programmiersprachen mit folgenden Merkmalen kennen, einordnen und unterscheiden können
 
+- [ ] [Herbst 2024](doc/2024-herbst/readme.md)
+
 - [ ] Compiler, Linker, Interpreter
 - [ ] Prozedurale und objektorientierte Herangehensweise Variablen, Datentypen und -strukturen
 - [ ] Kontrollstrukturen, zum Beispiel Verzweigung, Schleife, Prozeduren, Funktionen, Klassen, Attribute, Objekte, Methoden, Sichtbarkeit
@@ -280,6 +286,8 @@ LF 5
 
 ### 04-07 Programmierwerkzeuge kennen und anwenden können
 
+- [ ] [Herbst 2024](doc/2024-herbst/readme.md)
+
 - [ ] Abbildung der Kontrollstrukturen, zum Beispiel Verzweigungen, Schleife, mittels Pseudocode
 - [ ] UML (Use Case bzw. Anwendungsfalldiagramm, Klassendiagramm, Aktivitätsdiagramm)
 - [ ] Entwurf der Bildschirmausgabemasken (Software-ergonomie, Corporate Identity, Barrierefreiheit)
@@ -287,10 +295,14 @@ LF 5
 
 ---
 
-04-08 Grundlagen von relationalen Datenbanken kennen und anwenden können
+## 04-08 Grundlagen von relationalen Datenbanken kennen und anwenden können
+
+- [ ] [Herbst 2024](doc/2024-herbst/readme.md)
 
 - [ ] Einfache ER-Modelle
 - [ ] Beispiele für betriebliche Handlungen/Qualifikationen
+
+---
 
 ## 05 Durchführen und Dokumentieren von qualitätssichernden Maßnahmen (§ 4 Absatz 2 Nummer 5)
 
@@ -357,11 +369,13 @@ und hybrid)
 
 ### 06-04 Umsetzung des arbeitsplatzbezogenen Sicherheitskonzeptes unterstützen können
 
+- [ ] [Herbst 2024](doc/2024-herbst/readme.md)
+- [ ] [Frühjahr 2023](doc/2023-fruehjahr/readme.md)
+
 - [ ] Schaffung eines Sicherheitsbewusstseins bei den Mitarbeitern, zum Beispiel Security by Design, Security by Default
 - [ ] IT-Sicherheitsmanagement
 - [ ] Durch technische (infrastrukturelle), organisatorische und personelle Schutzmaßnahmen
-- [ ] Härtung Betriebssystem (Schwachstellen schließen)
-  - [ ] [Frühjahr 2023](../2023-fruehjahr/readme.md)  
+- [ ] Härtung Betriebssystem (Schwachstellen schließen)  
 - [ ] Datensicherung/Backup-Verfahren
 - [ ] Sicherung der Verfügbarkeit, zum Beispiel NAS
 - [ ] Zugangs- und Zugriffskontrolle
