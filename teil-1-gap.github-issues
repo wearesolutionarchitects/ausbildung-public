@@ -8,5 +8,10 @@
     "kind": 2,
     "language": "github-issues",
     "value": "repo:devsfiae/praktikum is:open"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:NADOOIT/NADOO-Launchpad"
   }
 ]
