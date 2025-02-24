@@ -12,33 +12,58 @@ Termin: Mittwoch, 28. Februar 2024
 
 ---
 
-## Themen / Lernfelder
+## Inhaltsverzeichnis – Katalogthemen und Zuordnung zu den Aufgaben
 
-**Nutzwertanalyse, laufende Kosten, Leasing vs. Kauf, Kaufvertrag**  
+## Aufgabe 1 (26 Punkte)
 
-- [ ] Siehe insbesondere Aufgabe 1a (Nutzwertanalyse, SaaS vs. on-premise, Bewertung von Angeboten), 1b (laufende Kosten pro Monat, Wartung, Abschreibung), 1c (Anschlüsse, Monitortypen), 1d–1f (Kaufvertrag, Willenserklärung,Laufvertragsstörungen)  
+1. **Firmenangebote vergleichen (Gewichtungen, Preise, SaaS vs. on-premise)**  
+   - Nutzwertanalyse / Wirtschaftlichkeitsvergleich → **01-02 Machbarkeit und Wirtschaftlichkeit von Projekten**  
+   - Alternativ auch **03-04 Wirtschaftlichkeit von IT-Systemen** (einfacher Kostenvergleich, Leasing/Kauf), falls man die Kosten/Nutzwertanalyse als Teil der IT-Systemauswahl sieht.
 
-**ITT-Net*werke, OSI-Schichten, IP-Konfiguration, LED-Status**  
+2. **Anschlüsse Monitore (HDMI, USB-C, DVI, DisplayPort)**  
+   - Zuordnung / Erkennen von Hardware-Schnittstellen → **03-01 Marktgängige IT-Systeme** (Hardwareprodukte, Peripherie)
 
-- [ ] Siehe insbesondere Aufgabe 2a, 2b (Netzwerkeinstellungen, LED-Status, IP-Konfiguration, OSI-Schichten)
+3. **Kaufvertrag (Zustandekommen, Inhalte, Kaufvertragsstörungen)**  
+   - Zeitpunkt des Vertragsabschlusses, Inhalte (Willenserklärungen, Kaufsache, Preis …), mögliche Störungen (Lieferverzug, mangelhafte Lieferung) → **07-01 Vertragsarten, Vertragsbestandteile und Vertragsstörungen**  
+   - Maßnahmen zur Vermeidung (Kontrollen, Konventionalstrafen) → ebenfalls **07-01**
 
-**Dateiformate, Byte-/Bit-Umrechnung, Farbräume, Stromkosten**
+---
 
-- [ ] (Gemäß Aufgabenstellung für die Frühjahr 2024-Prüfung, nicht im hier gezeigten Auszug)  
+## Aufgabe 2 (24 Punkte)
 
-**Schutzbedarf, IT-Sicherheitsmaßnahmen, Datenübertragungsraten**  
+1. **Netzwerkkonfiguration / OSI-Schichten**  
+   - Anzeigen der Netzwerkbuchse, LED-Status, ipconfig /all, IPv6-Adressen (Link-Local), DHCP-Server, ARP, pingen → **03-02 Typische IT-Systeme und deren Einsatzbereiche** (Netzwerkprotokolle, OSI-Modell)
 
-- [ ] (Gemäß Aufgabenstellung für die Frühjahr 2024-Prüfung, nicht im hier gezeigten Auszug)
+2. **Zuordnung IP/MAC im LAN**  
+   - ARP-Funktionalität, IP ↔ MAC-Zuordnung → **03-02** (Sicherungsschicht, Vermittlungsschicht, Netzwerkkommunikation)
 
-**Hinweis:**  
+---
 
-- Die Aufgaben 3 und 4 sind in diesem Ausschnitt nicht vollständig abgebildet.  
-- In der Gesamtprüfung umfassen sie weitere Themen wie Dateiformate, RGB-Farbraum,  
-- Energieverbrauch, Schutzbedarf und Berechnung von Datenübertragungsraten.
+## Aufgabe 3 (24 Punkte)
 
-## Die Aufgaben 1 bis 4 beziehen sich auf folgende Ausgangssituation
+1. **Unbekanntes Dateiformat (PLY)**  
+   - Ermitteln von Informationen, Konvertierung ASCII/Binär → eher allgemein, kann teils unter **04-06 Programmiersprachen** oder **03-01 Marktgängige IT-Systeme** (Softwareprodukte, Dateiformate) subsumiert werden.  
+   - Praktisch am nächsten: **03-01** (Softwareprodukte, Import/Export, Kompatibilität).
 
->Sie sind Auszubildender in der IT-Abteilung der KustFlex GmbH. Diese fertigt Kunststoffteile aller Art und Größen auch nach individuellen Wünschen.
+2. **Speicher- und Farbberechnung (3D-Punkte, RGB)**  
+   - Umrechnung Bytes/Bits, Dateigröße, Farbraum (8-Bit-Kanäle) → **03-03 Leistungsfähigkeit und Energieeffizienz** (Kenngrößen, Datenmengen, Übertragungsraten)
+
+3. **Netzteil-Leistung, Wirkungsgrad, Stromkosten**  
+   - Energieverbrauch (max. Leistungsaufnahme, Puffer, kWh-Berechnung) → **03-03** (Energieeffizienz, Stromkosten)
+
+---
+
+## Aufgabe 4 (26 Punkte)
+
+1. **Mobiles Arbeiten, Geheimhaltung, VPN, Datensicherung**  
+   - Maßnahmen / Verhaltensweisen zum Schutz der Vertraulichkeit → **06-04 Umsetzung eines arbeitsplatzbezogenen Sicherheitskonzeptes**  
+   - VPN-Funktionalität, externe Festplattensicherung (organisatorisch/technisch) → ebenfalls **06-04**  
+
+2. **Malware (Arten, Merkmale), Schutzmaßnahmen**  
+   - Virus, Wurm, Trojaner, Ransomware, etc. → **06-04** (IT-Sicherheitsmaßnahmen / Anti-Malware)
+
+3. **Datenübertragung (1 GiB Upload) mit gegebener Bandbreite**  
+   - Zeitaufwand berechnen (Mbit/s vs. Byte) → **03-03** (Kenngrößen, Übertragungsraten)
 
 ---
 
