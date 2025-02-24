@@ -524,34 +524,50 @@ Ab welcher Lizenzanzahl ist die Eigenentwicklung über einen Zeitraum von zehn J
 
 ---
 
-### 4. d
+### 4. d Struktogramm für die automatische Konfiguration
 
 Sie planen, eine eigene Lösung für eine automatisierte Konfiguration der Standardarbeitsplätze zu programmieren. Aus einer Datenbank werden alle zu konfigurierenden PCs ausgelesen. Danach wird für jeden PC aus der Datenbank die zu installierende, Software abgefragt und auf dem PC installiert.
 
-Es gibt die folgenden Variablen:
+**Es gibt die folgenden Variablen:**
 
-PCNr Ganzzahl - Laufvariable
-SoftwareNr Ganzzahl - Laufvariable
+- PCNr Ganzzahl - Laufvariable
+- SoftwareNr Ganzzahl - Laufvariable
 
-Es gibt die folgenden Felder (Array):
+**Es gibt die folgenden Felder (Array):**
 
-PCListe [ ] Stringliste mit den Namen der PC
-Softwarelistell Stringliste mit den Namen der Software
-Es stehen Ihnen die folgenden Funktionen zur Verfügung:
-getPC () - liefert eine Liste von PC-Namen aus der Datenbank
-getSoftware (String) - liefert zu dem angefragten PC eine Liste der zu installierenden Software
-instaliSoftware (String, String) Installiert die im ersten String angegebene Software auf dem im zweiten
-String übergebenen PC
+- PCListe [ ] Stringliste mit den Namen der PC
+- Softwarelistell Stringliste mit den Namen der Software
+
+**Es stehen Ihnen die folgenden Funktionen zur Verfügung:**
+
+- getPC () - liefert eine Liste von PC-Namen aus der Datenbank
+- getSoftware (String) - liefert zu dem angefragten PC eine Liste der zu installierenden Software
+- instaliSoftware (String, String) Installiert die im ersten String angegebene Software auf dem im zweiten String übergebenen PC
+
 Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein. 9 Punkte
 
-1. install Software (SoftwareListe [SoftwareNri, PCListe[PCNr])
+1. install Software (SoftwareListe [SoftwareNr], PCListe[PCNr])
 2. Solange SoftwareNr < Anzahl der Elemente in SoftwareListe i l
 3. PCListe[] = getPC ()
 4. PCNr = PCNr + 1
-5. PCNY = O
+5. PCNr = O
 6. Softwareliste [ ] = getSoftware (PCListe [PCNr])
 7. SoftwareNr = 0
 8. SoftwareNr = SoftwareNr + 1
-9. Solange PCNr < Anzahl d e r Elemente i n PCListell
+9. Solange PCNr < Anzahl der Elemente in PCListe()
 
 ---
+
+![Struktogramm](image-9.png)
+
+---
+
+### 4. e Daten-Upload in die Cloud
+
+Die Datenbank soll in der Cloud gesichert werden.
+
+Berechnen Sie die Zeit in Minuten, die für die Übertragung der 100 MiByte großen Datei bei einer VDSL-Leitung mit 100 Mbit/s
+download und 40Mbit/s upload benötigt wird.
+
+Das Ergebnis ist auf volle Sekunden aufzurunden.
+Der Rechenweg ist anzugeben. (4 Punkte)
