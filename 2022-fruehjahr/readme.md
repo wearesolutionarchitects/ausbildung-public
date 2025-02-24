@@ -352,3 +352,174 @@ zu können. (2 Punkte)
 
 ---
 
+### 3. b WPA-Enterprise RADIUS
+
+Zur Authentifizierung von Nutzern im WLAN gibt es neben dem WPA-PSK-Verfahren auch das EAP-Verfahren, welches auch als
+WPA-Enterprise-RADIUS bezeichnet wird.
+
+Nennen Sie je einen Vor- bzw. Nachteil und geben Sie eine Empfehlung, in welcher Unternehmensgröße es vorwiegend einge-
+setzt werden sollte. (3 Punkte)
+
+| Verfahren | Vorteil | Nachteil | Unternehmensgröße |
+| :--- | :--- | :--- | :--- |
+| WPA-PSK | Einfach umzusetzen | Unsicher, da PW mit steigender Anzahl von Nutzern schnell bekannt werden kann | Kleine Unternehmen mit wenigen Mitarbeitern |
+| EAP/WPA-Enterprise-RADIUS | ... | ... | ... |
+
+---
+
+### 3. c OSI-Schichten
+
+Sie versuchen, die Verbindung über das WLAN herzustellen, was leider zunächst nicht gelingt. Ihre Idee ist nun, eine Fehlerana-
+lyse basierend auf den verschiedenen Schichten des OSI-Modells durchzuführen.
+
+Ergänzen Sie zur Vorbereitung die leeren Felder in der folgenden Tabelle.
+Hinweis: Geben Sie pro Feld jeweils nur ein passendes Beispiel an. 6 (Punkte)
+
+| OSI-Schicht Nr. | OSI-Schicht Name | Verwendete Protokolle | Verwendete Adressen | Mögliche Fehler |
+| :--- | :--- | :--- | :--- | :--- |
+| 7 | Physikalische Schicht | ... | - | ... |
+| 4 | Transportschicht | TCP/UDP | Ports | Verlust eines Segments |
+| 3 | ... | ... | ... | ... |
+| 2 | ... | ... | ... | ... |
+| 1 | ... | - | - | Medium getrennt |
+
+---
+
+### 3. d WLAN-Standard
+
+![WLAN-Status](image-5.png)
+
+Entsprechend Ihres Plans starten Sie Ihre Fehlersuche im OSI-Modell von unten nach oben (Bottom-up), beginnend mit Schicht 1.
+Im obenstehenden Bild suchen Sie dazu Informationen über den Zustand der Verbindung.
+
+Benennen Sie einen Wert, welcher der OSI-Schicht 1 zuzuordnen ist und interpretieren Sie diesen bezüglich seiner Funktionali-
+tät. (4 Punkte)
+
+...
+
+---
+
+### 3. e WLAN-Standard OSI-Schichten 2 und 3
+
+Sie starten nun das Konsolenfenster zur Analyse der OSI-Schichten 2 und 3 und erhalten nach der Eingabe eines Befehls zur Anzeige der Netzwerkkonfiguration die folgende Ausgabe:
+
+![Drahtlos-Adapter](image-6.png)
+
+Trotz des fehlenden Netzwerkzugriffs werden zwei Adresen angezeigt.
+
+---
+
+#### 3. ea MAC-Adresse
+
+Beschreiben Sie die Herkunft der Adresse 50-1A-C5-F2-38-B7. (2 Punkte)
+
+...
+
+---
+
+#### 3. eb IPv6-Adresse
+
+Beschreiben Sie die Herkunft der Adresse fe80::85e1:1ec1:c9e2:3cbb. (2 Punkte)
+
+...
+
+---
+
+### 3. f WLAN-Standard
+
+Bei Ihrer Fehleranalyse legen Sie nun Ihren Fokus auf die Analyse der höheren OSI-Schichten.
+Nach Eingabe des Befehls zur Erneuerung der IP-Adresse wird nun die folgende Information angezeigt:
+
+![WLAN-Standard](image-7.png)
+
+#### 3. fa Serverbezeichnung
+
+Sie setzen Ihre Fehleranalyse nun fort
+
+Nennen Sie die Bezeichnung des Servers, der hier durch den Befehl zur Erneuerung der IP-Adresse kontaktiert wurde. (1 Punkt)
+
+...
+
+---
+
+#### 3. fb Hostadresse
+
+Geben Sie die nachfolgenden Adressen des hier angegebenen Hosts an. (3 Punkte)
+
+Netzadresse: ...  
+Hostadresse: ...  
+Broadcastadresse: ...  
+
+---
+
+#### 3. fc
+
+Um die nun veränderte Situation zu prüfen, geben Sie den Befehl „ping 192.168.0.1" ein und erhalten die folgende
+Ausgabe:
+
+![Ping](image-8.png)
+
+Sie analysieren die Ergebnisse Ihrer gesamten Fehlersuche.
+
+Benennen Sie den von Ihnen ermittelten Fehler. (2 Punkte)
+
+...
+
+...
+
+---
+
+## 4. Aufgabe
+
+Die AlRound AG plant, für die automatisierte Konfiguration der Standardarbeitsplätze eine Workspace-Management-Software
+einzusetzen. (26 Punkte)
+
+### 4. a Software-Funktionen
+
+Über die Workspace-Management-Software informieren Sie sich mit dem folgenden Text:
+
+Workspace management systems prepare the PC by installation and configuration, so that the user can immediately work with
+the programs. Prerequisite for the automatic installation are customized setups (packages), which do not require user input. The
+packages are installed and configured by a software distribution agent, which must be located on each PC. The patch manage-
+ment controls the administration and automatic installation of patches and updates. The integrated license management com-
+bines the data of available and actually used licenses and can thus not only prevent the procurement of neither to few nor
+too many software licenses. The data collection during the inventory is done remotely. It can also make use of proven network
+management tools such as SNMP. It is therefore not necessary for the responsible personnel to obtain physical access to the
+individual devices, as it is the case with an inventory. The data stock can be continuously updated by the automatic collection
+and not only once a year.
+
+Nennen Sie vier Leistungsmerkmale einer Workspace-Management-Software anhand des oben zitierten Textes. (4 Punkte)
+
+1. ...
+2. ...
+3. ...
+4. ...
+
+---
+
+### 4. b Cloud vs. on-premises
+
+Die Workspace-Management-Software wird cloudbasiert oder on-premises angeboten.
+Nennen Sie zwei Vor- und Nachteile einer cloudbasierten Software gegenüber der on-premises. (4 Punkte)
+
+| Software | Vorteil | Nachteil |
+| :--- | :--- | :--- |
+| Cloud | ... | ... |
+| Cloud | ... | ... |
+| On-premises | ... | ... |
+| On-premises | ... | ... |
+
+---
+
+### 4. c interne vs. externe Lizenzkosten
+
+Für die Workspace-Management-Software können die Lizenzen von einem externen Anbieter für 25,00 EUR je Lizenz und Jahr bezogen werden.
+
+Für die Eigenentwicklung wird ein Personalaufwand von 12.000 Stunden veranschlagt. Die jährliche Wartung wird mit 140 Stunden pro Jahr über einen Zeitraum von zehn Jahren veranschlagt. Eine Mitarbeiterstunde wird mit dem internen Kostensatz
+von 75 EUR berechnet.
+
+Ab welcher Lizenzanzahl ist die Eigenentwicklung über einen Zeitraum von zehn Jahren günstiger als der Fremdbezug? (Lohnsteigerungen und Erhöhung der Lizenzpreise sollen nicht berücksichtigt werden.) (5 Punkt)
+
+...
+
+---
