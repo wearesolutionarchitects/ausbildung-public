@@ -57,8 +57,14 @@ body:
       label: "Aufgaben"
       description: "Bitte die Issues der Aufgaben als Checkliste eintragen."
       placeholder: "- [ ] Aufgabe 1\n- [ ] Aufgabe 2\n- [ ] Aufgabe 3\n"
-  - type: text
-    id: Sub-Issue
+  - type: checkboxes
+    id: sub-issues
     attributes:
-      label: "Sub-Issue"
-      description: "Bitte abschließend Issue der Aufgabe als Sub-Issue ergänzen."
+      label: Sub-Issues
+      description: Verknüpfte Issues
+      options:
+        - label: "Aufgabe 1"
+        - label: "Aufgabe 2"
+        - label: "Aufgabe 3"
+
+      
