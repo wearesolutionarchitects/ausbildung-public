@@ -8,7 +8,7 @@ body:
   - type: dropdown
     id: themenbereich
     attributes:
-      label: "Wählen des Themenbereich für den Trainingsbeitrag"
+      label: "Wählen des Themenbereiches für den Trainingsbeitrag"
       description: "Auswahl eines Themenbereichs für den Trainingsbeitrag."
       options:
         - "01-01 Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können"
