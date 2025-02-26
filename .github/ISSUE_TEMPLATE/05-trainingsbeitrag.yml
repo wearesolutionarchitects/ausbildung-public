@@ -1,0 +1,56 @@
+name: "Trainingsbeitrag"
+about: "Ein einfaches Issue-Template für die Erstellung eines Trainingsbeitrags der AP 1"
+title: "[??:??] [Themenbereich] [Titel]"
+labels:
+  - "Frage"
+body:
+  - type: dropdown
+    id: themenbereich
+    attributes:
+      label: "Wählen des Themenbereich für den Trainingsbeitrag"
+      description: "Auswahl eines Themenbereichs für den Trainingsbeitrag."
+      options:
+        - "01-01 Merkmale eines Projektes"
+        - "01-02 Projektplanung mithilfe von Strukturplan, Netzplan und Gantt-Diagramm"
+        - "01-03 Projektphasen am Beispiel des Wasserfallmodells bzw. SCRUM"
+        - "01-04 Phasen der Teambildung"
+        - "01-05 Reflektionsmethoden"
+        - "01-02 Machbarkeit und Wirtschaftlichkeit von Projekten"
+        - "02-01 Marktsituationen bewerten"
+        - "02-02 Zielgruppengerechte Bedarfsanalyse"
+        - "02-03 Zielgerichtete Methoden zur Kundenberatung"
+        - "02-04 Informationen aufbereiten und präsentieren"
+        - "02-05 Marketingaktivitäten unterstützen"
+        - "03-01 Marktgängige IT-Systeme kennen"
+        - "03-02 Typische IT-Systeme und deren Einsatzbereiche"
+        - "03-03 Leistungsfähigkeit und Energieeffizienz"
+        - "03-04 Wirtschaftlichkeit von IT-Systemen"
+        - "04-01 IT-Systeme konzeptionieren"
+        - "04-02 Bedarfsgerechte Hardware Auswahl"
+        - "04-03 Bedarfsgerechte Software Auswahl"
+        - "04-04 Urheberrechtsgesetz und Lizenzmodelle"
+        - "04-05 Installations- und Konfigurationsaktivitäten"
+        - "04-06 Programmiersprachen"
+        - "04-07 Programmierwerkzeuge"
+        - "04-08 Grundlagen von relationalen Datenbanken"
+        - "05-01 QM-Grundverständnis"
+        - "05-02 Maßnahmen des Qualitätsmanagements"
+        - "06-01 IT-Sicherheit und Datenschutz"
+        - "06-02 Schutzbedarfsanalyse durchführen"
+        - "06-03 Sicherheitskonzept modellieren"
+        - "06-04 Sicherheitskonzept umsetzen"
+        - "07-01 Vertragsarten und Vertragsstörungen"
+        - "07-02 Zielsetzungen des Unternehmens"
+        - "07-03 Leistungserbringung Varianten"
+        - "07-04 Abstimmung der Leistungserbringung"
+        - "07-05 Veränderungsprozesse begleiten"
+        - "07-06 Leistungsübergabe und Einweisung"
+        - "07-07 Leistungserbringung bewerten"
+  - text: "Bitte das Subthema des Themenbereiches angeben und den Beitrag im Markdown-Format eintragen."
+  - type: textarea
+    id: beitrag
+    attributes:
+      label: "Trainingsbeitrag"
+      description: "Bitte den Trainingsbeitrag im Markdown-Format eintragen."
+      placeholder: "# [Subthema]\n\n## Inhalt\n\n ## Aufgaben: [Issue] bzw. Sub-Issue\n\n --- "
+  - type: textarea
