@@ -1,5 +1,4 @@
 name: "Trainingsbeitrag"
-about: "Ein einfaches Issue-Template für die Erstellung eines Trainingsbeitrags der AP 1"
 title: "[??:??] [Themenbereich] [Titel]"
 labels:
   - "Frage"
@@ -10,12 +9,10 @@ body:
       label: "Wählen des Themenbereich für den Trainingsbeitrag"
       description: "Auswahl eines Themenbereichs für den Trainingsbeitrag."
       options:
-        - "01-01 Merkmale eines Projektes"
-        - "01-02 Projektplanung mithilfe von Strukturplan, Netzplan und Gantt-Diagramm"
-        - "01-03 Projektphasen am Beispiel des Wasserfallmodells bzw. SCRUM"
+        - "01-01 Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können"
+        - "01-02 Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen können"
+        - "01-03 Arbeitsaufgaben im Rahmen von Geschäfts- und Leistungsprozessen planen, vorbereiten und durchführen"
         - "01-04 Phasen der Teambildung"
-        - "01-05 Reflektionsmethoden"
-        - "01-02 Machbarkeit und Wirtschaftlichkeit von Projekten"
         - "02-01 Marktsituationen bewerten"
         - "02-02 Zielgruppengerechte Bedarfsanalyse"
         - "02-03 Zielgerichtete Methoden zur Kundenberatung"
@@ -46,7 +43,6 @@ body:
         - "07-05 Veränderungsprozesse begleiten"
         - "07-06 Leistungsübergabe und Einweisung"
         - "07-07 Leistungserbringung bewerten"
-  - text: "Bitte das Subthema des Themenbereiches angeben und den Beitrag im Markdown-Format eintragen."
   - type: textarea
     id: beitrag
     attributes:
@@ -54,3 +50,6 @@ body:
       description: "Bitte den Trainingsbeitrag im Markdown-Format eintragen."
       placeholder: "# [Subthema]\n\n## Inhalt\n\n ## Aufgaben: [Issue] bzw. Sub-Issue\n\n --- "
   - type: textarea
+    id: subthema
+    attributes:
+      label: "Subthema"
