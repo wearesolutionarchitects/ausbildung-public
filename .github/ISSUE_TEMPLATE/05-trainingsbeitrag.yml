@@ -50,8 +50,10 @@ body:
     attributes:
       label: "Trainingsbeitrag"
       description: "Bitte den Trainingsbeitrag im Markdown-Format eintragen."
-      placeholder: "# [Subthema]\n\n## Inhalt\n\n ## Aufgaben: [Issue] bzw. Sub-Issue\n\n --- "
+      placeholder: "# [Subthema]\n\n## Inhalt\n\n"
   - type: textarea
     id: subthema
     attributes:
-      label: "Subthema"
+      label: "Aufgaben"
+      description: "Bitte die Issues der Aufgaben als Checkliste eintragen."
+      placeholder: "- [ ] Aufgabe 1\n- [ ] Aufgabe 2\n- [ ] Aufgabe 3\n"
