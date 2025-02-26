@@ -1,7 +1,9 @@
 name: "Trainingsbeitrag"
 title: "[??:??] [Themenbereich] [Titel]"
-labels:
-  - "Frage"
+description: "Ein einfaches Issue-Template für die Erstellung eines Trainingsbeitrags der AP 1"
+labels: ["documentation", "Trainingsbeitrag", "Abschlussprüfung 1"]
+assignees: []
+
 body:
   - type: dropdown
     id: themenbereich
