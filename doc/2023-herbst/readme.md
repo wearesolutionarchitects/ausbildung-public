@@ -13,25 +13,26 @@ Termin: Dienstag, 19. September 2023
 ## Themen / Lernfelder
 
 - Use Case Diagramm (UML)
-  - [ ] **siehe Aufgabe 1a**
+  - [ ] [1a](#1-a-6-punkte)
 - ERD (Entity-Relationship-Diagramm)  
-  - [ ] **siehe Aufgaben 3c, 4c**
+  - [ ] [3c](#3-c-4-punkte)
+  - [ ] [4c](#4)
 - SQL-Abfragen
-  - [ ] **siehe Aufgaben 3cb, 3cc, 3cd, 4cb, 4cc**
+  - [ ]n 3cb, 3cc, 3cd, 4cb, 4cc**
 - Übersetzung englischer Texte zum Service in Deutsch
-  - [ ] **siehe Aufgabe 1d**
+  - [ ] 1d**
 - Prozessanalyse und Prozessverbesserung
-  - [ ] **siehe Aufgaben 1b, 1c**
+  - [ ]n 1b, 1c**
 - Kommunikationsmodelle (Vier-Ohren-Modell)  
-  - [ ] **siehe Aufgabe 1e**
+  - [ ] 1e**
 - Preiskalkulation und Service-Pricing  
-  - [ ] **siehe Aufgaben 1d, 2e**
+  - [ ]n 1d, 2e**
 - Arbeitsschutz, Ergonomie und Telearbeit  
-  - [ ] **siehe Aufgaben 2a, 2b, 2c, 2d**
+  - [] n 2a, 2b, 2c, 2d**
 - Datenschutz und IT-Sicherheit (BSI, TOM, Verschlüsselung, VPN)
-- [ ] **siehe Aufgaben 3a, 3b, 3c, 3d**
+- [ ] n3a, 3b, 3c, 3d**
 - Projektmanagement (Gantt, Netzplan)
-  - [ ] **siehe Aufgaben 4a, 4b**
+  - [ ] n 4a, 4b**
 
 ## Situation
 
