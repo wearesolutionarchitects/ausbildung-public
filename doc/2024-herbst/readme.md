@@ -28,29 +28,45 @@ Termin: Mittwoch, 28. Februar 2024
 
 ---
 
-3. **04-06 Programmiersprachen / Softwareentwicklung**  
-   - **Aufgaben**: 2b (Kriterium Programmiersprache), 2c (Compiler vs. Interpreter), 2e (OOP-Funktion checkAuthority und Array-Prüfung)
+### 04-06 Programmiersprachen / Softwareentwicklung
 
-4. **04-07 Programmierwerkzeuge (UML)**  
-   - **Aufgaben**: 2d (UML-Anwendungsfalldiagramm)
+- [ ] [2b Kriterium Programmiersprache](#b-progammiersprache-3-punkte)
+- [ ] [2c Compiler vs. Interpreter](#c-compiler-und-interpreter-3-punkte)
+- [ ] [2e OOP-Funktion checkAuthority und Array-Prüfung](#e-array-in-pseudocode-6-punkte)
 
-5. **03-04 Wirtschaftlichkeit von IT-Systemen (Finanzierung / Leasing, Kostenvergleiche)**  
-   - **Aufgaben**: 3a (Ratendarlehen für PCs), 4c und 4d (Vorteile Leasing, Nutzung nach Ablauf)
+---
 
-6. **03-01 Marktgängige IT-Systeme (Hardware, RAM, SSD)**
-   - **Aufgaben**: 3b (RAM-Kompatibilität / Empfehlung, SSD-Vorteile)
+### 04-07 Programmierwerkzeuge (UML)
 
-7. **06-04 IT-Sicherheitsmaßnahmen (Phishing-Schutz)**  
-   - **Aufgaben**: 3c (Phishing: Gefahren, Anzeichen, Schutz)
+- [ ] 2d [UML-Anwendungsfalldiagramm](#d-uml-anwendungsfall-diagramm-5-punkte)
 
-8. **04-01 IT-Systeme konzipieren (Lasten- und Pflichtenheft)**
-   - **Aufgaben**: 4a (Zweck und Inhalte Lasten-/Pflichtenheft)
+---
 
-9. **04-08 Grundlagen von relationalen Datenbanken** (bei Datenmodellierung)
-   - **Aufgaben**: 4b (ER-Modell ergänzen, redundanzfrei mit Kardinalitäten)
+### 03-04 Wirtschaftlichkeit von IT-Systemen (Finanzierung / Leasing, Kostenvergleiche)
 
-10. **03-01 Marktgängige IT-Systeme (ökologische Aspekte)**
-    - **Aufgaben**: 4e (zwei ökologische Aspekte bei Neuinvestition)
+- [ ] 3a Ratendarlehen für PCs, 4c und 4d (Vorteile Leasing, Nutzung nach Ablauf)
+
+### 03-01 Marktgängige IT-Systeme (Hardware, RAM, SSD)
+
+- [ ] 3b (RAM-Kompatibilität / Empfehlung, SSD-Vorteile)
+
+### 06-04 IT-Sicherheitsmaßnahmen (Phishing-Schutz)
+
+- [ ] 3c (Phishing: Gefahren, Anzeichen, Schutz)
+
+### 04-01 IT-Systeme konzipieren (Lasten- und Pflichtenheft)
+
+- [ ] 4a (Zweck und Inhalte Lasten-/Pflichtenheft)
+
+### 04-08 Grundlagen von relationalen Datenbanken** (bei Datenmodellierung)
+
+- [ ] 4b (ER-Modell ergänzen, redundanzfrei mit Kardinalitäten)
+
+### 03-01 Marktgängige IT-Systeme (ökologische Aspekte)
+
+- [ ] 4e (zwei ökologische Aspekte bei Neuinvestition)
+
+---
 
 ## Die Aufgaben 1 bis 4 beziehen sich auf folgende Ausgangssituation
 
@@ -197,6 +213,8 @@ Erläutern Sie den wesentlichen Unterschied zwischen den beiden Übersetzungsart
 
 **Interpreter:** ...
 
+---
+
 ### d. UML-Anwendungsfall-Diagramm (5 Punkte)
 
 Sie werden beauftragt, für die Schlüsselsystemsoftware ein UML-Anwendungsfaldiagramm (Use-Case) zu erstellen. Die folgenden Anforderungen liegen vor:
@@ -209,6 +227,10 @@ Ergänzen Sie das gegebene UML-Anwendungsfalldiagramm.
 
 ---
 
+![Anwendungsfall-Diagramm](img/uml_use_case.png)
+
+---
+
 ### e. Array in Pseudocode (6 Punkte)
 
 Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erstelt. Diese übergibt eine Mitarbeiter-ID und eine Raumnummer, um abzufragen, ob für diesen Raum eine Zutritsberechtigung besteht. Ermitteln und begründen Sie den Rückgabewert, der bei Aufruf der Funktion mit id = 3 und romNr = 236 geliefert wird.
@@ -218,9 +240,173 @@ Die Funktion greift auf ein globales zweidimensionales Array keyData [][] zu. In
 folgenden Spalten enthalten die Räume, für die eine Zutrittsberechtigung besteht. Der Zeilen- und Spaltenindex beginnt bei O.
 Es gibt **keine Kopfzeile** im Array, sie dient nur zur Erläuterung.
 
-| | Mitarbeiter-ID | Room1 | Room 2 | Room 3 | Room 4 | Room 5 | Room 6 | Roomxx |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 223 | 312 | 154 | 47 | 124 | 236 | 241 | 242 |
+| Mitarbeiter-ID | Room1 | Room 2 | Room 3 | Room 4 | Room 5 | Room 6 | Roomxx |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 223 | 312 | 154 | 47 | 124 | 236 | 241 |
+| 2 | 103 | 401 | 14 | 236 | 56 | | |
+| 3 | 20 | 312 | 235 | 17 | 124 | 32 | |
+
+---
+
+```pseudocode
+Funktion checkAuthority (id, roomNr)
+   Für i von 0 bis (AnzahlZeilen von keyData) - 1
+      Für j von 1 bis (AnzahlBelegteSpalten von keyData) - 1
+         Wenn id gleich keyData[i][0] und roomNr gleich keyData[i][j] dann
+            Rückgabe True
+         Ende Wenn
+      Ende Für
+   Ende Für
+      Rückgabe False
+Ende Funktion
+```
+
+---
+
+### f. Berechnen von Gesamtkosten, Netto- und Bruttopreis (6 Punkte)
+
+Eine Schule hat eine Anfrage zur Ausstattung ihres Schließsystems gestelt. Die benötigten Komponenten sind:
+
+- 65 Schließzylinder zu einem Stückpreis von 512,00 EUR (Nettopreis).
+- 80 Transponder zu einem Stückpreis von 39,00 EUR (Nettopreis).
+- Ein Programmiergerät zum Preis von 2.300,00 EUR (Nettopreis).
+- Eine Administrationssoftware, die eine jährliche Lizenzgebühr von 349,00 EUR (Nettopreis) hat.
+
+Berechnen Sie die Gesamtkosten für die Schule über einen Zeitraum von fünf Jahren. Geben Sie sowohl den Nettopreis als auch den Bruttopreis bei 19% Mehrwertsteuer an. Der Rechenweg ist anzugeben.
+
+...
+
+## 3. Aufgabe (24 Punkte)
+
+Die Identify OHG möchte Computer kaufen und Sie begleiten den Beschafungsprozess. Ferner soll der Arbeitsspeicher bestehender Laptops erweitert werden.
+
+### a. Ratendarlehen für PCs (7 Punkte)
+
+Ein Angebot für die zehn Computer beläuft sich auf 12.000 EUR.
+
+Die Identify OHG entschließt sich zum Kauf der Computer auf Kredit und erhält von der Kleinstadt-Bank ein Angebot für ein Ratendarlehen.
+
+- Nominalzins: 6 % jährlich
+- Laufzeit: 36 Monate
+- Tilgung: jeweils in gleichen Beträgen zum Jahresende
+
+Ermitteln Sie für den genannten Darlehensbetrag die jährlichen Zahlungen und die fäligen Gesamtzinsen sowie die Zahlungen insgesamt.
+
+| Zeitraum | Restschuld EUR | Zinsen EUR | Tilgung | Zahlungen 12 Monate EUR |
+| :--- | :--- | :--- | :--- | :--- |
+| 01.04.2025 - 31.03.2026 | | | | |
+| 01.04.2026 - 31.03.2027 | | | | |
+| 01.04.2027 - 31.03.2028 | | | | |
+| Summe | | | 12.000 | |
+
+---
+
+### b. RAM-Kompatibilität und Empfehlung (4 Punkte)
+
+Der Abteilungsleiter der Entwicklungsabteilung der Identify OHG möchte, dass in Zukunft alle entwickelten Anwendungen auf der firmeninternen Cloud ausgerollt werden. Darum müssen alle Anwendungen auch mit entsprechenden Tols entwickelt und getestet werden. Aus den Hardwareanforderungen eines dieser Tools geht hervor, das die Laptops der Entwickler folgende Bedingungen erfüllen müssen:
+
+- Windows 11
+- 32 GB RAM
+
+Der aktuelle Laptop der Entwickler verfügt über die folgenden Eckdaten:
+
+- Prozessor: Intel® Coret™ i5-1335U Prozessor der 13. Generation
+- Betriebssystem: Windows 11 Professional (64 Bit)
+- Grafik: Integrierte Intel® UHD-Grafik
+- Arbeitsspeicher: 16 GB DDR4-3200MHz
+- Massenspeicher: 1 TB HDD
+- WLAN: Intel® Wi-Fi 6 AX201 2x2 AX und Bluetooth® 5.1
+
+---
+
+Der Abteilungsleiter der Entwicklungsabteilung hat sich dazu entschieden, das die vorhandenen Laptops um den benötigten Arbeitsspeicher erweitert werden. Der Laptop verfügt über einen weiteren Slot für einen weiteren Arbeitsspeicher-Riegel. Von dem Hardware-Dienstleister der Identify OHG bekommen Sie folgende drei Arbeitsspeicher angeboten:
+
+**Arbeitsspeicher 1 - 82,20 EUR:**
+
+- 16 GB DDR5-6000MHz
+
+**Arbeitsspeicher 2 - 75,70 EUR:**
+
+- 16 GB DDR4-5600MHz
+
+**Arbeitsspeicher 3 - 31,80 EUR:**
+
+- 16 GB DDR4-3200MHz
+
+---
+
+#### ba RAM-Kompatibilät  (3 Punkte)
+
+Erklären Sie die Kompatibilität für jeden der drei Arbeitsspeicher mit dem vorhandenen Laptop.
+
+**Arbeitsspeicher 1:**
+
+- ...
+
+**Arbeitsspeicher 2:**
+
+- ...
+
+**Arbeitsspeicher 3:**
+
+- ...
+
+---
+
+#### bb RAM Empfehlung und Begründung (2 Punkte)
+
+...
+
+---
+
+#### bc SSD-Vorteile (3 Punkte)
+
+Sie schlagen dem Abteilungsleiter vor, die HDD im Laptop mit einer SD zu ersetzen.
+Nennen Sie drei Vorteile einer SSD gegenüber einer HDD.
+
+1. ...
+2. ...
+3. ...
+
+---
+
+### c. Phishing (3 Punkte)
+
+Bei der Korrespondenz mit dem Hardwarelieferanten werden häufig E-Mails ausgetauscht. Sie warnen die Anwender darum vor Phishingmails.
+
+#### ca Gefahren (2 Punkt)
+
+Beschreiben Sie eine Gefahr durch Phishingmails.
+
+...
+
+---
+
+#### cb Anzeichen zur Erkennung von Phisingmails (3 Punkt)
+
+Nennen Sie drei Anzeichen, an denen der User erkennen kann, dass es sich um eine Phishingmail handelt.
+
+1. ...
+2. ...
+3. ...
+
+---
+
+#### cc Schutzmaßnahmen (2 Punkte)
+
+Nennen Sie zwei Maßnahmen, die Sie **dem Unternehmen** zum Schutz vor Phishingmails empfehlen.
+
+1. ...
+2. ...
+
+---
+
+#### cd Maßnahmen beim Empfangen von Mails (2 Punkte)
+
+Nennen Sie zwei Maßnahmen, die das Unternehmen **den Mitarbeitern** beim Empfang von Mails vorgibt, um sich vor Phishingmail zu schützen.
+
+1. ...
+2. ...
 
 ---
 
