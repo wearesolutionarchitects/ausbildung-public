@@ -14,11 +14,19 @@ Termin: Mittwoch, 28. Februar 2024
 
 ## Inhaltsverzeichnis – Katalogthemen und Zuordnung zu den Aufgaben
 
-1. **06-04 IT-Sicherheitsmaßnahmen (BSI IT-Grundschutz, Netzwerksegmentierung, Technische / organisatorische Maßnahmen)**
-   - **Aufgaben**: 1a (Zutrittskontrolle), 1b (Sicherheitsrisiken), 1c (sicher konfigurierte Präsentationsrechner), 1d (IP-Netztrennung und MAC-Adresse)
+### 06-04 IT-Sicherheitsmaßnahmen (BSI IT-Grundschutz, Netzwerksegmentierung, Technische / organisatorische Maßnahmen)
 
-2. **01-02 Machbarkeit und Wirtschaftlichkeit von Projekten**  
-   - **Aufgaben**: 2a (Fremdvergabe vs. Eigenentwicklung – Argumente), 2f (Kostenberechnung Schließzylinder & Transponder über 5 Jahre)
+- [ ] [1a Zutrittskontrolle](#a-zugangs--und-zugriffskontrolle-3-punkte)
+- [ ] [1b Sicherheitsrisiken](#b-sicherheitsrisiken-3-punkte)
+- [ ] [1c sicher konfigurierte Präsentationsrechner](#c-maßnahmen-zur-absicherung-6-punkte)
+
+---
+
+### 01-02 Machbarkeit und Wirtschaftlichkeit von Projekten
+
+- [ ] [2a Fremdvergabe vs. Eigenentwicklung – Argumente](#a-fremdvergabe-2-punkte)
+
+---
 
 3. **04-06 Programmiersprachen / Softwareentwicklung**  
    - **Aufgaben**: 2b (Kriterium Programmiersprache), 2c (Compiler vs. Interpreter), 2e (OOP-Funktion checkAuthority und Array-Prüfung)
