@@ -412,3 +412,106 @@ Hinweis: Konnten Sie in e) kein Netzteil ermiteln, rechnen Sie mit 750 Watt weit
 ...
 
 ---
+
+## 4. Aufgabe (26 Punkte)
+
+Mit Herm Müller wurde ein neuer Mitarbeiter eingestellt, der mit dem hausinternen CAD-Programm die Realisierungsmöglichkeiten der Aufträge überprüfen soll, um eine für alle Seiten optimale Lösung zu finden.
+
+In einigen Fällen wird von ihm erwartet, dass er für wenige Tage beim Kunden vor Ort tätig wird. Zu diesen Terminen wird ihm ein leistungsfähiger Laptop zur Verfügung gestellt.
+
+Die Erstellung und das Bearbeiten einer Konstruktionszeichnung erfordert eine große Rechnerleistung und einen hohen Speicher-bedarf, sodass bei Außenterminen dies auf der lokalen Festplatte des Laptops erfolgen muss.
+
+### 4a Maßnahmen zum Schutz der Vertraulichkeit (6 Punkte)
+
+Herr Müller möchte seine berufsbedingten Fahrten mit Bus und Bahn und die Aufenthalte auf öffentlichen Plätzen zur Erle-digung betrieblicher Arbeiten nutzen. Allerdings sind dabei zur Gewährleistung der Geheimhaltung besondere Vorsichtsmaß-nahmen erforderlich.
+
+Nennen Sie Herrn Müller drei geeignete Maßnahmen Sie dabei auf eine mögliche Folge einer Nichtbeachtung hin.
+Ergänzen Sie dazu die nachfolgende Tabelle.
+
+| Maßnahmen oder Verhaltensweisen | Folge bei Nichtbeachtung |
+|:---|:---|
+| *Beispiel: Nutzung einer Blickschutzfolie* | *Beispiel: Bildschirminhalt kann von Unberechtigten gelesen werden* |
+| ... | ... |
+| ... | ... |
+| ... | ... |
+
+---
+
+### 4b VPN (2 Punkte)
+
+Herr Müller sichert seine Daten möglichst auf dem Server der KustoFlex GmbH über VPN.
+
+Erklären Sie die Funktionalität des Begriffs VPN.
+
+...
+
+---
+
+### 4c Internetverbindung und Datensicherheit (3 Punkte)
+
+Herr Müller kritisiert, dass im Außendienst nicht immer eine stabile Internetverbindung zur Verfügung steht.
+
+Nach den Sicherheitsrichtlinien der Kustoflex GmbH sind für lokal gespeicherte Daten Tagesvollsicherungen auf mehreren
+(nummerierten) externen Festplatten vorgesehen.
+
+Nennen Sie Herrn Müller drei Punkte, die zu beachten sind, wenn die lokal gespeicherten Daten mithilfe von externen Festplat-
+ten möglichst zuverlässig gesichert werden sollen. Benücksichtigen Sie dabei die Datensicherheitsaspekte.
+
+1. ...
+2. ...
+3. ...
+
+---
+
+### 4d Malware (6 Punkte)
+
+Sie informieren Herm Müler über „Malware" als Oberbegriff für Schadsoftware.
+
+#### da. Arten von Malware (3 Punkte)
+
+Nennen Sie drei Arten von Malware.
+
+1. ...
+2. ...
+3. ...
+
+---
+
+#### db. Spezifische Merkmale von Malware (3 Punkte)
+
+Weisen Sie den in Aufgabe da) genannten Arten jeweils ein spezifisches Merkmal zu.
+
+1. ...
+2. ...
+3. ...
+
+---
+
+### 4e Schutzmaßnahmen (3 Punkte)
+
+Eine Antivirensoftware ist bereits auf dem Laptop installiert.
+
+Erläutern Sie Herm Müler drei weitere organisatorische oder technische Empfehlungen, wie man sich vor Malware schützen
+kann.
+
+1. ...
+2. ...
+3. ...
+
+---
+
+### 4f Datenübertragung (6 Punkte)
+
+Berechnen Sie zur Verdeutlichung des Zeitaufwands für Herr Müller die Übertragungsdauer, wenn er Daten mit einem Umfang von 1 GiB aufgrund des Ergebnisses des Speedtests abspeichern Möchte. Der Rechenweg ist mit anzugeben.
+
+Ergebnis des Speedtests:
+
+| **Download** | **Upload** |
+|:---|:---|
+| 75.78 Mbit/s | 50.02 Mbit/s |
+
+Runden Sie das Ergebnis auf volle Sekunden auf und stellen Sie das Ergebnis in Minuten und Sekunden dar.
+
+...
+
+---
