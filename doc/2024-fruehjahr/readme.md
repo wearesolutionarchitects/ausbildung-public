@@ -231,3 +231,184 @@ Benenen Sie in der folgnden Tabelle aufgeführten OSI-Schichten und ordnen Sie z
 |1|...|...|
 
 ---
+
+### c. IPv6 (5 Punkte)
+
+Sie analysieren nun die in Abb. 1 angezeigte IPv6 Adresse "fe80:521a:c5ff.fef2:38b7"
+
+Nennen Sie die folgenden zugehörigen Werte:
+
+- Länge der IPv6-Adresse in Bits:
+
+  ...
+
+- Ungekürzte Darstellung der IPv6-Adresse in Hexadezimalschreibweise:
+
+  ...
+
+- Präfxlänge:
+
+  ...
+
+- Interface-Identifier:
+
+  ...
+
+---
+
+### d. DHCP (2 Punkte)
+
+![Abbildung 1 (Wiederholung)](image-2.png)
+
+Nennen Sie unter Bezugnahme auf Abb, 1 die Informationen, die der DHCP-Server Ihrem Client zur Verfügung stellt.
+
+1. ...
+2. ...
+
+---
+
+### e. ARP (3 Punkte)
+
+Zur weiteren Analyse Ihrer Netzwerkkonfiguration geben Sie den Befehl „arp -a" ein und erhalten die folgende Ausgabe (Abb. 2):
+
+```plaintext
+PS C:XWINDOWS\system32>arp - a
+
+- Schnittstelle : 192.168.0.52 --- 0x5
+- Internetadresse: 192.168.0.1
+- Physische Adresse: d4-3f-cb-8c-37-8b
+- Typ: dynamisch
+```
+
+Erläutern Sie anhand des Beispiels in Abb. 2 die grundlegende Aufgabe des Address Resolution Protocol (ARP) bei der Netzwerk-
+kommunikation in einem LAN.
+
+...
+
+---
+
+### f. Ping (2 Punkte)
+
+Geben Sie einen geeigneten Befehl an, um von Ihrem PC aus die Erreichbarkeit der Internetadresse (siehe Abb. 2) zur prüfen.
+
+...
+
+---
+
+### g. IPv4 und MAC (4 Punkte)
+
+In den Abbildungen 1 und 2 haben Sie Informationen zu dem Datenverkehr der ARP-Kommunikation zwischen Ihrem PC und
+dem weiteren PC in Ihrem Netzwerk erhalten.
+
+Ordnen Sie in der folgenden Skizze die IP-Adressen und die Physischen Adressen richtig zu.
+
+| | | |
+|:---|:---|:---|
+|  | 🖥️ | 🖥️ |
+|  | Eigener PC | Weiterer PC in Netzwerk |
+| IP-Adresse | ... | ... |
+| Physische Adresse | ... | ... |
+
+---
+
+## 3. Aufgabe (24 Punkte)
+
+Ein Kunde sendet seine Daten für ein Bauteil im PLY-Format. Da Ihnen das Format nicht bekannt ist, suchen Sie nach Informationen über das Dateiformat und seinen Aufbau.
+
+### 3a unbekanntes Dateiformat (PLY) (6 Punkte)
+
+1. ...
+2. ...
+3. ...
+
+---
+
+### 3b Dateikonvertierung (2 Punkte)
+
+Sie haben erfahren, dass es sich bei dem Polygon File Format (PLY) um ein Dateiformat zur Speicherung dreidimensionaler
+Daten handelt. Ihr betriebseigenes CAD-System benötigt aber die Daten im OBJ oder STL-Format.
+
+Nennen Sie eine Möglichkeit, wie Sie die Kundendaten in Ihrem CAD-System dennoch verwenden können.
+
+...
+
+---
+
+### 3c ASCII vs. Binärformat (4 Punkte)
+
+Sie haben Informationen über den Aufbau einer PLY-Datei erhalten. Eine PLY-Datei kann im ASCII-Format oder als Binärdatei
+gespeichert sein.
+
+Erläutern Sie den Unterschied zwischen einer Datei im ASCII Format und einer Datei im Binär Format.
+
+1. ...
+2. ...
+
+---
+
+### 3d Speicher- und Farbberechnung (8 Punkte)
+
+In einer PLY-Datei sind 3840 Punkte gespeichert. Jeder Punkt wird durch x, y und z Koordinaten bestimmt, Jede Koordinate
+wird durch einen 32-Bit-Float-Wert codiert.
+
+#### da. Speicherbedarf (3 Punkte)
+
+Berechnen Sie, wie viele Kibibyte Sie benötigen, um die 3.840 Punkte zu speichern. Der Speicherbedarf des Datei-Headers
+und Farbcodierungen sollen nicht berücksichtigt werden.
+
+...
+
+---
+
+#### db. Farben (2 Punkte)
+
+Jeder Punkt soll jetzt im RGB-Farbraum mit je 8 Bit pro Farbkanal codiert werden.
+Berechnen Sie, wie viele verschiedene Farben sich damit darstellen lassen.
+
+...
+
+---
+
+##### dc. Farbwerte (3 Punkte)
+
+Berechnen Sie, wie viel Prozent Speicher Sie pro Bildpunkt zusätzlich benötigen, um die Farbwerte zu speichern.
+
+...
+
+---
+
+### 3e Netzteil-Leistung (8 Punkte)
+
+Sie werden beauftragt, das Netzteil für einen CAD-Rechner auszuwählen. Es stehen Netzteile von 400 W in 50-w-Schritten bis
+1200 W zur Verfügung. Die folgenden Komponenten wurden bereits ausgewählt.
+
+Zu der ermittelten Leistungsaufnahme ist ein Puffer von 10 % hinzuzurechnen.
+
+| **Komponente**| **Maximale Leistungsaufnahme in Watt je Stück** | **Anzahl** |
+|:---|:---|:---|
+| Mainboard | 20 | 1 |
+| Prozessor | 172 | 1 |
+| Prozesssor-Lüfter | 12 | 1 |
+| Arbeitsspeicher | 5 | 4 |
+| Grafikkarte | 310 | 1 |
+| M.2 SSD | 5 | 2 |
+| Gehäuselüfter | 8 | 2 |
+
+Berechnen Sie die ermittelte Leistungsaufnahme mit Puffer und benennen Sie das ausgewählte Netzteil.
+
+...
+
+---
+
+### 3f Stromkosten (3 Punkte)
+
+Der PC wird an 200 Arbeitstagen je 9 Stunden laufen. Das Netzteil hat einen Wirkungsgrad von 90 % und wird im Schnit zu
+50 % ausgelastet sein.
+
+Berechnen Sie die Stromkosten bei einem Preis von 0,40 EUR pro kWh.
+
+Hinweis: Konnten Sie in e) kein Netzteil ermiteln, rechnen Sie mit 750 Watt weiter.
+
+...
+
+---
