@@ -1,4 +1,4 @@
-# Abschlussprüfung Herbst 2023 Teil 1 der Abschlussprüfung
+# Abschlussprüfung Herbst 2023 Teil 1
 
 **Einrichten eines IT-gestützten Arbeitsplatzes.**
 
@@ -10,10 +10,21 @@ Termin: Dienstag, 19. September 2023
 
 ---
 
-## Themen / Lernfelder
+## Inhaltsverzeichnis
+
+### 01-03 Arbeitsaufgaben im Rahmen von Geschäfts- und Leistungsprozessen planen, vorbereiten und durchführen
+
+- [ ] [1b Störungs-Management](#1b-kritikpunkte-und-maßnahmen-zur-verbesserung-der-servicequalität-6-punkte) (6 Punkte)
+- [ ] [1c Methoden zur Bedarfsanalyse](#1c-methoden-zur-bedarfsanalyse-3-punkte) (3 Punkte)
+- Bearbeitungsstatus, z. B. mittels Ticketsystem
+- Support- und Serviceanfragen (First-, Second- und Third-Level-Support)
+
+---
+
+### 04-07 Programmierwerkzeuge kennen und anwenden können
 
 - Use Case Diagramm (UML)
-  - [ ] [1a](#1-a-6-punkte)
+  - [ ] [1a](#1a-uml-anwendungsfall--use-case-diagram-6-punkte) (6 Punkte)
 - ERD (Entity-Relationship-Diagramm)  
   - [ ] [3c](#3-c-4-punkte)
   - [ ] [4c](#4)
@@ -53,39 +64,15 @@ Hierzu erhalten Sie von der IT-Abteilung die folgenden Informationen:
 
 ---
 
-### 1 a. (6 Punkte)
+### 1a UML Anwendungsfall / Use Case Diagram (6 Punkte)
 
 Ergänzen Sie das bereits angefangene UML-Anwendungsfaldiagramm (Use Case Diagramm) um die fehlenden Anwendungsfälle und Bezeichnungen der Akteure.
 
-```plantuml
-@startuml
-left to right direction
-
-actor "Kunde" as a1
-actor "IT-Abteilung" as a2
-actor "Serviceteam" as a3
-
-rectangle UML {
-    usecase "UC1: Störungsmeldung senden" as UC1
-    usecase "UC2: Störungsmeldung erfassen" as UC2
-    usecase "UC3: Arbeitsplanung erstellen" as UC3
-    usecase "UC4: Priorisierung" as UC4
-    UC3 .> UC4 : include
-    usecase "UC5: Arbeitsauftrag bearbeiten" as UC5    
-    usecase "UC6: Rückmeldung" as UC6
-    UC5 .> UC6 : include
-}
-UC1 -- a1
-UC2 -- a2
-UC3 -- a2
-UC5 -- a3
-
-@enduml
-```
+![Use Case](doc/img/use_case.png)
 
 ---
 
-### 1 b. (6 Punkte)
+### 1b (6 Punkte)
 
 Aktuell müsen die Störungsmeldungen als E-Mail gesendet werden. Diese werden in einer Tabelenkalkulation verwaltet. Ein mal in der Woche am Freitag erfolgt die Arbeitsplanung. Dei Arbeitszeit des Serviceteams ist von montags - freitags von 8.00 bis 17:00 Uhr
 
