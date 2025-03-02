@@ -316,7 +316,7 @@ Ein Kunde sendet seine Daten für ein Bauteil im PLY-Format. Da Ihnen das Format
 
 ---
 
-### 3b Dateikonvertierung 
+### 3b Dateikonvertierung
 
 >2 Punkte
 
@@ -343,12 +343,16 @@ Erläutern Sie den Unterschied zwischen einer Datei im ASCII Format und einer Da
 
 ---
 
-### 3d Speicher- und Farbberechnung (8 Punkte)
+### 3d Speicher- und Farbberechnung
+
+>8 Punkte
 
 In einer PLY-Datei sind 3840 Punkte gespeichert. Jeder Punkt wird durch x, y und z Koordinaten bestimmt, Jede Koordinate
 wird durch einen 32-Bit-Float-Wert codiert.
 
-#### da. Speicherbedarf (3 Punkte)
+#### 3da Speicherbedarf
+
+>3 Punkte
 
 Berechnen Sie, wie viele Kibibyte Sie benötigen, um die 3.840 Punkte zu speichern. Der Speicherbedarf des Datei-Headers
 und Farbcodierungen sollen nicht berücksichtigt werden.
@@ -357,7 +361,9 @@ und Farbcodierungen sollen nicht berücksichtigt werden.
 
 ---
 
-#### db. Farben (2 Punkte)
+#### db Farben
+
+>2 Punkte
 
 Jeder Punkt soll jetzt im RGB-Farbraum mit je 8 Bit pro Farbkanal codiert werden.
 Berechnen Sie, wie viele verschiedene Farben sich damit darstellen lassen.
@@ -366,7 +372,9 @@ Berechnen Sie, wie viele verschiedene Farben sich damit darstellen lassen.
 
 ---
 
-##### dc. Farbwerte (3 Punkte)
+##### dc Farbwerte
+
+>3 Punkte
 
 Berechnen Sie, wie viel Prozent Speicher Sie pro Bildpunkt zusätzlich benötigen, um die Farbwerte zu speichern.
 
@@ -374,7 +382,9 @@ Berechnen Sie, wie viel Prozent Speicher Sie pro Bildpunkt zusätzlich benötige
 
 ---
 
-### 3e Netzteil-Leistung (8 Punkte)
+### 3e Netzteil-Leistung
+
+>8 Punkte
 
 Sie werden beauftragt, das Netzteil für einen CAD-Rechner auszuwählen. Es stehen Netzteile von 400 W in 50-w-Schritten bis
 1200 W zur Verfügung. Die folgenden Komponenten wurden bereits ausgewählt.
@@ -397,7 +407,7 @@ Berechnen Sie die ermittelte Leistungsaufnahme mit Puffer und benennen Sie das a
 
 ---
 
-### 3f Stromkosten (3 Punkte)
+### 3f Stromkosten >3 Punkte
 
 Der PC wird an 200 Arbeitstagen je 9 Stunden laufen. Das Netzteil hat einen Wirkungsgrad von 90 % und wird im Schnit zu
 50 % ausgelastet sein.
@@ -410,7 +420,9 @@ Hinweis: Konnten Sie in e) kein Netzteil ermiteln, rechnen Sie mit 750 Watt weit
 
 ---
 
-## 4. Aufgabe (26 Punkte)
+## 4. Aufgabe
+
+>26 Punkte
 
 Mit Herm Müller wurde ein neuer Mitarbeiter eingestellt, der mit dem hausinternen CAD-Programm die Realisierungsmöglichkeiten der Aufträge überprüfen soll, um eine für alle Seiten optimale Lösung zu finden.
 
@@ -418,7 +430,11 @@ In einigen Fällen wird von ihm erwartet, dass er für wenige Tage beim Kunden v
 
 Die Erstellung und das Bearbeiten einer Konstruktionszeichnung erfordert eine große Rechnerleistung und einen hohen Speicher-bedarf, sodass bei Außenterminen dies auf der lokalen Festplatte des Laptops erfolgen muss.
 
-### 4a Maßnahmen zum Schutz der Vertraulichkeit (6 Punkte)
+---
+
+### 4a Maßnahmen zum Schutz der Vertraulichkeit
+
+>6 Punkte
 
 Herr Müller möchte seine berufsbedingten Fahrten mit Bus und Bahn und die Aufenthalte auf öffentlichen Plätzen zur Erle-digung betrieblicher Arbeiten nutzen. Allerdings sind dabei zur Gewährleistung der Geheimhaltung besondere Vorsichtsmaß-nahmen erforderlich.
 
@@ -434,7 +450,9 @@ Ergänzen Sie dazu die nachfolgende Tabelle.
 
 ---
 
-### 4b VPN (2 Punkte)
+### 4b VPN
+
+>2 Punkte
 
 Herr Müller sichert seine Daten möglichst auf dem Server der KustoFlex GmbH über VPN.
 
@@ -444,7 +462,9 @@ Erklären Sie die Funktionalität des Begriffs VPN.
 
 ---
 
-### 4c Internetverbindung und Datensicherheit (3 Punkte)
+### 4c Internetverbindung und Datensicherheit
+
+>3 Punkte
 
 Herr Müller kritisiert, dass im Außendienst nicht immer eine stabile Internetverbindung zur Verfügung steht.
 
@@ -460,11 +480,15 @@ ten möglichst zuverlässig gesichert werden sollen. Benücksichtigen Sie dabei 
 
 ---
 
-### 4d Malware (6 Punkte)
+### 4d Malware
+
+>6 Punkte
 
 Sie informieren Herm Müler über „Malware" als Oberbegriff für Schadsoftware.
 
-#### da. Arten von Malware (3 Punkte)
+#### da Arten von Malware
+
+>3 Punkte
 
 Nennen Sie drei Arten von Malware.
 
@@ -474,7 +498,9 @@ Nennen Sie drei Arten von Malware.
 
 ---
 
-#### db. Spezifische Merkmale von Malware (3 Punkte)
+#### db Spezifische Merkmale von Malware
+
+>3 Punkte
 
 Weisen Sie den in Aufgabe da) genannten Arten jeweils ein spezifisches Merkmal zu.
 
@@ -484,7 +510,9 @@ Weisen Sie den in Aufgabe da) genannten Arten jeweils ein spezifisches Merkmal z
 
 ---
 
-### 4e Schutzmaßnahmen (3 Punkte)
+### 4e Schutzmaßnahmen
+
+>3 Punkte
 
 Eine Antivirensoftware ist bereits auf dem Laptop installiert.
 
@@ -497,7 +525,9 @@ kann.
 
 ---
 
-### 4f Datenübertragung (6 Punkte)
+### 4f Datenübertragung
+
+>6 Punkte
 
 Berechnen Sie zur Verdeutlichung des Zeitaufwands für Herr Müller die Übertragungsdauer, wenn er Daten mit einem Umfang von 1 GiB aufgrund des Ergebnisses des Speedtests abspeichern Möchte. Der Rechenweg ist mit anzugeben.
 
