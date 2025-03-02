@@ -291,3 +291,45 @@ ihrer ungekürzten Form im hexadezimalen Format an.
 2. Ungekürzte Teilnetz-ID: ...
 
 ---
+
+### 3c
+
+>2 Punkte
+
+Geben Sie an, wie viele Teilnetze mit der gegebenen IPv6-Adresse gebildet werden können.
+
+...
+
+---
+
+### 3d Adressierung
+
+>6 Punkte
+
+Vergeben Sie für die abgebildete loT-Testumgebung nutzbare IPv6-Adressen auf der Grundlage der gegebenen globalen
+Adresse für ale Geräte. Vermischen Sie dabei aus Gründen der Übersichtlichkeit nicht die Adressen der Endgeräte mit denen
+der Netzwerkgeräte. Richten Sie die IP-Adressierung so ein, dass ale Geräte später auch aus einem anderen Teilnetz über den
+Router gewartet werden können.
+
+![IPv6 Adressierung](2022-02-Adressierung.png)
+
+| | Router | Switch      | Server mit Netzwerkanschluss | Steuerung mit Netzwerkanschluss | Industrie PC |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Adresse | 2001: da8:5/2d:29:: 1/64 | 2001:da8:5f2d:29::2/64 | ... | ... | 2001:da8:5f2d:29::20/64 |
+| Gateway | ... | ... | ... | ... | ... |
+
+---
+
+### 3e Erreichbarkeit
+
+>2 Punkte
+
+Auf dem loT-Gerät 1 sol nun die Erreichbarkeit des Loopback-Interfaces und des Standard-Gateways auf einer Kommandozeile
+geprüft werden.
+
+Geben Sie die erforderlichen Befehle an.
+
+...  
+...
+
+---
