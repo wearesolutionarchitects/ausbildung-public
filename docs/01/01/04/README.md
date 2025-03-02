@@ -12,7 +12,7 @@ tags: ["Prüfungen", "AP1", "Einrichtung"]
 
 ## Situation
 
->hr Ausbildungsbetrieb, die Package AG, produziert und handelt mit Verpackungsmaterial. Um dem Marktpotenzial aufgrund
+>Ihr Ausbildungsbetrieb, die Package AG, produziert und handelt mit Verpackungsmaterial. Um dem Marktpotenzial aufgrund
 der enorm gestiegenen Nachfrage gerecht zu werden, hat die Geschäftsleitung Investitionen zur Steigerung der Produktionska-
 pazitäten beschlossen. Dies sol vor alem durch eine Erhöhung des Automatisierungsgrads erreicht werden, die weitreichende
 Auswirkungen auf die künftige Gestaltung und Ausstattung der Arbeitsplätze in der Produktion haben wird. Für diese Aufgabe
@@ -333,3 +333,157 @@ Geben Sie die erforderlichen Befehle an.
 ...
 
 ---
+
+### 3f Netzwerkkonfiguration
+
+>2 Punkte
+
+Nach der Eingabe des Befehls ip addr zur Anzeige der Netzwerkkonfiguration erscheint u. a. die Ausgabe `fe80::62eb:69ff:fed2:d2a6/64`
+
+Geben Sie den Grund dafür an, dass eine IPv6-Adresse angezeigt wird, die Sie nicht konfiguriert hatten und benennen Sie
+dabei die Adressart.
+
+...
+
+---
+
+### 3g Angebotsvergleich
+
+>10 Punkte
+
+Die Geschäftsführung möchte im Umfeld der Maschinenautomatisierung die Mitarbeiter mit weiteren mobilen und robusten
+Geräten ausstatten. Der Bedarf beträgt im ersten Schritt 30 Stück.
+
+Folgende drei unverbindliche Angebote liegen vor:
+
+| | Noteplus AG, Mainz | Notebook-Clever.de, Berlin | Frankfurt PC-Genie KG |
+|:--- | :--- | :--- | :--- |
+| Bareinkaufspreis pro Stück | 1.000 EUR | 1.100 EUR | 1.300 EUR |
+| Lieferbedingungen/-kosten pro Stück | Ab Werk: 15 EUR | Frachtfrei: 10 EUR | Frei Haus |
+| Bezugspreis pro Stück | | | |
+| Lieferzeit | 5 Wochen | 3 Wochen | 1 Woche |
+| Qualität | Gut | Durchschnitt | Sehr gut |
+| Kundenrückmeldungen auf der Homepage der Lieferanten | Öfter bei Lieferungen kleine Mängel | Lieferung ohne Beanstandung | Sehr gutes Kulanzverhalten |
+
+Berechnen Sie zuerst den Bezugspreis pro Stück. Bewerten Sie anschließend die Anbieter und Angebote mit einer Skala von 1 (schwach) bis 3 (sehr gut).
+
+Führen Sie mithilfe der vorliegenden Daten einen gewichteten Angebotsvergleich durch und entscheiden Sie sich für den geeigneten Lieferanten.
+
+---
+
+| Kriterien | Gewichtung  Noteplus AG, Mainz | | Notebook-Clever.de, Berlin | | Frankfurt PC-Genie KG | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bezugspreis | 11 |  |  |  |  |  |
+| Lieferzeit | 8 |  |  |  |  |  |
+| Qualität | 9 | |  |  |  |  |
+| Erfahrung | 5 |  |  |  |  |  |
+
+---
+
+## 4. Aufgabe
+
+>24 Punkte
+
+### 4a SQL-Abfrage | *entfällt durch AO 2025* 😥
+
+Sie erhalten den Auftrag, Produktionsdaten an die Steuerung der Walzanlage zu übergeben. Die Produktionsdaten werden in
+einer SQL-Datenbank gespeichert. Ale Datentypen sind Ganzzahlen. Die Breite, Länge und Dicke der Wellpappe wird in der
+Datenbank in Millimeter gespeichert.
+
+Die Tabelle ProductionData hat den folgenden Aufbau:
+
+| ProductionData |
+| :--- |
+| OrderID (PK) |
+| Width |
+| Length |
+| Thickness |
+| Quantity |
+
+### 4a SQL-Abfrage
+
+Geben Sie den SQL-Befehl an, der die Breite, die Länge, die Dicke und die Anzahl der OrderID 736298 ausgibt. Die OrderID
+soll nicht in der Ergebnismenge enthalten sein.
+
+#### 4aa SQL-Befehl
+
+>3 Punkte
+
+Geben Sie den SQL-Befehl an, der die Breite, die Länge, die Dicke und die Anzahl der OrderID 736298 ausgibt. Die OrderID
+soll nicht in der Ergebnismenge enthalten sein.
+
+...
+
+---
+
+### 4ab SQL-Befehl
+
+>4 Punkte
+
+Wie viele Produktionsaufträge für Welpappen mit einer Dicke von 2 mm wurden bisher in der Datenbank gespeichert.
+Geben Sie dazu den entsprechenden SQL-Befehl an.
+
+...
+
+---
+
+### 4ac SQL-Befehl
+
+>4 Punkte
+
+Geben Sie die Gesamtanzahl gefertigter Welpappen aus der Datenbank an, die mit einer Dicke von 2 m, einer Breite von 200 m und einer Länge von 30 m gefertigt worden sind.
+
+Geben Sie dazu den entsprechenden SQL-Befehl an.
+
+...
+
+---
+
+## 4b Struktogramm | *entfällt durch AO 2025* 😀
+
+>7 Punkte
+
+Die abgefragten Produktionsdaten werden über eine entsprechende API an die Steuerung der Walzanlage übergeben. Die
+Auftragsdaten werden im Array result[] mit dem Index 0 bis 3 gespeichert. Sie sollen jetzt an die Steuerung der Walzanlage
+durch eine von Ihnen zu erstellende Funktion übergeben werden. Gehen Sie von einem Array result[] aus, bei dem im Index 0
+die Breite, im Index 1 die Länge, im Index 2 die Dicke und im Index 3 die Anzahl der zu produzierenden Wellpappen stehen.
+
+Erstellen Sie die Funktion **„launchTask(result[])"**
+
+Zur Kommunikation mit der Steuerung der Walzanlage stehen Ihnen die folgenden API-Funktionen zur Verfügung:
+
+**setRollerDim(int, int, int)** - Übergeben wird Breite, Länge und Dicke der Wellpappe.
+
+**rollerStart()** - Startet einen Auftrag von einem Stück. Es wird eine Wellpappe mit den gesetzten Parametern erzeugt.
+
+Die Walzanlage verfügt über einen Notausschalter. Sie darf nur laufen, wenn der Notaus nicht ausgelöst ist.
+
+Der Status des Notausschalters kann mit der Funktion **bool getEmergencyStop()** abgefragt werden, der „true" liefert wenn
+der Notaus ausgelöst ist und „false" wenn der Notaus nicht ausgelöst ist.
+
+Ergänzen Sie das gegebene Struktogramm durch die entsprechenden Befehle zur Produktion der geforderten Anzahl von Wel-
+pappen (siehe Index 3) in den angegebenen Maßen (siehe Index 0, 1 und 2).
+
+---
+
+![Struktogramm](2022-02-struktogramm.png)
+
+---
+
+## 4d
+
+>6 Punkte
+
+Für die Produktion von Wellpappen ist die vorhandene Datenbank zu erweitern. Die Firma hat sich für ein SQL-fähiges relationales Datenbanksystem entschieden, in der die nachfolgenden Bedingungen berücksichtigt werden sollen. Die Speicherung der Datenbank wird auf dem Hostrechner „Steuerungs-PC" realisiert. In einer ersten Unterredung werden die zu speichernden Informationen definiert.
+
+In dieser Datenbank solen nur die Zusammenhänge zwischen den Walzanlagen, den Produktionsdaten abgebildet werden. In der Produktionshalle sind mehrere Walzanlagen vorhanden. Diese jeweiligen Walzanlagen können Wellpappen mit unterschiedlichen Dicken (z. B. kleiner 4 mm, 4-8 mm, 8-12 mm) herstellen. In der Datenbank soll gespeichert werden, welche Walzanlage für welche Dicken (Spezifikation) verwendet werden kann. Außerdem soll das Baujahr, die Bezeichnung und eine eindeutige Maschinennummer gespeichert werden.
+
+Für jede Walzanlage sollen die entsprechenden Produktionsdaten (Breite, Länge, Dicke und Anzahl) mit dem jeweiligen Zeitstempel abgespeichert werden.
+
+Vervollständigen Sie das vorgegebene Entity-Relationship-Modell (kurz: ERM) für diese Datenbank mit alen erforderlichen Attributen und Kardinalitäten.
+
+Hinweis: Die eventuell benötigten Fremdschlüssel müssen nicht in diesem Entwurf eingetragen werden. Die Kardinalität zwischen den beiden Tabellen soll auf die entsprechenden Beziehungslinien eingetragen werden.
+
+---
+
+![ERM](2022-02-ERM.png)
