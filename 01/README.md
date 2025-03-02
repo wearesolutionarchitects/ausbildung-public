@@ -10,9 +10,22 @@ tags: ["Abschlussprüfungen", "Projektarbeit"]
 
 ### Abschlussprüfungen
 
-Die Abschlussprüfungen bestehen aus einer schriftlichen und einer mündlichen Prüfung. In der schriftlichen Prüfung musst du dein Wissen in den Bereichen Fachinformatik, Anwendungsentwicklung, Betriebssysteme, Netzwerke, Datenbanken, Programmierung, Projektmanagement und Qualitätssicherung unter Beweis stellen.
+Die Abschlussprüfungen bestehen aus einer schriftlichen und einer mündlichen Prüfung.
 
-Die mündliche Prüfung dient dazu, deine praktischen Fähigkeiten und dein Fachwissen zu prüfen.
+In der schriftlichen Prüfung musst Du Dein Wissen in den Bereichen Fachinformatik, Anwendungsentwicklung, Betriebssysteme, Netzwerke, Datenbanken, Programmierung, Projektmanagement und Qualitätssicherung unter Beweis stellen.
+
+**Die schriftlichen Prüfungen sind aufgeteilt in:**
+
+|  | Thema | Dauer | Gewichtung an der Gesmatprüfung|
+| :--- | :--- | :--- | :--- |
+| Teil 1 | Einrichtung eines IT-gestützten Arbeitsplatzes | 90 Minuten | 10% |
+| Teil 2 | Planen eines Softwareprojekts | 90 Minuten | 10% |
+|  | Entwicklung und Umsetzung von Algorithmen | 90 Minuten | 10% |
+|  | Wirtschafts- und Sozialkunde | 60 Minuten | 10% |
+
+---
+
+Die mündliche Prüfung dient dazu, Deine praktischen Fähigkeiten durch die Vorstellung Deiner Projektarbeit als Präsentation (15 Minuten) und anschließend Dein Fachwissen in einem Fachgespräch (15 Minuten) zu prüfen.
 
 ### Projektarbeit
 
