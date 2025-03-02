@@ -163,12 +163,14 @@ Geben Sie bei ihren genannten Kaufvertragsstörungen je eine Maßnahme an, die d
 
 Nach der Konfiguration des CAD-Arbeitsplatzes prüfen Sie nun die Netzwerkeinstellungen. Dazu führen Sie verschieden Tests durch und interpretieren die Ergebnisse.
 
-### a. (4 Punkte)
+### 2a Netzwerkfunktionalität
 
-Bei einem Blick auf die Netzwerkbuchse Ihres PCs erkeenen Sie rechts oben eine grüne Leuchtdiode (LED, vergleich Bild l).
+>(4 Punkte)
+
+Bei einem Blick auf die Netzwerkbuchse Ihres PCs erkemnen Sie rechts oben eine grüne Leuchtdiode (LED, vergleich Bild).
 Interpretern Sie die hier zur Verfügung gestellten Informationen bzüglich der Netzwerkfunktionalität Ihres PCs.
 
-![Bild 1](image-1.png)
+![Netzwerk LED](2024-01-netzwerk_led.png)
 
 LED leuchtet durchgehend.
 
@@ -184,11 +186,13 @@ LED blinkt unregelmäßig.
 
 ---
 
-### b. (4 Punkte)
+### 2b OSI-Schichten
+
+>4 Punkte
 
 Nach der Eingabe des Befehls **"ipconfig /all"** auf der Kommanduzeile Ihres PCs erhalten sie u. a. die fo!genden weiteren Informationen (Abb. 1)
 
-![Abb. 1](image-2.png)
+![Netzwerk-Adressen](2024-02-netzwerk_addresse.png)
 
 Benenen Sie in der folgnden Tabelle aufgeführten OSI-Schichten und ordnen Sie zur Strukturierung die vorliegenden Begriffe den richtigen Schichten zu:
 
@@ -207,7 +211,9 @@ Benenen Sie in der folgnden Tabelle aufgeführten OSI-Schichten und ordnen Sie z
 
 ---
 
-### c. IPv6 (5 Punkte)
+### 2c IPv6
+
+>5 Punkte
 
 Sie analysieren nun die in Abb. 1 angezeigte IPv6 Adresse "fe80:521a:c5ff.fef2:38b7"
 
@@ -231,9 +237,11 @@ Nennen Sie die folgenden zugehörigen Werte:
 
 ---
 
-### d. DHCP (2 Punkte)
+### 2d DHCP
 
-![Abbildung 1 (Wiederholung)](image-2.png)
+>2 Punkte
+
+![Abbildung 1 (Wiederholung)](2024-02-netzwerk_addresse.png)
 
 Nennen Sie unter Bezugnahme auf Abb, 1 die Informationen, die der DHCP-Server Ihrem Client zur Verfügung stellt.
 
@@ -242,7 +250,9 @@ Nennen Sie unter Bezugnahme auf Abb, 1 die Informationen, die der DHCP-Server Ih
 
 ---
 
-### e. ARP (3 Punkte)
+### 2e ARP (Address Resolution Protocol)
+
+>3 Punkte
 
 Zur weiteren Analyse Ihrer Netzwerkkonfiguration geben Sie den Befehl „arp -a" ein und erhalten die folgende Ausgabe (Abb. 2):
 
@@ -262,7 +272,9 @@ kommunikation in einem LAN.
 
 ---
 
-### f. Ping (2 Punkte)
+### 2f Ping
+
+>2 Punkte
 
 Geben Sie einen geeigneten Befehl an, um von Ihrem PC aus die Erreichbarkeit der Internetadresse (siehe Abb. 2) zur prüfen.
 
@@ -270,7 +282,9 @@ Geben Sie einen geeigneten Befehl an, um von Ihrem PC aus die Erreichbarkeit der
 
 ---
 
-### g. IPv4 und MAC (4 Punkte)
+### 2g IPv4 und MAC
+
+>4 Punkte
 
 In den Abbildungen 1 und 2 haben Sie Informationen zu dem Datenverkehr der ARP-Kommunikation zwischen Ihrem PC und
 dem weiteren PC in Ihrem Netzwerk erhalten.
@@ -286,11 +300,15 @@ Ordnen Sie in der folgenden Skizze die IP-Adressen und die Physischen Adressen r
 
 ---
 
-## 3. Aufgabe (24 Punkte)
+## 3. Aufgabe
+
+>24 Punkte
 
 Ein Kunde sendet seine Daten für ein Bauteil im PLY-Format. Da Ihnen das Format nicht bekannt ist, suchen Sie nach Informationen über das Dateiformat und seinen Aufbau.
 
-### 3a unbekanntes Dateiformat (PLY) (6 Punkte)
+### 3a unbekanntes Dateiformat (PLY)
+
+>6 Punkte
 
 1. ...
 2. ...
@@ -298,7 +316,9 @@ Ein Kunde sendet seine Daten für ein Bauteil im PLY-Format. Da Ihnen das Format
 
 ---
 
-### 3b Dateikonvertierung (2 Punkte)
+### 3b Dateikonvertierung 
+
+>2 Punkte
 
 Sie haben erfahren, dass es sich bei dem Polygon File Format (PLY) um ein Dateiformat zur Speicherung dreidimensionaler
 Daten handelt. Ihr betriebseigenes CAD-System benötigt aber die Daten im OBJ oder STL-Format.
@@ -309,7 +329,9 @@ Nennen Sie eine Möglichkeit, wie Sie die Kundendaten in Ihrem CAD-System dennoc
 
 ---
 
-### 3c ASCII vs. Binärformat (4 Punkte)
+### 3c ASCII vs. Binärformat
+
+>4 Punkte
 
 Sie haben Informationen über den Aufbau einer PLY-Datei erhalten. Eine PLY-Datei kann im ASCII-Format oder als Binärdatei
 gespeichert sein.
