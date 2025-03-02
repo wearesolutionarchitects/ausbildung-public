@@ -6,6 +6,26 @@ date: "2025-03-02"
 tags: ["Prüfungen", "Projektarbeit"]
 ---
 
+## Prüfungsvorbereitung auf Teil 1 der gestreckten Abschlussprüfung am 25.03.2025 | 08:00 Uhr
+
+🔹 Willkommen in unserem Repository zur Prüfungsvorbereitung! 🔹
+
+🚀 Hier findest du eine strukturierte Übersicht über die Meilensteine innerhalb der Ausbildung – von den schriftlichen Prüfungen bis zur Projektarbeit.
+
+📌 Neu: Du kannst jetzt direkt über die Links auf vergangene AP1-Prüfungen zugreifen und gezielt die relevanten Inhalte durchstöbern.
+
+- [ ] [2024 Herbst](01/08/README.md)
+- [ ] [2024 Frühjahr](01/07/README.md)
+- [ ] [2023 Herbst](01/06/README.md)
+- [ ] [2023 Frühjahr](01/05/README.md)
+- [ ] [2022 Herbst](01/04/README.md)
+- [ ] [2022 Frühjahr](01/03/README.md)
+- [ ] [2021 Herbst](01/02/README.md)
+
+🎯 Lass uns gemeinsam die Prüfung meistern – Schritt für Schritt! Viel Erfolg und viel Spaß beim Lernen! 💡✨
+
+---
+
 ## Meilensteine innerhalb der Ausbildung
 
 ### Abschlussprüfungen
