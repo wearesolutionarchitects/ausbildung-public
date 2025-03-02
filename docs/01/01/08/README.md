@@ -252,7 +252,9 @@ Berechnen Sie die Gesamtkosten für die Schule über einen Zeitraum von fünf Ja
 
 Die Identify OHG möchte Computer kaufen und Sie begleiten den Beschafungsprozess. Ferner soll der Arbeitsspeicher bestehender Laptops erweitert werden.
 
-### a. Ratendarlehen für PCs (7 Punkte)
+### 3a Ratendarlehen für PCs
+
+>7 Punkte
 
 Ein Angebot für die zehn Computer beläuft sich auf 12.000 EUR.
 
@@ -273,7 +275,9 @@ Ermitteln Sie für den genannten Darlehensbetrag die jährlichen Zahlungen und d
 
 ---
 
-### b. RAM-Kompatibilität und Empfehlung (4 Punkte)
+### 3b RAM-Kompatibilität und Empfehlung
+
+>4 Punkte
 
 Der Abteilungsleiter der Entwicklungsabteilung der Identify OHG möchte, dass in Zukunft alle entwickelten Anwendungen auf der firmeninternen Cloud ausgerollt werden. Darum müssen alle Anwendungen auch mit entsprechenden Tols entwickelt und getestet werden. Aus den Hardwareanforderungen eines dieser Tools geht hervor, das die Laptops der Entwickler folgende Bedingungen erfüllen müssen:
 
@@ -307,7 +311,9 @@ Der Abteilungsleiter der Entwicklungsabteilung hat sich dazu entschieden, das di
 
 ---
 
-#### ba RAM-Kompatibilät  (3 Punkte)
+#### ba RAM-Kompatibilät
+
+>3 Punkte
 
 Erklären Sie die Kompatibilität für jeden der drei Arbeitsspeicher mit dem vorhandenen Laptop.
 
@@ -325,7 +331,9 @@ Erklären Sie die Kompatibilität für jeden der drei Arbeitsspeicher mit dem vo
 
 ---
 
-#### bb RAM Empfehlung und Begründung (2 Punkte)
+#### 3bb RAM Empfehlung und Begründung
+
+>2 Punkte
 
 ...
 
