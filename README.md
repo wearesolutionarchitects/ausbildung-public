@@ -3,6 +3,7 @@ title: Ausbildung Fachinformatiker:in Anwendungsentwicklung
 description: "Ausbildung Fachinformatiker:in Anwendungsentwicklung"
 author: "Heiko Fanieng"
 date: "2025-03-02"
+tags: ["Ausbildung", "Abschlussprüfungen", "Projektarbeit"]
 ---
 
 ## Ausbildung Fachinformatiker:in Anwendungsentwicklung
