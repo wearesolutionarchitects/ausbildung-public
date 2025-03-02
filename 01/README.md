@@ -3,7 +3,7 @@ title: Meilensteine innerhalb der Ausbildung
 description: "Meilensteine innerhalb der Ausbildung"
 author: "Heiko Fanieng"
 date: "2025-03-02"
-tags: ["Abschlussprüfungen", "Projektarbeit"]
+tags: ["Prüfungen", "Projektarbeit"]
 ---
 
 ## Meilensteine innerhalb der Ausbildung
