@@ -158,7 +158,7 @@ Beschreiben Sei das Grundprinzip von Leasing und erklären Sei dabei die Eigentu
 
 >3 Punkte
 
-Vergleichen Sei den Kaufpreis mit den Gesamtkosten des Leasings. 
+Vergleichen Sei den Kaufpreis mit den Gesamtkosten des Leasings.
 Ermitteln Sie den Differenzbetrag
 
 ...
