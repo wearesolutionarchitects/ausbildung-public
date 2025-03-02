@@ -6,7 +6,7 @@ date: "2022-03-30"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 
-[PDF](Fruhjahr_2022_Teil1-Prufung_ATAO2020_ompressed_ocr.pdf) | [Lösung](Fruhjahr_2022_Teil1-Prufung_LTAO2020.pdf)
+[Aufgaben](Fruhjahr_2022_Teil1-Prufung_ATAO2020_ompressed_ocr.pdf) | [Lösung](Fruhjahr_2022_Teil1-Prufung_LTAO2020.pdf)
 
 ## Situation
 
