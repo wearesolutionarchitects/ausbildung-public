@@ -2,7 +2,7 @@
 title: Herbst 2024
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Identify OHG"
-date: "2024-02-28"
+date: "2024-09-17"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 
