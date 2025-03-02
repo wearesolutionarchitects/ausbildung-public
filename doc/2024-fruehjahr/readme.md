@@ -1,4 +1,9 @@
-# Abschlussprüfung Frühjahr 2024 Teil 1 der Abschlussprüfung
+---
+title: Frühjahr 2024
+description: Abschlussprüfung Frühjahr 2024
+---
+
+## Teil 1 der Abschlussprüfung
 
 Termin: Mittwoch, 28. Februar 2024
 

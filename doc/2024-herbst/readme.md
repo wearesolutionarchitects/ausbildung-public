@@ -1,4 +1,6 @@
-# Abschlussprüfung Herbst 2024
+---
+title: Herbst 2024
+---
 
 Termin: Mittwoch, 28. Februar 2024
 
