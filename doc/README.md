@@ -83,3 +83,4 @@ Nach Abschluss der Ausbildung zum Fachinformatiker:in Anwendungsentwicklung steh
 Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung bietet dir vielfältige berufliche Perspektiven in der IT-Branche. Mit einem anerkannten Berufsabschluss und guten Kenntnissen in den Bereichen Informatik, Programmierung und Softwareentwicklung stehen dir zahlreiche Weiterbildungsmöglichkeiten offen. Wenn du Interesse an der Entwicklung von Softwarelösungen hast und gerne im Team arbeitest, ist die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung genau das Richtige für dich.
 
 ---
+[Meilensteine](01/README.md)
