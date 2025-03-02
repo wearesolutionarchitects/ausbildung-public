@@ -6,6 +6,24 @@ date: "2025-03-02"
 tags: ["Ausbildung", "Abschlussprüfungen", "Projektarbeit"]
 ---
 
+## Willkommen / your welcome
+
+🔹 Willkommen im Repository zur Prüfungsvorbereitung! 🔹
+
+🚀 Hier findest du eine strukturierte Übersicht über die Meilensteine innerhalb der Ausbildung – von den schriftlichen Prüfungen bis zur Projektarbeit.
+
+📌 Neu: Du kannst jetzt direkt über die Links auf vergangene AP1-Prüfungen zugreifen und gezielt die relevanten Inhalte durchstöbern.
+
+- [ ] [Herbst 2024](/docs/01/01/08/README.md)
+- [ ] [Frühjahr 2024](/docs/01/01/07/README.md)
+- [ ] [Herbst 2023](/docs/01/01/06/README.md)
+- [ ] [Frühjahr 2023](/docs/01/01/05/README.md)
+- [ ] [Herbst 2022](/docs/01/01/04/README.md)
+- [ ] [Frühjahr 2022](/docs/01/01/03/README.md)
+- [ ] [Herbst 2021](/docs/01/01/02/README.md)
+
+🎯 Lass uns gemeinsam die Prüfung meistern – Schritt für Schritt! Viel Erfolg und viel Spaß beim Lernen! 💡✨
+
 ## Ausbildung Fachinformatiker:in Anwendungsentwicklung
 
 ### Inhaltsverzeichnis
