@@ -63,7 +63,7 @@ Für die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung benötigst du 
 
 ## Ausbildungsort
 
-Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung findet in der Regel im Ausbildungsbetrieb statt. Darüber hinaus besuchst du die Berufsschule, in der du theoretische Kenntnisse vermittelt bekommst. 
+Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung findet in der Regel im Ausbildungsbetrieb statt. Darüber hinaus besuchst du die Berufsschule, in der du theoretische Kenntnisse vermittelt bekommst.
 
 ---
 
