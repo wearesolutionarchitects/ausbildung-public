@@ -14,6 +14,15 @@ tags: ["Prüfungen", "AP1", "AP2", "Planung", Entwicklung", "WiSo", "Einrichtung
 
 #### Einrichtung eines IT-gestützten Arbeitsplatzes
 
+| | Gebiet/Tätigkeit |
+| :--- | :--- |
+| | AP1 (90 Minuten, 20 % Gewichtung an der Gesamtprüfung) |
+| 01 | Kundenbedarfe zielgruppengerecht ermitteln (§ 9 Absatz 2 Nummer 1) |
+| 02 | Hard- und Software auswählen und ihre Beschaffung einleiten (§ 9 Absatz 2 Nummer 2) |
+| 03 | Einen IT-Arbeitsplatz konfigurieren und testen und dabei die Bestimmungen und die betrieblichen Vorgaben zum Datenschutz, zur IT-Sicherheit und zur Qualitätssicherung einhalten (§ 9 Absatz 2 Nummer 3) |
+| 04 | Kunden und Kundinnen in die Nutzung des Arbeitsplatzes einweisen (§ 9 Absatz 2 Nummer 4) |
+| 05 | Die Leistungserbringung kontrollieren und protokollieren (§ 9 Absatz 2 Nummer 5) |
+
 ---
 
 ### Teil 2
