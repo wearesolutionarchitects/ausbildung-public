@@ -355,66 +355,76 @@ Hinweis: Geben Sie pro Feld jeweils nur ein passendes Beispiel an.
 
 ---
 
-### 3. d WLAN-Standard
+### 3d WLAN-Standard
 
-![WLAN-Status](image-5.png)
+>4 Punkte
+
+![WLAN-Status](2022-01-w_lan.png)
 
 Entsprechend Ihres Plans starten Sie Ihre Fehlersuche im OSI-Modell von unten nach oben (Bottom-up), beginnend mit Schicht 1.
 Im obenstehenden Bild suchen Sie dazu Informationen über den Zustand der Verbindung.
 
 Benennen Sie einen Wert, welcher der OSI-Schicht 1 zuzuordnen ist und interpretieren Sie diesen bezüglich seiner Funktionali-
-tät. (4 Punkte)
+tät.
 
 ...
 
 ---
 
-### 3. e WLAN-Standard OSI-Schichten 2 und 3
+### 3e WLAN-Standard OSI-Schichten 2 und 3
 
 Sie starten nun das Konsolenfenster zur Analyse der OSI-Schichten 2 und 3 und erhalten nach der Eingabe eines Befehls zur Anzeige der Netzwerkkonfiguration die folgende Ausgabe:
 
-![Drahtlos-Adapter](image-6.png)
+![Drahtlos-Adapter](2022-01-wlan_standard.png)
 
 Trotz des fehlenden Netzwerkzugriffs werden zwei Adresen angezeigt.
 
 ---
 
-#### 3. ea MAC-Adresse
+#### 3ea MAC-Adresse
 
-Beschreiben Sie die Herkunft der Adresse 50-1A-C5-F2-38-B7. (2 Punkte)
+>2 Punkte
 
-...
-
----
-
-#### 3. eb IPv6-Adresse
-
-Beschreiben Sie die Herkunft der Adresse fe80::85e1:1ec1:c9e2:3cbb. (2 Punkte)
+Beschreiben Sie die Herkunft der Adresse 50-1A-C5-F2-38-B7.
 
 ...
 
 ---
 
-### 3. f WLAN-Standard
+#### 3eb IPv6-Adresse
+
+>2 Punkte
+
+Beschreiben Sie die Herkunft der Adresse fe80::85e1:1ec1:c9e2:3cbb.
+
+...
+
+---
+
+### 3f WLAN-Standard
 
 Bei Ihrer Fehleranalyse legen Sie nun Ihren Fokus auf die Analyse der höheren OSI-Schichten.
 Nach Eingabe des Befehls zur Erneuerung der IP-Adresse wird nun die folgende Information angezeigt:
 
-![WLAN-Standard](image-7.png)
+![WLAN-Standard](2022-01-ip_addresse.png)
 
-#### 3. fa Serverbezeichnung
+#### 3fa Serverbezeichnung
+
+>1 Punkt
 
 Sie setzen Ihre Fehleranalyse nun fort
 
-Nennen Sie die Bezeichnung des Servers, der hier durch den Befehl zur Erneuerung der IP-Adresse kontaktiert wurde. (1 Punkt)
+Nennen Sie die Bezeichnung des Servers, der hier durch den Befehl zur Erneuerung der IP-Adresse kontaktiert wurde.
 
 ...
 
 ---
 
-#### 3. fb Hostadresse
+#### 3fb Hostadresse
 
-Geben Sie die nachfolgenden Adressen des hier angegebenen Hosts an. (3 Punkte)
+>3 Punkte
+
+Geben Sie die nachfolgenden Adressen des hier angegebenen Hosts an.
 
 Netzadresse: ...  
 Hostadresse: ...  
@@ -422,16 +432,18 @@ Broadcastadresse: ...
 
 ---
 
-#### 3. fc
+#### 3fc
+
+>2 Punkte
 
 Um die nun veränderte Situation zu prüfen, geben Sie den Befehl „ping 192.168.0.1" ein und erhalten die folgende
 Ausgabe:
 
-![Ping](image-8.png)
+![Ping](2022-01-ping.png)
 
 Sie analysieren die Ergebnisse Ihrer gesamten Fehlersuche.
 
-Benennen Sie den von Ihnen ermittelten Fehler. (2 Punkte)
+Benennen Sie den von Ihnen ermittelten Fehler.
 
 ...
 
@@ -442,9 +454,13 @@ Benennen Sie den von Ihnen ermittelten Fehler. (2 Punkte)
 ## 4. Aufgabe
 
 Die AlRound AG plant, für die automatisierte Konfiguration der Standardarbeitsplätze eine Workspace-Management-Software
-einzusetzen. (26 Punkte)
+einzusetzen.
 
-### 4. a Software-Funktionen
+>26 Punkte
+
+### 4a Software-Funktionen
+
+>4 Punkte
 
 Über die Workspace-Management-Software informieren Sie sich mit dem folgenden Text:
 
@@ -458,7 +474,7 @@ management tools such as SNMP. It is therefore not necessary for the responsible
 individual devices, as it is the case with an inventory. The data stock can be continuously updated by the automatic collection
 and not only once a year.
 
-Nennen Sie vier Leistungsmerkmale einer Workspace-Management-Software anhand des oben zitierten Textes. (4 Punkte)
+Nennen Sie vier Leistungsmerkmale einer Workspace-Management-Software anhand des oben zitierten Textes.
 
 1. ...
 2. ...
@@ -467,10 +483,12 @@ Nennen Sie vier Leistungsmerkmale einer Workspace-Management-Software anhand des
 
 ---
 
-### 4. b Cloud vs. on-premises
+### 4b Cloud (SaaS) vs. on-premises
+
+>4 Punkte
 
 Die Workspace-Management-Software wird cloudbasiert oder on-premises angeboten.
-Nennen Sie zwei Vor- und Nachteile einer cloudbasierten Software gegenüber der on-premises. (4 Punkte)
+Nennen Sie zwei Vor- und Nachteile einer cloudbasierten Software gegenüber der on-premises.
 
 | Software | Vorteil | Nachteil |
 | :--- | :--- | :--- |
@@ -481,20 +499,24 @@ Nennen Sie zwei Vor- und Nachteile einer cloudbasierten Software gegenüber der 
 
 ---
 
-### 4. c interne vs. externe Lizenzkosten
+### 4c interne vs. externe Lizenzkosten
+
+>5 Punkte
 
 Für die Workspace-Management-Software können die Lizenzen von einem externen Anbieter für 25,00 EUR je Lizenz und Jahr bezogen werden.
 
 Für die Eigenentwicklung wird ein Personalaufwand von 12.000 Stunden veranschlagt. Die jährliche Wartung wird mit 140 Stunden pro Jahr über einen Zeitraum von zehn Jahren veranschlagt. Eine Mitarbeiterstunde wird mit dem internen Kostensatz
 von 75 EUR berechnet.
 
-Ab welcher Lizenzanzahl ist die Eigenentwicklung über einen Zeitraum von zehn Jahren günstiger als der Fremdbezug? (Lohnsteigerungen und Erhöhung der Lizenzpreise sollen nicht berücksichtigt werden.) (5 Punkt)
+Ab welcher Lizenzanzahl ist die Eigenentwicklung über einen Zeitraum von zehn Jahren günstiger als der Fremdbezug? (Lohnsteigerungen und Erhöhung der Lizenzpreise sollen nicht berücksichtigt werden.)
 
 ...
 
 ---
 
-### 4. d Struktogramm für die automatische Konfiguration
+### 4d Struktogramm für die automatische Konfiguration
+
+>9 Punkte
 
 Sie planen, eine eigene Lösung für eine automatisierte Konfiguration der Standardarbeitsplätze zu programmieren. Aus einer Datenbank werden alle zu konfigurierenden PCs ausgelesen. Danach wird für jeden PC aus der Datenbank die zu installierende, Software abgefragt und auf dem PC installiert.
 
@@ -528,11 +550,11 @@ Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein. 9
 
 ---
 
-![Struktogramm](image-9.png)
+![Struktogramm](2022-01-struktogramm.png)
 
 ---
 
-### 4. e Daten-Upload in die Cloud
+### 4e Daten-Upload in die Cloud
 
 Die Datenbank soll in der Cloud gesichert werden.
 
