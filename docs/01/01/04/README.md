@@ -141,7 +141,7 @@ wird die erzeugte Kartonbahn fortlaufend durch eine Kamera gescannt. Die entstan
 - Farbtiefe: 16 Bit
 - 1 Inch: 2,54 cm
 
-### 1a Speicherbedarf
+### 2a Speicherbedarf
 
 >2 Punkte
 
@@ -151,11 +151,11 @@ Ermitteln Sie zunächst die Zahl der Scans/Aufnahmen pro Tag. Der Rechenweg ist 
 
 ---
 
-### 1b Speicherbedarf
+### 2b Speicherbedarf
 
 Die Daten der Scans werden einen Tag für Auswertungen zur Qualitätskontrolle gespeichert.
 
-#### 1ba Datenvolumen in MiB
+#### 2ba Datenvolumen in MiB
 
 >4 Punkte
 
@@ -166,7 +166,7 @@ Der Rechenweg ist anzugeben.
 
 ---
 
-#### 1bb Datenvolumen in TiB
+#### 2bb Datenvolumen in TiB
 
 >2 Punkte
 
@@ -177,5 +177,117 @@ Der Rechenweg ist anzugeben.
 Hinweis: Sollten Sie die Aufgabe a) oder die Teilaufgabe ba) nicht gelöst haben, gehen Sie von **100.000 Scans/Aufnahmen** pro Tag und **70 MiB** Datenvolumen pro Scan aus.
 
 ...
+
+---
+
+### 2c Speicherbedarf
+
+In Abstimmung mit der IT-Leitung beschließen Sie, ein redundantes Speichersystem einzurichten. Dazu sind folgende Kompo-
+nenten verfügbar:
+
+- 2 Festplatten (je 3 TB Speicherkapazität)
+- 7 Festplatten (je 2 TB Speicherkapazität)
+- PCI RAID-Hostadapter
+
+#### 2ca RAID 5-Konfiguration | *entfällt durch AO 2025*
+
+>4 Punkte
+
+Mit alen vorhandenen Festplaten sol eine fehlertolerante RAID 5-Konfiguration erstellt werden, welche die größtmögliche Nettospeicherkapazität biete.
+
+Berechnen Sie die maximale Nettospeicherkapazität in TB. Der Rechenweg ist anzugeben.
+
+- RAID-Level: ...
+- Nettospeicherkapazität: ...
+- Rechenweg: ...
+
+---
+
+#### 2cb JBOD-Konfiguration
+
+>2 Punkte
+
+Für einen Vergleich sol auch die Speicherkapazität berechnet werden, wen man die gegebenen Festplatten als JBOD
+(Zusammenfassung aler Festplatten zu einem logischen Volume) nutzt.
+
+Ermitteln Sie die erreichbare Speicherkapazität in TB. Der Rechenweg ist anzugeben.
+
+- Speicherkapazität in TiB: ...
+- Rechenweg: ...
+
+---
+
+### 2cc JBOD vs. RAID 0
+
+>4 Punkte
+
+Beschreiben Sie zwei Vorteile, die ein Laufwerksverbund als JBOD gegenüber einem RAID 0 bietet.
+
+1. ...
+2. ...
+
+---
+
+### 2d NAS vs. SAN | *entfällt durch AO 2025*
+
+>3 Punkte
+
+Die im Netzwerk der Hauptverwaltung eingesetzten NAS-Speichersysteme sollen durch ein SAN (Storage Area Network) abgelöst werden.
+
+Nennen Sie drei Vorteile, die den Einsatz begründen
+
+1. ...
+2. ...
+3. ...
+
+---
+
+### 2e Kennzeichnung QR-Code vs. RFID-Chips
+
+Für die Kennzeichnung der produzierten Kartonrollen durch einen maschinenlesbaren Aufkleber schlägt die Geschäftsleitung die Verwendung von Barcode, QR-Code oder RFID-Chips vor.
+
+Stelen Sie jeweils einen Vor- und Nachteil der Kennzeichnung mit QR-Code bzw. RFID-Chips in folgender Tabelle gegenüber.
+
+>4 Punkte
+
+| Kennzeichnung | Vorteil | Nachteil |
+| :--- | :--- | :--- |
+| Barcoode | Einfach zu erstellen | Kann bei Verschmutzung oder Sichtbehinderung nicht gelesen werden |
+|  | Kostengünstig | Relativ umfangreiche Zeichenfolge für Barcode |
+| QR-Code | ... | ... |
+| RFID-Chips | ... | ... |
+
+---
+
+## 3. Aufgabe
+
+>28 Punkte
+
+### 3a IPv6-Adressierung
+
+>2 Punkte
+
+Zur fachgerechten Kommunikation zwischen den Einzelkomponenten in der Automatisierung wird über den Einsatz von IPv6 als
+Ersatz für IPv4 nachgedacht.
+
+Nennen Sie zwei technologische Vorteile der IPv6-Adressierung gegenüber IPv4, die für den Einsatz im Bereich loT relevant sein
+können.
+
+1. ...
+2. ...
+
+---
+
+### 3b
+
+>4 Punkte
+
+In einer abgeschlossenen Testumgebung sol die Kommunikation zwischen einigen Netzwerkkomponenten über IPv6 geprüft werden. Dabei sol eine globale Adresse ähnlich derjenigen aus einem anderen Teilnetz des Betriebs 201: `da8:5f2d:28::/64` verwendet werden. Hier handelt es sich bereits um eine verkürzte Schreibweise. Sie besteht aus einem 48-Bit langem Standortpräfix und einer 16-Bit Teilnetz-ID.
+
+Identifizieren Sie in der gegebenen Adresse die beiden genannten Komponenten und geben Sie die beiden Teile der Adresse in
+ihrer ungekürzten Form im hexadezimalen Format an.
+
+1. Ungekürztes Standortpräfix: ...
+2. Ungekürzte Teilnetz-ID: ...
 
 ---
