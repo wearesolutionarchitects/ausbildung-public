@@ -24,7 +24,9 @@ Zur Vorbereitung der Absicherung eines Besprechungsraums informieren Sie sich u.
 
 ---
 
-### a. Zugangs- und Zugriffskontrolle (3 Punkte)
+### 1a Zugangs- und Zugriffskontrolle
+
+>3 Punkte
 
 Zur Absicherung des Besprechungsraums soll u. a. eine automatische Zutrittskontrolle an der Eingangstür eingerichtet werden.
 Nennen Sie **drei** technische Möglichkeiten, um eine automatische Zutrittskontrolle zu gewährleisten.
@@ -35,7 +37,9 @@ Nennen Sie **drei** technische Möglichkeiten, um eine automatische Zutrittskont
 
 ---
 
-### b. Sicherheitsrisiken (3 Punkte)
+### 1b Sicherheitsrisiken
+
+>3 Punkte
 
 Beschreiben Sie die Sicherheitsrisiken der folgenden Situationen:
 
@@ -48,7 +52,9 @@ Beschreiben Sie die Sicherheitsrisiken der folgenden Situationen:
 
 ---
 
-### c. Maßnahmen zur Absicherung (6 Punkte)
+### 1c Maßnahmen zur Absicherung
+
+>6 Punkte
 
 Ein PC soll für die Durchführung von Präsentationen mit einem Anzeigegerät verbunden werden. Der BSI-Grundschutz empfiehlt, den Präsentationsrechner in dem Besprechungsraum sicher zu konfigurieren.
 Begründen Sie die folgenden vorgeschlagenen Maßnahmen.
@@ -63,7 +69,9 @@ Anschluss an ein vom LAN der Institution getrenntes Datennetz:
 
 ---
 
-### d. (3 Punkte)
+### 1d Netzwerkkonfiguration
+
+>3 Punkte
 
 Sie erhalten vom Netzwerkadministrator der Identify OHG die folgenden Vorgaben für die Netzwerkkonfiguration des Präsenta-
 tionsrechners. Die Adressvergabe soll statisch erfolgen, um eine spätere Fernwartung zu vereinfachen.
@@ -74,7 +82,9 @@ Router: 192.168.20.1
 
 ---
 
-#### da (2 Punkte)
+#### 1da Vorkonfiguration
+
+> 2 Punkte
 
 Bei der Analyse des PCs wird Ihnen jedoch die IP-Adresse 169.254.122.115 angezeigt.
 
@@ -84,7 +94,9 @@ Begründen Sie diese „Vorkonfiguration":
 
 ---
 
-#### db (2 Punkte)
+#### 1db Konfiguration
+
+>2 Punkte
 
 Markieren Sie bzw. passen Sie die Konfiguration entsprechend der Vorgaben des Administrators in der folgenden Eingabemaske an.
 
@@ -92,7 +104,9 @@ Markieren Sie bzw. passen Sie die Konfiguration entsprechend der Vorgaben des Ad
 
 ---
 
-#### dc (5 Punkte)
+#### 1dc Konfiguration
+
+>5 Punkte
 
 Entsprechend der BSI-Empfehlungen ist das IP-Netz des Präsentationsrechners vom Firmennetz getrennt. Im Besprechungsraum befindet sich eine unbeschriftete Netzwerk-Doppeldose. Hier wird auf der einen Seite das Firmennetz, auf der anderen Seite das Netz für den Präsentationsrechner zur Verfügung gestellt. Ihre Aufgabe besteht nun darin, die richtige RJ-45-Buchse (links oder rechts) der Netzwerkdose zu ermitteln und zu beschriften. Ihnen steht dazu ein Patchkabel und der Präsentationsrechner mit seiner Kommandozeile zur Verfügung. Beschreiben Sie Ihre Vorgehensweise stichpunktartig.
 
@@ -103,7 +117,9 @@ Entsprechend der BSI-Empfehlungen ist das IP-Netz des Präsentationsrechners vom
 
 ---
 
-#### dd 05 Aktivitäten bei Installationen und Konfigurationen kennen und beurteilen (4 Punkte)
+#### 1dd  Aktivitäten bei Installationen und Konfigurationen kennen und beurteilen
+
+>4 Punkte
 
 Für die Einrichtung weiterer Maßnahmen der IT-Sicherheit im Netzwerk benötigt Ihr Administrator die MAC-Adresse des Präsentationsrechners.
 
@@ -115,12 +131,16 @@ Geben Sie einen möglichen Konsolenbefehl an, um die Adresse zu ermitteln und ne
 
 ---
 
-## 2. Aufgabe (25 Punkte)
+## 2. Aufgabe
+
+>25 Punkte
 
 Die Identify OHG benötigt eine neue Software für ihre Schließsysteme. Sie arbeiten in der Abteilung Softwareentwicklung bei der
 Planung der neuen Software mit. Dabei erstellen Sie auch eine Kostenübersicht für einen Kunden.
 
-### a. Fremdvergabe (2 Punkte)
+### 2a Fremdvergabe
+
+>2 Punkte
 
 In der Softwareentwicklungsabteilung des Unternehmens gibt es derzeit einen personellen Engpass. Die Identify OHG denkt über eine Fremdvergabe nach.
 
@@ -131,7 +151,9 @@ Nennen Sie zwei Argumente, die gegen eine Fremdvergabe sprechen.
 
 ---
 
-### b. Progammiersprache (3 Punkte)
+### 2b Progammiersprache
+
+>3 Punkte
 
 Es wird beschlossen, die Software selbst zu entwickeln. Die Entwicklungsabteilung fragt, in welcher Programmiersprache die
 Software entwickelt werden soll.
@@ -145,7 +167,9 @@ dazu eine kurze Begründung an.
 
 ---
 
-### c. Compiler und Interpreter (3 Punkte)
+### 2c Compiler und Interpreter
+
+>3 Punkte
 
 Zur Auswahl der Programmiersprachen stehen Compiler- und Interpreter-Sprachen.
 
@@ -157,7 +181,9 @@ Erläutern Sie den wesentlichen Unterschied zwischen den beiden Übersetzungsart
 
 ---
 
-### d. UML-Anwendungsfall-Diagramm (5 Punkte)
+### 2d UML-Anwendungsfall-Diagramm
+
+>5 Punkte
 
 Sie werden beauftragt, für die Schlüsselsystemsoftware ein UML-Anwendungsfaldiagramm (Use-Case) zu erstellen. Die folgenden Anforderungen liegen vor:
 
@@ -169,11 +195,13 @@ Ergänzen Sie das gegebene UML-Anwendungsfalldiagramm.
 
 ---
 
-![Anwendungsfall-Diagramm](img/uml_use_case.png)
+![Anwendungsfall-Diagramm](2024-02-uml_use_case.png)
 
 ---
 
-### e. Array in Pseudocode (6 Punkte)
+### 2e Array in Pseudocode
+
+>6 Punkte
 
 Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erstelt. Diese übergibt eine Mitarbeiter-ID und eine Raumnummer, um abzufragen, ob für diesen Raum eine Zutritsberechtigung besteht. Ermitteln und begründen Sie den Rückgabewert, der bei Aufruf der Funktion mit id = 3 und romNr = 236 geliefert wird.
 
@@ -205,7 +233,9 @@ Ende Funktion
 
 ---
 
-### f. Berechnen von Gesamtkosten, Netto- und Bruttopreis (6 Punkte)
+### 2f Berechnen von Gesamtkosten, Netto- und Bruttopreis
+
+>6 Punkte
 
 Eine Schule hat eine Anfrage zur Ausstattung ihres Schließsystems gestelt. Die benötigten Komponenten sind:
 
@@ -381,4 +411,3 @@ Angaben zur Datenbank:
 - In jeder Entitätsmenge sol eine eindeutige Identifizierung durch einen Primärschlüssel möglich sein
 
 ---
-
