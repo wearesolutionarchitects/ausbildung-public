@@ -119,7 +119,9 @@ Die Monitore wurden am 1, Septembet 2023 bestellt, Es gibt keine Auftragbestäti
 
 ---
 
-### e. (3 Punkte)
+### 1e juristische Bestandteile eines Kaufvertrags
+
+>3 Punkte
 
 Nennen Sie drei mögliche Inhalte die durch einen Kaufvertrag geregelt sind (Abgrenzung von den juristischen Bestandteilen eines Kaufvertrags, z. B Willenserklärungen).
 
@@ -129,11 +131,15 @@ Nennen Sie drei mögliche Inhalte die durch einen Kaufvertrag geregelt sind (Abg
 
 ---
 
-### f. (4 Punkte)
+### 1f Kundenzufriedenheit, Maßnahmen zur Vermeidung von Kaufvertragstörungen
 
-Die ordnungsgemäße Abgwicklung des Kaufvertrages ist dem Kunden sehr wichtig.
+>4 Punkte
 
-#### fa. (2 Punkte)
+Die ordnungsgemäße Abwwicklung des Kaufvertrages ist dem Kunden sehr wichtig.
+
+#### 1fa Kaufvertragstörungen
+
+>2 Punkte
 
 Nennen sie zwei Kaufvertragstörungen.
 
@@ -142,7 +148,9 @@ Nennen sie zwei Kaufvertragstörungen.
 
 ---
 
-#### fb. (2 Punkte)
+#### 1fb Maßnahmen zur Vermeidung von Kaufvertragstörungen
+
+>2 Punkte
 
 Geben Sie bei ihren genannten Kaufvertragsstörungen je eine Maßnahme an, die der Kunde ergreifen kann. um diese Störungen zu vermeiden.
 
