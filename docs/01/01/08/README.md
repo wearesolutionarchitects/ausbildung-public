@@ -335,11 +335,15 @@ Erklären Sie die Kompatibilität für jeden der drei Arbeitsspeicher mit dem vo
 
 >2 Punkte
 
+Begründen Sie, welchen Arbeitsspeicher Sie dem Abteilungsleiter zur Anschaffung empfehlen.
+
 ...
 
 ---
 
-#### bc SSD-Vorteile (3 Punkte)
+#### 3bc SSD-Vorteile
+
+>3 Punkte
 
 Sie schlagen dem Abteilungsleiter vor, die HDD im Laptop mit einer SD zu ersetzen.
 Nennen Sie drei Vorteile einer SSD gegenüber einer HDD.
@@ -350,11 +354,15 @@ Nennen Sie drei Vorteile einer SSD gegenüber einer HDD.
 
 ---
 
-### c. Phishing (3 Punkte)
+### 3 Phishing
+
+>3 Punkte
 
 Bei der Korrespondenz mit dem Hardwarelieferanten werden häufig E-Mails ausgetauscht. Sie warnen die Anwender darum vor Phishingmails.
 
-#### ca Gefahren (2 Punkt)
+#### 3ca Gefahren durch Phishingmails
+
+>2 Punkt
 
 Beschreiben Sie eine Gefahr durch Phishingmails.
 
@@ -362,7 +370,9 @@ Beschreiben Sie eine Gefahr durch Phishingmails.
 
 ---
 
-#### cb Anzeichen zur Erkennung von Phisingmails (3 Punkt)
+#### 3cb Anzeichen zur Erkennung von Phisingmails
+
+>3 Punkte
 
 Nennen Sie drei Anzeichen, an denen der User erkennen kann, dass es sich um eine Phishingmail handelt.
 
@@ -372,7 +382,9 @@ Nennen Sie drei Anzeichen, an denen der User erkennen kann, dass es sich um eine
 
 ---
 
-#### cc Schutzmaßnahmen (2 Punkte)
+#### 3cc Schutzmaßnahmen
+
+>2 Punkte
 
 Nennen Sie zwei Maßnahmen, die Sie **dem Unternehmen** zum Schutz vor Phishingmails empfehlen.
 
@@ -381,7 +393,9 @@ Nennen Sie zwei Maßnahmen, die Sie **dem Unternehmen** zum Schutz vor Phishingm
 
 ---
 
-#### cd Maßnahmen beim Empfangen von Mails (2 Punkte)
+#### 3cd Maßnahmen beim Empfangen von Mails
+
+>2 Punkte
 
 Nennen Sie zwei Maßnahmen, die das Unternehmen **den Mitarbeitern** beim Empfang von Mails vorgibt, um sich vor Phishingmail zu schützen.
 
@@ -392,7 +406,9 @@ Nennen Sie zwei Maßnahmen, die das Unternehmen **den Mitarbeitern** beim Empfan
 
 ## 4. Aufgabe (26 Punkte)
 
-### a. Lasten- und Pflichtenheft (6 Punkte)
+### 4a Lasten- und Pflichtenheft
+
+>6 Punkte
 
 Ale Vorgänge des Produktionsprozesses müssen dokumentiert werden. Als Grundlage wird ein Datenmodell erstellt.
 
@@ -409,13 +425,58 @@ Bei La Mediterranea ist auch bei **internen Aufträgen** ein Lasten- und Pflicht
 
 ---
 
-### b. Erweitere das unten angegebene Datenmodell redundanzfrei um die vorliegenden Angaben. Gib Sie auch die Kardinalitäten an
+### 4b Datenmodell
+
+>6 Punkte
+
+Erweitere das unten angegebene Datenmodell redundanzfrei um die vorliegenden Angaben. Gib Sie auch die Kardinalitäten an
 
 Angaben zur Datenbank:
 
-- Die Bearbeitung eines **Issues** darf immer nur von einem einzigen **Praktikanten** erfolgen.
+- Die Bearbeitung eines **Auftrages** darf immer nur von einem einzigen **Mitarbeiter** erfolgen.
 - Neben seinem Namen ist auch der Vorname zu erfassen.
 - Jeder Issue hat einen Beginn und ein Ende der Bearbeitung.
 - In jeder Entitätsmenge sol eine eindeutige Identifizierung durch einen Primärschlüssel möglich sein
 
 ---
+
+![Datenmodell](2024-02-erm.png)
+
+---
+
+### 4c Leasing und Vorteile
+
+>6 Punkte
+
+Da sich die Störungen an einer Maschine häufen, soll eine neue zur Herstellung von Ausweiskarten beschafft werden. Es wer-
+den Überlegungen zur Beschaffung über Leasing angestellt.
+
+Beschreiben Sie drei Vorteile der Beschaffung über Leasing.
+
+1. ...
+2. ...
+3. ...
+
+---
+
+### 4d Leasingdauer und weitere Nutzung
+
+>4 Punkte
+
+Nach Ablauf der Leasingdauer bieten sich bezüglich der weiteren Nutzung der Maschine mehrere Möglichkeiten.
+Beschreiben Sie zwei dieser Möglichkeiten.
+
+1. ...
+2. ...
+
+---
+
+### 4e Ökologische Aspekte
+
+Ein Kollege informiert Sie, dass die Maschine trotz ihrer technischen Veralterung, der Störungen und ihrer erhöhten Ausschussproduktion weiter genutzt werden kann.
+
+Bei der Beschaffung der Maschine spielen nicht nur finanzielle, sondern auch ökologische Aspekte eine Role.
+Beschreiben Sie zwei ökologische Aspekte, die bei einer Neuinvestition zu beachten sind.
+
+1. ...
+2. ...
