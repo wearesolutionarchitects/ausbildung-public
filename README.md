@@ -17,13 +17,14 @@ tags:
 
 📌 Neu: Du kannst jetzt direkt über die Links auf vergangene AP1-Prüfungen zugreifen und gezielt die relevanten Inhalte durchstöbern.
 
-- [ ] [Herbst 2024](/docs/01/01/08/README.md)
-- [ ] [Frühjahr 2024](/docs/01/01/07/README.md)
-- [ ] [Herbst 2023](/docs/01/01/06/README.md)
-- [ ] [Frühjahr 2023](/docs/01/01/05/README.md)
-- [ ] [Herbst 2022](/docs/01/01/04/README.md)
-- [ ] [Frühjahr 2022](/docs/01/01/03/README.md)
-- [ ] [Herbst 2021](/docs/01/01/02/README.md)
+- [ ] März 2025 (ab 26.03.2025)
+- [ ] [September 2024](/src/content/docs/01/01/2024-september/README.md)
+- [ ] [März 2024](/src/content/docs/01/01/2024-maerz/README.md)
+- [ ] [September 2023](src/content/docs/01/01/2023-september/README.md)
+- [ ] [März 2023](/src/content/docs/01/01/2023-maerz/README.md)
+- [ ] [September 2022](/src/content/docs/01/01/2022-september/README.md)
+- [ ] [März 2022](/src/content/docs/01/01/2022-maerz/README.md)
+- [ ] [September 2021](/src/content/docs/01/01/2021-september/README.md)
 
 🎯 Lass uns gemeinsam die Prüfung meistern – Schritt für Schritt! Viel Erfolg und viel Spaß beim Lernen! 💡✨
 

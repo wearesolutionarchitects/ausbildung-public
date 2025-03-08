@@ -13,7 +13,7 @@ export default defineConfig({
         {
           label: 'Prüfungskatalog',
           items: [
-            { label: 'Katalog', link: '/00/welcome' },
+            { label: 'Katalog', link: '/00/readme' },
           ],
         },
         {
@@ -27,12 +27,12 @@ export default defineConfig({
                 { label: 'März 2025', link: '/01/01/2025-maerz/readme' },
                 { label: 'September 2024', link: '/01/01/2024-september/readme' },
 				{ label: 'März 2024', link: '/01/01/2024-maerz/readme' },
-				/* { label: 'September 2023', link: '/01/01/2023-september/readme' },
+				{ label: 'September 2023', link: '/01/01/2023-september/readme' },
 				{ label: 'März 2023', link: '/01/01/2023-maerz/readme' },
 				{ label: 'September 2022', link: '/01/01/2022-september/readme' },
 				{ label: 'März 2022', link: '/01/01/2022-maerz/readme' },
 				{ label: 'September 2021', link: '/01/01/2021-september/readme' },
-				{ label: 'März 2021', link: '/01/01/2021-maerz/readme' }, */
+				{ label: 'März 2021', link: '/01/01/2021-maerz/readme' },
 				
               ],
             },

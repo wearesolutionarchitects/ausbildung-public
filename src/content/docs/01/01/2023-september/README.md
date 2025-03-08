@@ -3,7 +3,38 @@ title: Herbst 2023
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Optisoft-XXL GmbH"
 pubDate: "2023-09-19"
-tags: [ "AP1", "Einrichtung", "Herbst", "2023"]
+tags:
+- AP1
+- Einrichtung
+- Herbst
+- 2023
+- UML
+- Anwendungsfalldiagramm
+- Kritikpunkte
+- Maßnahmen
+- Servicequalität
+- Kommunikationsmodelle
+- Vier-Ohren-Modell
+- Telearbeit
+- Ergonomie
+- Preiskalkulation
+- Service-Pricing
+- VPN
+- Ticketsystem
+- Projektmanagement
+- Gantt-Diagramm
+- Netzplan
+- ERD
+- SQL-Abfrage
+- Priorität
+- Anzahl
+- Kunden
+- Ticket
+- Datenschutz
+- IT-Sicherheit
+- Technisch-organisatorische Maßnahmen
+- TOM
+- Verschlüsselung
 ---
 
 ## Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
