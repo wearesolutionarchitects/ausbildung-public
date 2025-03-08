@@ -3,7 +3,10 @@ title: Ausbildung Fachinformatiker:in Anwendungsentwicklung
 description: "Ausbildung Fachinformatiker:in Anwendungsentwicklung"
 author: "Heiko Fanieng"
 date: "2025-03-02"
-tags: ["Ausbildung", "Abschlussprüfungen", "Projektarbeit"]
+tags:
+  - Ausbildung
+  - Abschlussprüfungen
+  - Projektarbeit
 ---
 
 ## Willkommen / your welcome
@@ -103,3 +106,16 @@ Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung bietet dir vielfäl
 
 ---
 [Meilensteine](docs/01/README.md)
+
+---
+
+## Astro Framework
+
+| Befehl | Aktion |
+| :--- | :--- |
+| npm install | Installiert Abhängigkeiten |
+| npm run dev | Startet lokalen Entwicklungsserver auf localhost:4321 |
+| npm run build | Erstellt die Produktionsversion im Ordner ./dist/ |
+| npm run preview | Vorschau der erstellten Produktionsversion lokal anzeigen |
+| npm run astro  | Astro-CLI-Befehle wie astro add oder astro check ausführen |
+| npm run astro -- --help  | Hilfe zur Nutzung der Astro-CLI anzeigen |
