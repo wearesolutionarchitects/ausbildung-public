@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+
+const docs = await getCollection('docs');
+
+// Alle Tags sammeln und gruppieren
+const tags: Record<string, any[]> = {};
+
+docs.forEach(doc => {
+  (doc.data as { tags?: string[] }).tags?.forEach((tag: string) => {
+    if (!tags[tag]) tags[tag] = [];
+    tags[tag].push(doc);
+  });
+});
+---
+
+<h1>Tag-Übersicht</h1>
+
+{Object.entries(tags).map(([tag, entries]) => (
+  <section>
+    <h2>{tag}</h2>
+    <ul>
+      {entries.map(entry => (
+        <li><a href={`/docs/${entry.slug}`}>{entry.data.title}</a></li>
+      ))}
+    </ul>
+  </section>
+))}
