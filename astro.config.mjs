@@ -5,6 +5,10 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
+      head: [
+        { tag: 'meta', attrs: { name: 'description', content: 'Meine Seite' } },
+        { tag: 'meta', attrs: { name: 'viewport', content: 'width=device-width, initial-scale=1' } }
+      ],
       title: 'Ausbildung',
       social: {
         github: 'https://github.com/devsfiae',
@@ -13,8 +17,8 @@ export default defineConfig({
         {
           label: 'Prüfungskatalog',
           items: [
-            { label: 'Katalog', link: '/00/readme' },
-            { label: 'Tags', link: '/tags' },
+            { label: 'Katalog', link: '/00/welcome' },
+            { label: 'Themenübersicht', link: '/tags-table', attrs: { target: '_blank', rel: 'noopener noreferrer' } },
           ],
         },
         {
@@ -23,8 +27,8 @@ export default defineConfig({
             {
               label: 'AP 1',
               items: [
-                { label: 'Ablauf', link: '/01/readme' },
-				{ label: 'Themen', link: '/01/01/readme' },
+                // { label: 'Ablauf', link: '/01/readme' },
+				        { label: 'Themen', link: '/01/01/readme' },
                 { label: 'März 2025', link: '/01/01/2025-maerz/readme' },
                 { label: 'September 2024', link: '/01/01/2024-september/readme' },
 				{ label: 'März 2024', link: '/01/01/2024-maerz/readme' },
