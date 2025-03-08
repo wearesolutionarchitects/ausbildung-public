@@ -28,8 +28,8 @@ starlight({
             items: [{ label: 'Prüfungskatalog', link: '/02' }],
         },
         {
-            label: '',
-            items: [{ label: 'Prüfung Januar 2024', link: '/pruefungen/2024-01' }],
+            label: 'Projektarbeit',
+            items: [{ label: 'Projekt', link: '/03' }],
         },
     ],
     });
