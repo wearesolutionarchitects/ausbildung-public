@@ -25,7 +25,7 @@ export default defineConfig({
           label: 'Abschlussprüfungen',
           items: [
             {
-              label: 'AP 1',
+              label: 'AP1',
               items: [
                 // { label: 'Ablauf', link: '/01/readme' },
 				        { label: 'Themen', link: '/01/01/readme' },
@@ -42,10 +42,10 @@ export default defineConfig({
               ],
             },
             {
-              label: 'AP 2',
+              label: 'AP2',
               items: [
                 {
-                  label: 'Teil 01',
+                  label: '01 Planung ',
                   items: [
                     { label: 'Thema 1', link: '/abschlusspruefungen/02/01/thema1' },
                     { label: 'Thema 2', link: '/abschlusspruefungen/02/thema2' },
@@ -53,7 +53,15 @@ export default defineConfig({
                   ],
                 },
                 {
-                  label: 'Teil 2.3',
+                  label: '02 Entwicklung und Umsetzung',
+                  items: [
+                    { label: 'Thema 1', link: '/abschlusspruefungen/02/03/thema1' },
+                    { label: 'Thema 2', link: '/abschlusspruefungen/02/thema2-3' },
+                    { label: 'Thema 3', link: '/abschlusspruefungen/02/thema3-3' },
+                  ],
+                },
+                {
+                  label: '03 Wirtschafts- und Sozialkunde',
                   items: [
                     { label: 'Thema 1', link: '/abschlusspruefungen/02/03/thema1' },
                     { label: 'Thema 2', link: '/abschlusspruefungen/02/thema2-3' },
@@ -71,6 +79,14 @@ export default defineConfig({
         {
           label: 'Projekt',
           items: [{ label: 'Projektbeschreibung', link: '/projekt/projektbeschreibung' }],
+        },
+        {
+          label: 'Bürokratie',
+          items: [
+            { label: 'Berichtsheft', link: '' },
+            { label: 'Zeitnachweis', link: '', attrs: { target: '_blank', rel: 'noopener noreferrer' } },
+            { label: 'Induestrie- und Handelskammern (79)', link: '' },
+          ],
         },
       ],
       
