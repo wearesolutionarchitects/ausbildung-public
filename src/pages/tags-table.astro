@@ -1,0 +1,86 @@
+---
+import { getCollection } from 'astro:content';
+
+const docs = await getCollection('docs');
+
+// Alle Tags sammeln und die Häufigkeit berechnen
+const tagData = {};
+
+docs.forEach(doc => {
+  const { tags } = doc.data;
+
+  if (!tags || !Array.isArray(tags)) return; // Falls keine Tags vorhanden, überspringen
+
+  const yearTags = tags.filter(tag => /^\d{4}$/.test(tag)); // Extrahiere nur Jahreszahlen
+  const apType = tags.includes("AP1") ? "AP1" : tags.includes("AP2") ? "AP2" : "Unbekannt";
+
+  tags.forEach(tag => {
+    if (!tagData[tag]) {
+      tagData[tag] = { count: 0, years: new Set(), apTypes: new Set() };
+    }
+    tagData[tag].count++;
+    yearTags.forEach(year => tagData[tag].years.add(year));
+    tagData[tag].apTypes.add(apType);
+  });
+});
+
+// Sortiere Tags nach Häufigkeit
+const sortedTags = Object.entries(tagData)
+  .sort((a, b) => b[1].count - a[1].count);
+---
+
+<h1>Tag-Übersicht</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tag</th>
+      <th>Häufigkeit</th>
+      <th>Jahre</th>
+      <th>AP</th>
+    </tr>
+  </thead>
+  <tbody>
+    {sortedTags.map(([tag, data]) => (
+      <tr>
+        <td>{tag}</td>
+        <td>{data.count}</td>
+        <td>{Array.from(data.years).length > 0 ? Array.from(data.years).join(", ") : "—"}</td>
+        <td>{Array.from(data.apTypes).join(", ")}</td>
+      </tr>
+    ))}
+  </tbody>
+</table>
+
+<style>
+  body {
+    background-color: #121212; /* Dark Mode */
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    background: #1e1e1e;
+  }
+
+  th, td {
+    border: 1px solid #444;
+    padding: 0.5rem;
+    text-align: left;
+  }
+
+  th {
+    background: #333;
+  }
+
+  td {
+    background: #222;
+  }
+
+  tr:hover {
+    background: #333;
+  }
+</style>
