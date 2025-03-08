@@ -85,7 +85,9 @@ export default defineConfig({
           items: [
             { label: 'Berichtsheft', link: '' },
             { label: 'Zeitnachweis', link: '', attrs: { target: '_blank', rel: 'noopener noreferrer' } },
-            { label: 'Induestrie- und Handelskammern (79)', link: '' },
+            { label: 'Industrie- und Handelskammern (79)', link: '' },
+            { label: '"Bildungsträger"', link: '' },
+            { label: '"Kostenträger"', link: '' },
           ],
         },
       ],
