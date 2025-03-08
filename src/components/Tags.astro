@@ -3,40 +3,53 @@ import { getCollection } from 'astro:content';
 
 const docs = await getCollection('docs');
 
+console.log("Dokumente geladen:", docs); // Debug: Prüfen, ob die Sammlung korrekt geladen wird
+
 // Alle Tags sammeln und die Häufigkeit berechnen
 const tagCounts: Record<string, number> = {};
 
+// Debugging: Alle Dokumente durchgehen und Tags prüfen
 docs.forEach(doc => {
-  (doc.data as { tags?: string[] }).tags?.forEach((tag: string) => {
-    if (!tagCounts[tag]) tagCounts[tag] = 0;
-    tagCounts[tag]++;
-  });
+  console.log("Dokument:", doc.id, "Tags:", (doc.data as any).tags); // Debug-Ausgabe
+
+  if ((doc.data as any).tags && Array.isArray((doc.data as any).tags)) { // Sicherstellen, dass tags existiert und ein Array ist
+    (doc.data as any).tags.forEach((tag: string) => {
+      if (!tagCounts[tag]) tagCounts[tag] = 0;
+      tagCounts[tag]++;
+    });
+  } else {
+    console.warn(`WARNUNG: Keine Tags gefunden für ${doc.id}`);
+  }
 });
+
+console.log("Gesammelte Tags:", tagCounts); // Debug: Prüfen, ob Tags gesammelt wurden
 
 // Tags nach Häufigkeit sortieren
 const sortedTags = Object.entries(tagCounts)
   .sort((a, b) => b[1] - a[1]);
 
-// Funktion zur Bestimmung der Schriftgröße basierend auf der Häufigkeit
-const getFontSize = (count: number) => {
-  const minSize = 12;
-  const maxSize = 32;
-  const maxCount = sortedTags[0]?.[1] || 1; // Höchster Tag-Wert als Referenz
-  return `${minSize + (maxSize - minSize) * (count / maxCount)}px`;
-};
 ---
 
 <h1>Tag-Wolke</h1>
 
 <div class="tag-cloud">
-  {sortedTags.map(([tag, count]) => (
-    <a href={`#${tag}`} class="tag" style={`font-size: ${getFontSize(count)}`}>
-      {tag} ({count})
-    </a>
-  ))}
+  {sortedTags.length > 0 ? (
+    sortedTags.map(([tag, count]) => (
+      <a href={`/tags#${tag}`} class="tag" style={`font-size: ${12 + count * 3}px`}>
+        {tag} ({count})
+      </a>
+    ))
+  ) : (
+    <p>Keine Tags gefunden.</p>
+  )}
 </div>
 
 <style>
+  body {
+    background-color: #121212; /* Dark Mode */
+    color: #ffffff;
+  }
+
   .tag-cloud {
     display: flex;
     flex-wrap: wrap;
@@ -47,12 +60,16 @@ const getFontSize = (count: number) => {
 
   .tag {
     text-decoration: none;
-    color: #007acc;
+    color: #80b3ff;
     font-weight: bold;
-    transition: transform 0.2s;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.3rem 0.8rem;
+    border-radius: 0.25rem;
+    transition: transform 0.2s, background 0.3s;
   }
 
   .tag:hover {
     transform: scale(1.2);
+    background: rgba(255, 255, 255, 0.2);
   }
 </style>
