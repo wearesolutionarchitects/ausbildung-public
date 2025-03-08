@@ -2,7 +2,7 @@
 title: Herbst 2023
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Optisoft-XXL GmbH"
-date: "2023-09-19"
+pubDate: "2023-09-19"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 

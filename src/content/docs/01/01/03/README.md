@@ -2,7 +2,7 @@
 title: Frühjar 2022
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "AllRound AG"
-date: "2022-03-30"
+pubDate: "2022-03-30"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 

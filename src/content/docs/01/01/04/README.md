@@ -2,7 +2,7 @@
 title: Herbst 2022
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Package AG"
-date: "2022-09-21"
+pubDate: "2022-09-21"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 

@@ -2,7 +2,7 @@
 title: Herbst 2024
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Identify OHG"
-date: "2024-09-17"
+pubDate: "2024-09-17"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 
@@ -218,7 +218,7 @@ Es gibt **keine Kopfzeile** im Array, sie dient nur zur Erläuterung.
 
 ---
 
-```pseudocode
+```txt
 Funktion checkAuthority (id, roomNr)
    Für i von 0 bis (AnzahlZeilen von keyData) - 1
       Für j von 1 bis (AnzahlBelegteSpalten von keyData) - 1

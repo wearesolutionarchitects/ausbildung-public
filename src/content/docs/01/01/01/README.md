@@ -2,7 +2,7 @@
 title: Teil 1 der Abschlussprüfung (AP)  - Einrichten eines IT-gestützten Arbeitsplatzes
 description: "Teil 1 der Abschlussprüfung (AP)  - Einrichten eines IT-gestützten Arbeitsplatz"
 author: "Heiko Fanieng"
-date: "2025-03-02"
+pubDate: "2025-03-02"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 

@@ -2,7 +2,7 @@
 title: Herbst 2021
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Wärl Chemie GmbH"
-date: "2021-11-24"
+pubDate: "2021-11-24"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 

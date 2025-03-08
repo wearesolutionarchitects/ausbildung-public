@@ -2,7 +2,7 @@
 title: Frühjahr 2024
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Kustoflex GmbH"
-date: "2024-02-28"
+pubDate: "2024-02-28"
 tags: ["Prüfungen", "AP1", "Einrichtung"]
 ---
 
