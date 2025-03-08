@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 const docs = await getCollection('docs');
 
 // Alle Tags sammeln und die Häufigkeit berechnen
-const tagData = {};
+const tagData: Record<string, { count: number; years: Set<string>; apTypes: Set<string> }> = {};
 
 docs.forEach(doc => {
   const { tags } = doc.data;
