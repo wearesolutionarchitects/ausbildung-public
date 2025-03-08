@@ -2,19 +2,13 @@
 title: Herbst 2024
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Identify OHG"
-date: "2024-09-17"
-menus: Prüfungsaufgaben
-identifier: 2024-fall
-parent: Prüfungsaufgaben
-series:
-    name: "Abschlussprüfung Teil 1"
-    part: 1
-    number: 2
+pubDate: "2024-09-17"
 tags:
 - AP1
 - Einrichtung
 - Herbst
 - 2024
+
 ---
 
 ## Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
@@ -206,7 +200,7 @@ Ergänzen Sie das gegebene UML-Anwendungsfalldiagramm.
 
 ---
 
-![Anwendungsfall-Diagramm](2024-02-uml_use_case.png)
+![Anwendungsfall-Diagramm](./uml_use_case.png)
 
 ---
 
@@ -229,7 +223,7 @@ Es gibt **keine Kopfzeile** im Array, sie dient nur zur Erläuterung.
 
 ---
 
-```pseudocode
+```txt
 Funktion checkAuthority (id, roomNr)
    Für i von 0 bis (AnzahlZeilen von keyData) - 1
       Für j von 1 bis (AnzahlBelegteSpalten von keyData) - 1
@@ -451,7 +445,7 @@ Angaben zur Datenbank:
 
 ---
 
-![Datenmodell](2024-02-erm.png)
+![Datenmodell](./2024-02-erm.png)
 
 ---
 
