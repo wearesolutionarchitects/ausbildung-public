@@ -2,15 +2,32 @@
 title: Frühjahr 2024
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Kustoflex GmbH"
-date: "2024-02-28"
-tags: [ "AP1", "Einrichtung"]
+pubDate: "2024-02-28"
+tags:
+- AP 1
+- Einrichtung
+- OSI-Modell
+- Netzwerk
+- Kaufvertrag
+- Malware
+- Datenschutz
+- VPN
+- Datenübertragung
+- Stromkosten
+- Dateiformate
+- CAD
+- Netzteil
+- Kundenzufriedenheit
+- Kaufvertragstörungen
+- Maßnahmen
+
 ---
 
 ## Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
 
 **Einrichten eines IT-gestützten Arbeitsplatzes.**
 
-[Aufgaben & Lösungen](2024_spring_ap1_compressed.pdf)
+[Aufgaben & Lösungen](./2024_spring_ap1_compressed.pdf)
 
 ## Situation
 
@@ -105,7 +122,7 @@ Ordnen sie die Anschlüsse den Abbildungen zu:
 |DisplayPort (DP)|...|
 
 **Abbildungen:**
-![Grafikkarten-Anschlüsse](2024-01-grafkikartenanschluesse.png)
+![Grafikkarten-Anschlüsse](./2024-01-grafkikartenanschluesse.png)
 
 ---
 
@@ -170,7 +187,7 @@ Nach der Konfiguration des CAD-Arbeitsplatzes prüfen Sie nun die Netzwerkeinste
 Bei einem Blick auf die Netzwerkbuchse Ihres PCs erkemnen Sie rechts oben eine grüne Leuchtdiode (LED, vergleich Bild).
 Interpretern Sie die hier zur Verfügung gestellten Informationen bzüglich der Netzwerkfunktionalität Ihres PCs.
 
-![Netzwerk LED](2024-01-netzwerk_led.png)
+![Netzwerk LED](./2024-01-netzwerk_led.png)
 
 LED leuchtet durchgehend.
 
@@ -192,7 +209,7 @@ LED blinkt unregelmäßig.
 
 Nach der Eingabe des Befehls **"ipconfig /all"** auf der Kommanduzeile Ihres PCs erhalten sie u. a. die fo!genden weiteren Informationen (Abb. 1)
 
-![Netzwerk-Adressen](2024-02-netzwerk_addresse.png)
+![Netzwerk-Adressen](./2024-02-netzwerk_addresse.png)
 
 Benenen Sie in der folgnden Tabelle aufgeführten OSI-Schichten und ordnen Sie zur Strukturierung die vorliegenden Begriffe den richtigen Schichten zu:
 
