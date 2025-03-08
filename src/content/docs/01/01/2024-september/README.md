@@ -8,6 +8,21 @@ tags:
 - Einrichtung
 - Herbst
 - 2024
+- IT-Grundschutz
+- Netzwerkkonfiguration
+- UML
+- Anwendungsfall-Diagramm
+- Array
+- Pseudocode
+- Gesamtkosten
+- Netto- und Bruttopreis
+- Ratendarlehen
+- RAM-Kompatibilität
+- Phishing
+- Lasten- und Pflichtenheft
+- Datenmodell
+- Leasing
+- Ökologische Aspekte
 
 ---
 

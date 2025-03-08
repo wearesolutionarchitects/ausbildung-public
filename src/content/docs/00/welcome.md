@@ -2,7 +2,7 @@
 title: Prüfungskatalog
 description: "AO 2025"
 author: "Heiko Fanieng"
-pupDate: "2025-03-07"
+puppubDate: "2025-03-07"
 categories: 
 - Prüfungskatalog
 tags:

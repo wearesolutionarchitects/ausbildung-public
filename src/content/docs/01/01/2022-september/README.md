@@ -2,8 +2,24 @@
 title: Herbst 2022
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Package AG"
-date: "2022-09-21"
-tags: ["AP1", "Einrichtung", "Herbst", "2022"]
+pubDate: "2022-09-21"
+tags:
+- AP1
+- Einrichtung
+- Herbst
+- 2022
+- Marktform
+- Stakeholder
+- Projektberater
+- Effektiver Stundensatz
+- Dienstvertrag
+- Werkvertrag
+- IPv6-Adressierung
+- Adressierung
+- Angebotsvergleich
+- SQL-Abfrage
+- Struktogramm
+- ERM
 ---
 
 ## Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
@@ -311,7 +327,7 @@ Adresse für ale Geräte. Vermischen Sie dabei aus Gründen der Übersichtlichke
 der Netzwerkgeräte. Richten Sie die IP-Adressierung so ein, dass ale Geräte später auch aus einem anderen Teilnetz über den
 Router gewartet werden können.
 
-![IPv6 Adressierung](2022-02-Adressierung.png)
+![IPv6 Adressierung](./2022-02-Adressierung.png)
 
 | | Router | Switch      | Server mit Netzwerkanschluss | Steuerung mit Netzwerkanschluss | Industrie PC |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -466,7 +482,7 @@ pappen (siehe Index 3) in den angegebenen Maßen (siehe Index 0, 1 und 2).
 
 ---
 
-![Struktogramm](2022-02-struktogramm.png)
+![Struktogramm](./2022-02-struktogramm.png)
 
 ---
 
@@ -486,4 +502,4 @@ Hinweis: Die eventuell benötigten Fremdschlüssel müssen nicht in diesem Entwu
 
 ---
 
-![ERM](2022-02-ERM.png)
+![ERM](./2022-02-ERM.png)

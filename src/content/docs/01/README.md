@@ -2,7 +2,7 @@
 title: Prüfungsaufgaben
 description: "Prüfungen innerhalb der Ausbildung"
 author: "Heiko Fanieng"
-pupDate: "2025-03-02"
+puppubDate: "2025-03-02"
 categories: 
  - Prüfungsaufgaben
 tags:

@@ -2,13 +2,12 @@
 title: Frühjar 2022
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "AllRound AG"
-date: "2022-03-30"
-categories:
+pubDate: "2022-03-30"
+tags:
 - AP 1
 - Einrichtung
 - Frühjahr
 - 2022
-tags:
 - Projektmachbarkeit
 - Wirtschaftlichkeit
 - Präsentation
@@ -168,7 +167,7 @@ Sie möchten die CPU in den CPU-Sockel des Mainboards einbauen. Dazu lesen Sie s
 
 **CPU installation:** To fit the processor in the socket, first lift the lever. The CPU fits in only one correct orientation. Make sure the arrow on top of the processor is aligned with the arrow on the processor socket. Do not force the CPU into the socket to prevent bending the connectors on the socket and damaging the CPU. Gently push the processor into place. Push the lever down to secure the processor.
 
-![Mainboard-CPU](2022-01-cpu.png)
+![Mainboard-CPU](./2022-01-cpu.png)
 
 ---
 
@@ -213,7 +212,7 @@ Erläutern Sie, welche Aufgabe die Wärmeleitpaste hat.
 
 Sie möchten nun den DDR 4 Arbeitsspeicher in die Slots des Motherboards einsetzen. Sie haben zwei DDR 4 RAM Riegel und möchten den RAM im Dual Channel Modus betreiben. Auf dem Motherboard sehen Sie die folgenden Slots:
 
-![RAM](2022-01-ram.png)
+![RAM](./2022-01-ram.png)
 
 Erläutern Sie, was Sie beim Einsetzen der beiden Speicherriegel beachten müssen, damit der RAM im Dual Channel Modus
 arbeitet.
@@ -241,7 +240,7 @@ Nachteil: ...
 Nachdem der PC fertig zusammengebaut ist, möchten Sie den Monitor an die Grafikkarte anschließen. Sie sehen an der Grafik-
 karte die folgenden Anschlüsse:
 
-![Grafikkarte](2022-01-grafikkarte.png)
+![Grafikkarte](./2022-01-grafikkarte.png)
 
 Um welche Anschlüsse handelt es sich bei den mit A, B und C markierten Schnittstellen?
 Nennen Sie die korrekten Bezeichnungen/Abkürzungen. (3 Punkte)
@@ -256,7 +255,7 @@ C: ...
 
 An der Rückseite des PC sehen Sie die folgenden Anschlüsse:
 
-![USB-Anschluss](2022-01-usb.png)
+![USB-Anschluss](./2022-01-usb.png)
 
 #### 2fa
 
@@ -274,7 +273,7 @@ Beschreiben Sie, welche Besonderheit der umrahmte USB-Anschluss hat.
 
 Nennen Sie zwei Vorteile des USB-C Anschlusses gegenüber dem USB-3 Anschluss.
 
-![USB-C](2022-01-usb_c.png)
+![USB-C](./2022-01-usb_c.png)
 
 1. ...
 2. ...
@@ -385,7 +384,7 @@ Hinweis: Geben Sie pro Feld jeweils nur ein passendes Beispiel an.
 
 >4 Punkte
 
-![WLAN-Status](2022-01-w_lan.png)
+![WLAN-Status](./2022-01-w_lan.png)
 
 Entsprechend Ihres Plans starten Sie Ihre Fehlersuche im OSI-Modell von unten nach oben (Bottom-up), beginnend mit Schicht 1.
 Im obenstehenden Bild suchen Sie dazu Informationen über den Zustand der Verbindung.
@@ -401,7 +400,7 @@ tät.
 
 Sie starten nun das Konsolenfenster zur Analyse der OSI-Schichten 2 und 3 und erhalten nach der Eingabe eines Befehls zur Anzeige der Netzwerkkonfiguration die folgende Ausgabe:
 
-![Drahtlos-Adapter](2022-01-wlan_standard.png)
+![Drahtlos-Adapter](./2022-01-wlan_standard.png)
 
 Trotz des fehlenden Netzwerkzugriffs werden zwei Adresen angezeigt.
 
@@ -432,7 +431,7 @@ Beschreiben Sie die Herkunft der Adresse fe80::85e1:1ec1:c9e2:3cbb.
 Bei Ihrer Fehleranalyse legen Sie nun Ihren Fokus auf die Analyse der höheren OSI-Schichten.
 Nach Eingabe des Befehls zur Erneuerung der IP-Adresse wird nun die folgende Information angezeigt:
 
-![WLAN-Standard](2022-01-ip_addresse.png)
+![WLAN-Standard](./2022-01-ip_addresse.png)
 
 #### 3fa Serverbezeichnung
 
@@ -465,7 +464,7 @@ Broadcastadresse: ...
 Um die nun veränderte Situation zu prüfen, geben Sie den Befehl „ping 192.168.0.1" ein und erhalten die folgende
 Ausgabe:
 
-![Ping](2022-01-ping.png)
+![Ping](./2022-01-ping.png)
 
 Sie analysieren die Ergebnisse Ihrer gesamten Fehlersuche.
 
@@ -576,7 +575,7 @@ Tragen Sie die Anweisungen folgerichtig in das nebenstehende Struktogramm ein. 9
 
 ---
 
-![Struktogramm](2022-01-struktogramm.png)
+![Struktogramm](./2022-01-struktogramm.png)
 
 ---
 

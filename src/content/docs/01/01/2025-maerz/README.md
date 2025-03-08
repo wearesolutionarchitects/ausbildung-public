@@ -2,7 +2,7 @@
 title: Frühjahr 2025
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "IHK"
-date: "2025-03-25"
+pubDate: "2025-03-25"
 menus: main
 identifier: 2025-spring
 parent: Prüfungsaufgaben

@@ -2,7 +2,7 @@
 title: Frühjahr 2023
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "SecuRita AG"
-pubDate: "2023-03-01"
+pubpubDate: "2023-03-01"
 tags:
 - AP 1
 - Einrichtung

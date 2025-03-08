@@ -2,7 +2,24 @@
 title: Herbst 2021
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "Wärl Chemie GmbH"
-date: "2021-11-24"
+pubpubDate: "2021-11-24"
+tags:
+  - AP1
+  - Einrichtung
+  - Herbst
+  - 2021
+  - Zustandsdiagramm
+  - Anwendungsfalldiagramm
+  - OOP-Methoden
+  - ER-Modell
+  - SQL-Abfragen
+  - UML-Modellierung
+  - Smartphone-Dashboard
+  - Tankfüllstände
+  - Sensordaten
+  - Datenbank
+  - Zeiterfassung
+
 ---
 
 ## Situationsbeschreibung
@@ -144,7 +161,7 @@ maxPeriod (sensor id: Integer, mindestwert: Double) : Integer
 
 Eine Smartphone-Anwendung mit unterschiedlichen Anzeigemöglichkeiten für Tankfüllstände soll entwickelt werden.
 
-![Dashboard](2021-11-dashboard.png)
+![Dashboard](./2021-11-dashboard.png)
 
 In einer ersten Implementierung sol eine „Dashboard"-Anzeige, welche die Fülstände aler Tanks anzeigt und später eine
 „History"-Anzeige, die den zeitlichen Verlauf des Füllstands eines Tanks darstellt, erstellt werden.
@@ -191,7 +208,7 @@ Implementieren Sie in Pseudocode die Set- und Get-Methode für die Instanzvariab
 
 Die Füllstände der Tanks werden stündlich aktualisiert. Ale Anzeigen sollen entsprechend angepasst werden. Ein noch unvollständiger Entwurf nach dem Observer-Muster zur Umsetzung dieser Anforderung liegt bereits vor.
 
-![Klassendiagramm](2021-11-klassendiagramm.png)
+![Klassendiagramm](./2021-11-klassendiagramm.png)
 
 ---
 
@@ -232,7 +249,7 @@ Hinweis: Die ersten drei Spiegelstriche sind bereits umgesetzt.
 
 ---
 
-![Sqeuenzdiagramm](2021-11-sequenzdiagramm.png)
+![Sqeuenzdiagramm](./2021-11-sequenzdiagramm.png)
 
 ---
 
