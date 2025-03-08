@@ -27,7 +27,7 @@ tags:
 
 **Einrichten eines IT-gestützten Arbeitsplatzes.**
 
-[Aufgaben & Lösungen](./2024_spring_ap1_compressed.pdf)
+[Aufgaben & Lösungen](/docs/01/01/2024-maerz.pdf)
 
 ## Situation
 

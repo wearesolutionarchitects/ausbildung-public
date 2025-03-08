@@ -37,7 +37,7 @@ Hierzu erhalten Sie von der IT-Abteilung die folgenden Informationen:
 
 Ergänzen Sie das bereits angefangene UML-Anwendungsfaldiagramm (Use Case Diagramm) um die fehlenden Anwendungsfälle und Bezeichnungen der Akteure.
 
-![Use Case](2023-02-use_case.png)
+![Use Case](./2023-02-use_case.png)
 
 ---
 
@@ -468,7 +468,7 @@ Hinweise zum bestehenden Teil des ERD:
 
 ---
 
-![ERD](2023-02-erd.png)
+![ERD](./2023-02-erd.png)
 
 ---
 

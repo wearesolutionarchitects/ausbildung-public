@@ -2,8 +2,25 @@
 title: Frühjahr 2023
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 author: "SecuRita AG"
-date: "2023-03-01"
-tags: [ "AP1", "Einrichtung"]
+pubDate: "2023-03-01"
+tags:
+- AP 1
+- Einrichtung
+- Datenschutz
+- IT-Sicherheit
+- KI
+- Schadensabwicklung
+- Lastenheft
+- Pflichtenheft
+- UML
+- SELECT
+- SQL
+- Datenbank
+- ERD
+- Bezugskosten
+- Leasing
+- Nutzwertanalyse
+
 ---
 
 ## Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
@@ -106,7 +123,7 @@ Für ale Angebote gelten die folgenden Lieferkosten durch die Spedition Liefersc
 
 ---
 
-![Lieferkosten](2023-01-lieferkosten.png)
+![Lieferkosten](./2023-01-lieferkosten.png)
 
 #### 2aa Bezugspreisermittlung
 
@@ -197,7 +214,7 @@ Erläutern Sie den Begriff __Kaufoption__.
 
 Sie informieren sich darüber, wie Sie bei den PCs in Ihrem Betrieb auf der Ebene der Betriebssysteme die Sicherheit verbessern könnten. Zur Einordnung der Funktionsebenen eines PCs wird häufig ein Schichten- oder ein Schalenmodel verwendet.
 
-![Alt text](2023-01-model.png)
+![Alt text](./2023-01-model.png)
 
 Benennen Sie im nebenstehenden Modell eine Schicht oberhalb und eine Schicht unterhalb des Betriebssystems.
 
@@ -383,7 +400,7 @@ __Hinweis:__ Die Restwertberechnung erfolgt beim KFZ und bei der Immobilie unter
 
 Bei der Schadenregulierung im KFZ-Bereich werden die notwendigen Informationen in einer relationalen Datenbank gespeichert. Wichtig dabei ist die Zuordnung der Versicherungsnehmer zu den jeweiligen KFZ-Daten. So werden zum Beispiel unter dem Attribut Fahrzeugtyp, die Fahrzeuge nach SUV, Limousine, Geländewagen oder Cabriolet unterschieden. Das Attribut „Garage" wird mit dem Datentyp BOOLEAN abgespeichert. Ein Teilauszug aus dieser Datenbank sehen Sie in dem untenstehenden Entity-Relationship-Modell.
 
-![ERD](2023-01-erd.png)
+![ERD](./2023-01-erd.png)
 
 __PK__ bezeichnet ein Primärschlüsselattribut, Primärschlüsselattribute werden unterstrichen.
 
