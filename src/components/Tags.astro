@@ -1,33 +1,58 @@
 ---
-// src/components/Tags.astro
-export interface Props {
-    tags: string[];
-}
-const { tags } = Astro.props;
+import { getCollection } from 'astro:content';
+
+const docs = await getCollection('docs');
+
+// Alle Tags sammeln und die Häufigkeit berechnen
+const tagCounts: Record<string, number> = {};
+
+docs.forEach(doc => {
+  (doc.data as { tags?: string[] }).tags?.forEach((tag: string) => {
+    if (!tagCounts[tag]) tagCounts[tag] = 0;
+    tagCounts[tag]++;
+  });
+});
+
+// Tags nach Häufigkeit sortieren
+const sortedTags = Object.entries(tagCounts)
+  .sort((a, b) => b[1] - a[1]);
+
+// Funktion zur Bestimmung der Schriftgröße basierend auf der Häufigkeit
+const getFontSize = (count: number) => {
+  const minSize = 12;
+  const maxSize = 32;
+  const maxCount = sortedTags[0]?.[1] || 1; // Höchster Tag-Wert als Referenz
+  return `${minSize + (maxSize - minSize) * (count / maxCount)}px`;
+};
 ---
 
-<div class="tags">
-    {tags.map(tag => (
-        <span class="tag">{tag}</span>
-    ))}
+<h1>Tag-Wolke</h1>
+
+<div class="tag-cloud">
+  {sortedTags.map(([tag, count]) => (
+    <a href={`#${tag}`} class="tag" style={`font-size: ${getFontSize(count)}`}>
+      {tag} ({count})
+    </a>
+  ))}
 </div>
 
 <style>
-    .tags {
-        display: flex;
-        gap: 0.5rem;
-        flex-wrap: wrap;
-    }
-    .tag {
-    background-color: #e8e8e8;
-    padding: 0.2rem 0.6rem;
-    border-radius: 0.25rem;
-    font-size: 0.8rem;
-    }
-</style>
+  .tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    justify-content: center;
+    padding: 1rem;
+  }
 
-<div class="tags">
-    {tags.map(tag => (
-        <span class="tag">{tag}</span>
-    ))}
-</div>
+  .tag {
+    text-decoration: none;
+    color: #007acc;
+    font-weight: bold;
+    transition: transform 0.2s;
+  }
+
+  .tag:hover {
+    transform: scale(1.2);
+  }
+</style>

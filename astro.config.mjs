@@ -14,6 +14,7 @@ export default defineConfig({
           label: 'Prüfungskatalog',
           items: [
             { label: 'Katalog', link: '/00/readme' },
+            { label: 'Tags', link: '/tags' },
           ],
         },
         {
