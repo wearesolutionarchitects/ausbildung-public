@@ -1,8 +1,32 @@
 ---
-title: "Startseite"
-description: "Willkommen zur Ausbildungs-Dokumentation"
+title: Willkommen auf deinem Weg zum Ziel
+description: Viele Erfolg auf deinem Weg zum Ziel. Hier findest du alle Informationen, die Du dafür benötigst.
+template: splash
+hero:
+  tagline: Glückwunsch zur Erstellung diese neuen Projketes mit Astro und Starlight!
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: Zur Anleitung
+      link: /00/welcome/
+      icon: right-arrow
 ---
 
-# Willkommen zur Ausbildungs-Dokumentation
+import { Card, CardGrid } from '@astrojs/starlight/components';
 
-Hier startet die Dokumentation.
+## Next steps
+
+<CardGrid stagger>
+	<Card title="Update content" icon="pencil">
+		Edit `src/content/docs/index.mdx` to see this page change.
+	</Card>
+	<Card title="Add new content" icon="add-document">
+		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	</Card>
+	<Card title="Configure your site" icon="setting">
+		Edit your `sidebar` and other config in `astro.config.mjs`.
+	</Card>
+	<Card title="Read the docs" icon="open-book">
+		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	</Card>
+</CardGrid>
