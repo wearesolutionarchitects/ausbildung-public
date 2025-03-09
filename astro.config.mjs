@@ -88,7 +88,7 @@ export default defineConfig({
         {
           label: 'Bürokratie',
           items: [
-            { label: 'Berichtsheft', link: '' },
+            { label: 'Ausbildungsnachweis', link: '/05/01/readme' },
             { label: 'Zeitnachweis', link: '', attrs: { target: '_blank', rel: 'noopener noreferrer' } },
             { label: 'Industrie- und Handelskammern', link: '' },
             { label: 'Bildungsträger', link: '' },
