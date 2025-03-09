@@ -17,7 +17,7 @@ export default defineConfig({
         {
           label: 'Prüfungskatalog',
           items: [
-            { label: 'Katalog', link: '/00/welcome' },
+            { label: 'Katalog', link: '/00/readme' },
             { label: 'Themenübersicht', link: '/tags-table', attrs: { target: '_blank', rel: 'noopener noreferrer' } },
           ],
         },
