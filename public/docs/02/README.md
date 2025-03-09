@@ -1,32 +1,5 @@
----
-title: "Prüfungsaufgaben"
-description: "Prüfungen innerhalb der Ausbildung"
-pubDate: 2025-03-02
-meta:
-  - name: "description"
-    content: "Prüfungen innerhalb der Ausbildung"
-  - name: "author"
-    content: "Heiko Fanieng"
-  - property: "og:title"
-    content: "Prüfungen"
-  - property: "og:description"
-    content: "Prüfungen innerhalb der Ausbildung"
-  - http-equiv: "content-language"
-    content: "de"
-tags:
-  - AP1
-  - Einrichtung
-  - AP2
-  - Planung
-  - Entwicklung
-  - WiSo
----
-
-## Übersicht vorhandener Prüfungen als PDFs
-
-<FileTree>
 .
-├── 01 AP1 Einrichten eines IT gestützten Arbeitsplatzes
+├── 01
 │   ├── 2021-september-beleg.pdf
 │   ├── 2021-september.pdf
 │   ├── 2022-maerz-loesung.pdf
@@ -43,20 +16,18 @@ tags:
 │   ├── 2024-maerz.pdf
 │   ├── 2024-september-loesung.pdf
 │   └── 2024-september.pdf
-├── 02 AP2
-│   ├── 01 Planen eines Softwareprodukts
+├── 02
+│   ├── 01
 │   │   ├── 2024-1-november-beleg.pdf
 │   │   └── 2024-1-november.pdf
-│   ├── 02 Entwicklung und Umsetzung von Algorithmen
+│   ├── 02
+│   │   ├── ._2024-2-november.pdf
 │   │   ├── 2024-1-november-beleg.pdf
 │   │   └── 2024-2-november.pdf
-│   └── 03 Wirtschafts- und Sozialkunde
+│   └── 03
 │       ├── 2024-3-antwortbogen.pdf
 │       ├── 2024-3-november-loesung.pdf
 │       └── 2024-3-november.pdf
 └── README.md
 
-</FileTree>
-
----
-import { FileTree } from '@astrojs/starlight/components';
+6 directories, 26 files
