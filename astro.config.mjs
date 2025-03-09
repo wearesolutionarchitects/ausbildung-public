@@ -25,7 +25,7 @@ export default defineConfig({
           label: 'Abschlussprüfungen',
           items: [
             {
-              label: 'AP1',
+              label: 'AP1 Einrichtung',
               items: [
                 // { label: 'Ablauf', link: '/01/readme' },
 				        { label: 'Themen', link: '/01/01/readme' },
