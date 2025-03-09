@@ -31,14 +31,13 @@ export default defineConfig({
 				        { label: 'Themen', link: '/01/01/readme' },
                 { label: 'März 2025', link: '/01/01/2025-maerz/readme' },
                 { label: 'September 2024', link: '/01/01/2024-september/readme' },
-				{ label: 'März 2024', link: '/01/01/2024-maerz/readme' },
-				{ label: 'September 2023', link: '/01/01/2023-september/readme' },
-				{ label: 'März 2023', link: '/01/01/2023-maerz/readme' },
-				{ label: 'September 2022', link: '/01/01/2022-september/readme' },
-				{ label: 'März 2022', link: '/01/01/2022-maerz/readme' },
-				{ label: 'September 2021', link: '/01/01/2021-september/readme' },
-				{ label: 'März 2021', link: '/01/01/2021-maerz/readme' },
-				
+				        { label: 'März 2024', link: '/01/01/2024-maerz/readme' },
+				        { label: 'September 2023', link: '/01/01/2023-september/readme' },
+				        { label: 'März 2023', link: '/01/01/2023-maerz/readme' },
+				        { label: 'September 2022', link: '/01/01/2022-september/readme' },
+				        { label: 'März 2022', link: '/01/01/2022-maerz/readme' },
+				        { label: 'September 2021', link: '/01/01/2021-september/readme' },
+				        { label: 'März 2021', link: '/01/01/2021-maerz/readme' },
               ],
             },
             {
@@ -47,11 +46,11 @@ export default defineConfig({
                 {
                   label: '01 Planung ',
                   items: [
-                    { label: 'November 2024', link: '/abschlusspruefungen/02/01/thema1' },
-                    { label: 'April 2024', link: '/abschlusspruefungen/02/thema2' },
-                    { label: 'November 2023', link: '/abschlusspruefungen/02/thema3' },
-                    { label: 'April 2023', link: '/abschlusspruefungen/02/thema2' },
-                    { label: 'November 2022', link: '/abschlusspruefungen/02/thema3' },
+                    { label: 'November 2024', link: '/01/02/01/2024-01-november/readme' },
+                    { label: 'April 2024', link: '/01/02/01/2024-01-april/readme' },
+                    { label: 'November 2023', link: '/01/02/01/2023-01-november/readme' },
+                    { label: 'April 2023', link: '/01/02/01/2023-01-april/readme' },
+                    { label: 'November 2022', link: '/01/02/01/2022-01-november/readme' },
                   ],
                 },
                 {
