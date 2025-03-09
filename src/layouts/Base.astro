@@ -1,0 +1,24 @@
+---
+const { title = "Login" } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <!-- Hier können globale Styles und Scripts eingebunden werden -->
+  </head>
+  <body>
+    <header>
+      <h1>{title}</h1>
+      <!-- Optional: Navigation oder weitere Header-Inhalte -->
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <p>&copy; {new Date().getFullYear()} Heiko Fanieng</p>
+    </footer>
+  </body>
+</html>
