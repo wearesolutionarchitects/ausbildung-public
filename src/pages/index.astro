@@ -9,7 +9,12 @@ import Layout from '../layouts/Base.astro';
     const { signIn, signOut } = await import("auth-astro/client")
     const loginButton = document.querySelector("#login");
     if (loginButton) {
-      loginButton.addEventListener("click", () => signIn("github"));
+        loginButton.addEventListener("click", async () => {
+        const result = await signIn("github");
+        if (result && result.ok) {
+        window.location.href = "/docs";
+  }
+});
     }
     const logoutButton = document.querySelector("#logout");
     if (logoutButton) {
