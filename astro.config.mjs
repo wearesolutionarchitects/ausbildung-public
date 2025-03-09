@@ -8,13 +8,16 @@ import node from '@astrojs/node';
 
 export default defineConfig({
   integrations: [starlight({
-    head: [
-      { tag: 'meta', attrs: { name: 'description', content: 'Meine Seite' } },
+      head: [
+      { tag: 'meta', attrs: { name: 'description', content: 'Ausbildung Fachinformatiker:in Anwendungsentwicklung' } },
       { tag: 'meta', attrs: { name: 'viewport', content: 'width=device-width, initial-scale=1' } }
     ],
     title: 'Ausbildung',
     social: {
-      github: 'https://github.com/devsfiae',
+      github: 'https://github.com/wearesolutionarchitects',
+    },
+    logo: {
+      src: './src/assets/logo.png',
     },
     sidebar: [
       {
