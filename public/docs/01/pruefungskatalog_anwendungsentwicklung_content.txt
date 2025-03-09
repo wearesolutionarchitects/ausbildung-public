@@ -1,0 +1,118 @@
+Vorbemerkung
+In der vorliegenden 2. Auflage des Prüfungskatalogs für die gestreckte Abschlussprüfung in den im Jahr 2020
+neugeordneten IT-Berufen wurde besonderes Augenmerk darauf gelegt, das Feedback zu den ersten Prü-
+fungsterminen ebenso aufzugreifen wie die rasante Entwicklung von Technologien in der IT-Branche.
+Insbesondere soll eine verbesserte Trennschärfe zwischen Teil 1 und Teil 2 der Abschlussprüfung erreicht wer-
+den, z. B. durch Thematisierung von SQL und RAID ausschließlich in Teil 2 der Abschlussprüfung. Manche
+Themen wurden gestrafft, gestrichen, wie z. B. Struktogramm und PAP und dadurch Platz geschaffen für
+neuere Methoden wie UML oder BPMN oder neue Themen wie Kl. Erstmalig geht mit der 2. Auflage auch eine
+Erweiterung um einheitliche Belegsätze für alle IT-Berufe einher.
+Wir danken den Mitgliedern der paritätisch besetzten Fachausschüsse, die durch ihre Expertise und ihr ehren-
+amtliches Engagement das Erscheinen dieser Neuauflage ermöglicht haben.
+Der vorliegende Prüfungskatalog informiert über mögliche Inhalte der schriftlichen Abschlussprüfung im Aus-
+bildungsberuf
+Fachinformatiker Anwendungsentwicklung/Fachinformatikerin Anwendungsentwicklung
+in Teil 1 der gestreckten Abschlussprüfung (AP1) im Prüfungsbereich
+• Einrichten eines IT-gestützten Arbeitsplatzes
+in Teil 2 der gestreckten Abschlussprüfung (AP2) in den Prüfungsbereichen
+• Planen eines Softwareproduktes
+• Entwicklung und Umsetzung von Algorithmen
+• Wirtschafts- und Sozialkunde
+Der Prüfungskatalog basiert auf den Ordnungsmitteln
+• Ausbildungsordnung vom 5. März 2020
+• Rahmenlehrplan vom 13. Dezember 2019 (einschließlich der Elemente für den Unterricht der Berufsschule
+im Bereich Wirtschafts- und Sozialkunde gewerblich-technischer Ausbildungsberufe (Beschluss der Kultusmi-
+nisterkonferenz vom 7. Mai 2008)).
+Autoren des Prüfungskatalogs sind die Mitglieder des Fachausschusses zur Erstellung der schriftlichen Ab-
+schlussprüfung. Dem Fachausschuss gehören gemäß § 40 BBiG über die Zusammensetzung der Prüfungsaus-
+schüsse zu gleichen Teilen Beauftragte der Arbeitgeber und Arbeitnehmer sowie Lehrer der berufsbildenden
+Schulen an.
+Mit dem Prüfungskatalog gibt der Fachausschuss eine Orientierung hinsichtlich der Breite und Tiefe prüfungs-
+relevanter Themen und Inhalte, schränkt dabei aber die zugrundeliegenden Ordnungsmittel nicht ein.
+Die dem Prüfungskatalog zugrunde gelegte sachlogische Gliederung der prüfungsrelevanten Themen und
+Inhalte in AP1 und AP2 entspricht in den Kapiteln der Aufteilung des Ausbildungsrahmenplans wie folgt:
+AP1
+01 Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten (1. bis 18. Mo-
+nat)
+AP2
+01 Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten (19. bis 36. Mo-
+02 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwick-
+lung
+03 Wirtschafts- und Sozialkunde/Fachrichtungsübergreifende integrativ zu vermittelnde Fertigkeiten, Kennt-
+nisse und Fähigkeiten
+Der Wortlaut des jeweiligen Ordnungsmittels wurde an den entsprechenden Stellen übernommen.
+
+
+•
+In der Spalte Themenkreis erläutert der Fachausschuss stichwortartig den inhaltlichen Umfang der Fragenkom-
+plexe. Diese Erläuterungen sind als Orientierung sowohl für die Aufgabenerstellung als auch für eine umfas-
+sende Prüfungsvorbereitung gedacht. In den Kapiteln zu den prüfungsrelevanten Themen und Inhalten in AP1
+und AP2 werden in dieser Spalte auch die entsprechenden Lernfelder des Rahmenlehrplans angegeben. Die
+Beispiele für betriebliche Handlungen veranschaulichen die praxisorientierte Umsetzung der Fragenkomplexe.
+Die Auszubildenden müssen gemäß § 4 Abs. 2 der Ausbildungsordnung die genannten Fertigkeiten und
+Kenntnisse so erwerben, dass sie berufliche Tätigkeiten qualifiziert ausüben können. Die berufliche Hand-
+lungskompetenz umfasst selbstständiges Planen, Durchführen und Kontrollieren von Handlungen im betrieb-
+lichen Gesamtzusammenhang. Die geforderten Fertigkeiten und Kenntnisse werden daher mit komplexen,
+praxisbezogenen Aufgaben geprüft. Die Fremdsprache Englisch fließt dabei bereichsübergreifend in die Auf-
+gabenstellungen ein.
+Dieser Prüfungskatalog liegt erstmals der AP1 im Frühjahr 2025 und der AP2 im Sommer 2025 zu Grunde.
+Inhaltliche Änderungen und Fortschreibungen des Prüfungskatalogs bleiben vorbehalten.
+Köln, im Oktober 2024
+Zentralstelle für Prüfungsaufgaben, ZPA Nord-West
+
+
+Raster
+Die Bearbeitungszeiten für die gestreckte schriftliche Abschlussprüfung betragen in AP1 90 Minuten und in
+AP2 insgesamt 240 Minuten und sind wie folgt auf die einzelnen Prüfungsbereiche verteilt:
+AP1:
+Einrichten eines IT-gestützten Arbeitsplatzes (90 Minuten, ungebundene Aufgaben)
+Gebiet/Tätigkeit
+AP1 (90 Minuten, 20 % Gewichtung an der Gesamtprüfung)
+01 Kundenbedarfe zielgruppengerecht ermitteln (§ 9 Absatz 2 Nummer 1)
+02 Hard- und Software auswählen und ihre Beschaffung einleiten (§ 9 Absatz 2 Nummer 2)
+03 Einen IT-Arbeitsplatz konfigurieren und testen und dabei die Bestimmungen und die betrieblichen Vorga-
+ben zum Datenschutz, zur IT-Sicherheit und zur Qualitätssicherung einhalten (§ 9 Absatz 2 Nummer 3)
+04 Kunden und Kundinnen in die Nutzung des Arbeitsplatzes einweisen (§ 9 Absatz 2 Nummer 4)
+05 Die Leistungserbringung kontrollieren und protokollieren (§ 9 Absatz 2 Nummer 5)
+
+
+AP2:
+• Planen eines Softwareproduktes (90 Minuten, ungebundene Aufgaben)
+• Entwicklung und Umsetzung von Algorithmen (90 Minuten, ungebundene Aufgaben)
+• Wirtschafts- und Sozialkunde (60 Minuten, ca. 30 ungebundene maschinell auswertbare Aufgaben)
+Gebiet/Tätigkeit
+AP2
+01 Planen eines Softwareproduktes (90 Minuten, 10 % Gewichtung an der Gesamtprüfung)
+01 Entwicklungsumgebungen und -bibliotheken auswählen und einsetzen (§ 13 Absatz 1 Nummer 1)
+02 Programmspezifikationen anwendungsgerecht festlegen ($ 13 Absatz 1 Nummer 2)
+03 Bedienoberflächen funktionsgerecht und ergonomisch konzipieren (§ 13 Absatz 1 Nummer 3)
+04 Maßnahmen zur Qualitätskontrolle planen und durchführen (§ 13 Absatz 1 Nummer 4)
+02 Entwicklung und Umsetzung von Algorithmen (90 Minuten, 10 % Gewichtung an der Gesamtprü-
+fung)
+01 Einen Programmcode interpretieren und eine Lösung in einer Programmiersprache erstellen
+(§ 14 Absatz 1 Nummer 1)
+02 Algorithmen in eine Programmierlogik übertragen und grafisch darstellen (§ 14 Absatz 1 Nummer 2)
+03 Testszenarien auswählen und Testdaten generieren (§ 14 Absatz 1 Nummer 3)
+04 Abfragen zur Gewinnung und Manipulation von Daten erstellen (§ 14 Absatz 1 Nummer 4)
+03 Wirtschafts- und Sozialkunde (60 Minuten, 10 % Gewichtung an der Gesamtprüfung)
+01 Berufsbildung sowie Arbeits- und Tarifrecht (§ 4 Absatz 7 Nummer 1)
+02 Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Absatz 7 Nummer 2)
+03 Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Absatz 7 Nummer 3)
+04 Umweltschutz (§ 4 Absatz 7 Nummer 4)
+05 Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien (§ 4 Absatz 7 Nummer 5)
+Übersicht Lernfelder (LF)
+1: Das Unternehmen und die eigene Rolle im Betrieb beschreiben
+2: Arbeitsplätze nach Kundenwunsch ausstatten
+3: Clients in Netzwerke einbinden
+4: Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen
+5: Software zur Verwaltung von Daten anpassen
+6: Serviceantragen bearbeiten
+LF
+7: Cyber-physische Systeme ergänzen
+LF
+8: Daten systemübergreifend bereitstellen
+LF
+9: Netzwerke und Dienste bereitstellen
+LF 10a: Benutzerschnittstellen gestalten und entwickeln
+LF 11a: Funktionalität in Anwendungen realisieren
+LF 12a: Kundenspezifische Anwendungsentwicklung durchführen
