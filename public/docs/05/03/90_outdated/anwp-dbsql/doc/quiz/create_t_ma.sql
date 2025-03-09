@@ -1,0 +1,10 @@
+USE master;
+GO
+CREATE DATABASE quiz;
+
+USE quiz;
+CREATE TABLE t_ma
+(id INTEGER PRIMARY KEY,
+name VARCHAR(100),
+ort VARCHAR(100));
+GO

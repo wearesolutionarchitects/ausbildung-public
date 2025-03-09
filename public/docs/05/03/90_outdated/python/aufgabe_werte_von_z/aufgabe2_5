@@ -1,0 +1,5 @@
+# Aufgabe 2.5
+z = 0
+while z != 1 or z != 2:
+    z = int(input("Bitte geben Sie eine Zahl ein: "))
+print("Programm beendet.")

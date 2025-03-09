@@ -1,0 +1,1 @@
+Ein QTextEdit-Widget ist ein mehrzeiliges Eingabefeld und dient zur Eingabe und Darstellung größerer Textmengen.

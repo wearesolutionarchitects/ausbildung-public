@@ -1,0 +1,4 @@
+Ein Text-Widget ist ein mehrzeiliges Eingabefeld und dient zur Eingabe und Darstellung größerer Textmengen. Gegenüber dem Entry-Widget bietet es mehr Möglichkeiten zur Verarbeitung von Daten. Das Modul tkinter.scrolledtext bietet mit dem ScrolledText-Widget eine Weiterentwicklung eines einfachen Text-Widgets. Es ermöglicht mit einem Scrollbalken das vertikale Scrollen des mehrzeiligen Eingabefelds.
+
+
+

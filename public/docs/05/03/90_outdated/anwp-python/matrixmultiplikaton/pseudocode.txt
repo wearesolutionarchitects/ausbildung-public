@@ -1,0 +1,16 @@
+algorithm NaiveMatrixMultiplication(S, P, A, B, G, H):
+    // INPUT
+    // S = Matrix der Größe AxB
+    // P = Matrix der Größe GxH
+    // OUTPUT
+    // Q = Das Matrixprodukt von S und P
+
+    if B = G:
+        for i from 1 to A:
+            for j from 1 to H:
+                Q[i][j] = 0
+                for k from 1 to B:
+                    Q[i][j] += S[i][k] * P[k][j]
+        return Q
+    else:
+        throw "Die Matrizen sind nicht kompatibel für die Multiplikation."
