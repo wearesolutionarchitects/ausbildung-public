@@ -1,0 +1,380 @@
+2
+Ausgangssituation
+Die EcoTec GmbH ist ein IT-Service-Unternehmen und hat 25 Mitarbeiter. Die folgenden Aufgaben beziehen sich auf dieses Unternehmen.
+1. Aufgabe
+30 Urlaubstage.
+Moritz Monion hat am 02.03. Geburtstag, ist 17 Jahre alt und beginnt am 01.08.2024 seine Ausbildung bei der EcoTec GmbH. 2025 erhält er
+Ermitteln Sie, wie viele Werktage Herr Monion mehr erhält, als im Jugendarbeitsschutzgesetz als Mindesturlaub vorgeschrieben ist.
+Tragen Sie die Anzahl der Werktage in das Kästchen ein.
+Gesetz zum Schutze der arbeitenden Jugend (Jugendarbeitsschutzgesetz - JArbSchG) - § 19 Urlaub
+(1) Der Arbeitgeber hat Jugendlichen für jedes Kalenderjahr einen bezahlten Erholungsurlaub zu gewähren.
+(2) Der Urlaub beträgt jährlich
+mindestens 30 Werktage, wenn der Jugendliche zu Beginn des Kalenderjahrs noch nicht 16 Jahre alt ist,
+mindestens 27 Werktage, wenn der Jugendliche zu Beginn des Kalenderjahrs noch nicht 17 Jahre alt ist,
+mindestens 25 Werktage, wenn der Jugendliche zu Beginn des Kalenderjahrs noch nicht 18 Jahre alt ist.
+(...)
+2. Aufgabe
+Die EcoTec GmbH schließt Ausbildungsverträge mit diversen Auszubildenden ab.
+Welcher der folgenden Punkte ist nicht zwingend vertraglich in Ausbildungsverträgen festzuhalten?
+Tragen Sie die Ziffer vor dem zutreffenden Punkt in das Kästchen ein.
+I Art, sachliche und zeitliche Gliederung sowie Ziel der Berufsausbildung
+2 Beginn und Dauer der Berufsausbildung
+3 Dauer der regelmäßigen täglichen Ausbildungszeit
+4 Regelungen zur Gleitzeit
+5 Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte
+3. Aufgabe
+Herr Monion hat Fragen bezüglich der Probezeit.
+Wie lang muss die Probezeit laut Berufsbildungsgesetz in der Ausbildung mindestens sein?
+Tragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.
+1 1 Monat
+2 2 Monate
+3 3 Monate
+4 4 Monate
+5 Eine Probezeit ist nicht zwingend notwendig.
+4. Aufgabe
+Justin Höhler, Mitauszubildender von Herrn Monion, kündigt seinen Ausbildungsvertrag während der Probezeit.
+Welche der folgenden Feststellung hierzu entspricht dem Berufsbildungsgesetz?
+Tragen Sie die Ziffer vor der zutreffenden Feststellung in das Kästchen ein.
+[1] Die Kündigung eines Ausbildungsverhältnisses kann mündlich erfolgen.
+2] Beide Seiten können das Berufsausbildungsverhältnis nur in der ersten Hälfte der Probezeit und zwingend mit Einhaltung einer Kündigungsfrist
+kündigen.
+[3 Beide Seiten können das Berufsausbildungsverhältnis in der Probezeit ohne Angabe von Gründen und ohne Einhaltung einer Kündigungsfrist
+4 In Betrieben, in denen ein Betriebsrat besteht, muss dieser jeder Kündigung während der Probezeit durch den Arbeitgeber zustimmen.
+[5] Während einer Berufsausbildung kann vom Arbeitgeber nicht, auch nicht in der Probezeit, gekündigt werden.
+
+
+5. Aufgabe
+In der EcoTec GmbH soll ein neuer Betriebsrat gewählt werden.
+Welche der folgenden Personengruppen ist nach dem Betriebsverfassungsgesetz (BetrVG) in den Betriebsrat wählbar (passives Wahlrecht)?
+Tragen Sie die Ziffer vor der zutreffenden Personengruppe in das Kästchen ein.
+II Alle Wahlberechtigten, die über 16 Jahre alt sind
+2 Alle Betriebsangehörigen
+3 Alle Wahlberechtigten, die das 18. Lebensjahr vollendet haben und mindestens sechs Monate im Betrieb beschäftigt sind.
+4 Alle Wahlberechtigten, die mindestens das 21. Lebensjahr vollendet haben und seit einem Monat im Betrieb beschäftigt sind.
+5 Alle Wahlberechtigten, die der EcoTec GmbH seit mindestens sechs Wochen angehören.
+6. Aufgabe
+Maike Schröder, eine Kollegin von Herrn Monion, beschäftigt sich mit dem Aufgabenbereich des Betriebsrats. Sie liest unter anderem den folger
+Satz: „Der Betriebsrat sorgt in den Unternehmen für die Umsetzung und Einhaltung von Tarifverträgen." Sie hat bisher nur Gewerkschaften mit
+Tarifverträgen in Verbindung gebracht.
+Welche der folgenden Darstellungen von Gewerkschaften ist zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Darstellung in das Kästchen ein.
+Gewerkschaften ...
+EI sind in den Betrieben für die Schlichtung von Auseinandersetzungen zwischen Arbeitnehmern und Arbeitgebern zuständig.
+2 handeln mit den Arbeitgeberverbänden auch Betriebsvereinbarungen aus.
+3 können bei Streitigkeiten zwischen Arbeitgebern und Arbeitnehmern den organisierten Arbeitnehmern Rechtsbeistand leisten.
+4 haben die Aufgabe, die Betriebsratswahlen zu kontrollieren.
+[5l haben bei Tarifverhandlungen für die Belange aller Arbeitnehmer einzutreten.
+7. Aufgabe
+Herr Monion beschäftigt sich mit dem Zustandekommen von Tarifverträgen. Ihm liegt der folgende zeitliche Ablaufplan vor. Herr Monion ist sich
+sicher, dass dort die Reihenfolge der Schritte durcheinandergeraten ist.
+Welche der folgenden Schritte wurden aus Versehen vertauscht?
+Tragen Sie die Ziffern vor den zwei zutreffenden Schritten in die Kästchen ein.
+I Fristgerechte Kündigung des bestehenden Tarifvertrags
+2 Aufnahme der Tarifverhandlungen durch die Tarifparteien
+[3 Urabstimmung über einen Arbeitskampf mit nachfolgendem Streik
+4 Erklärung des Scheiterns der Tarifverhandlungen durch eine der Tarifparteien
+5 Neue Verhandlungen bei Aussetzung des Streiks
+6 Urabstimmung über die Verhandlungsergebnisse
+Zustimmung der Tarifparteien zum Ergebnis
+8. Aufgabe
+In der EcoTec GmbH wird aktuell überlegt, die tariflich festgelegten Arbeitsbedingungen in einzelnen Punkten zu ändern.
+Wann sind solche Änderungen zulässig?
+Tragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.
+Die Änderung ist zulässig, wenn ...
+[1 sie zugunsten der Arbeitnehmer erfolgt.
+2 die Berufsgenossenschaft der Änderung zustimmt.
+[3 die Landesregierung der Änderung zustimmt.
+4 sie zugunsten der EcoTec GmbH erfolgt.
+5l sie von der Bundesagentur für Arbeit genehmigt wird
+
+
+9. Aufgabe
+Die EcoTec GmbH veröffentlicht in ihrem Intranet die aktuell gültigen Betriebsvereinbarungen.
+Von wem werden diese Betriebsvereinbarungen abgeschlossen?
+Tragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.
+Die Betriebsvereinbarungen werden abgeschlossen von ...
+1 den Tarifparteien, also dem Arbeitgeberverband und der örtlich zuständigen Industrie- und Handelskammer.
+2 der Industrie- und Handelskammer und dem Betriebsrat der EcoTec GmbH.
+3 dem Betriebsrat der EcoTec GmbH und der zuständigen Arbeitsagentur.
+4 dem Betriebsrat der EcoTec GmbH und der zuständigen Industrie- und Handelskammer.
+15 der Geschäftsleitung der EcoTec GmbH und dem Betriebsrat.
+10. Aufgabe
+Die 17-jährige Daniela Schubert ist Auszubildende im ersten Ausbildungsjahr bei der EcoTec GmbH. Sie bittet Herrn Monion um Informationen, in
+welchen Rechtsgrundlagen sie sich bezüglich der nachstehenden Angelegenheiten informieren kann.
+In welchen Gesetzen findet Herr Monion die Rechtsgrundlagen, die zu den jeweiligen Angelegenheiten passen?
+Ordnen Sie dazu den folgenden Rechtsgrundlagen die nachstehenden Angelegenheiten zu.
+Tragen Sie die Ziffer vor der jeweils zutreffenden Rechtsgrundlage in das Kästchen ein.
+Rechtsgrundlagen
+［ Jugendarbeitsschutzgesetz
+2 Berufsbildungsgesetz
+3 Kündigungsschutzgesetz
+4 Betriebsverfassungsgesetz
+5 Bürgerliches Gesetzbuch
+Angelegenheiten
+a) Frau Schubert möchte wissen, ob das Berufsausbildungsverhältnis gekündigt werden kann.
+b) Frau Schubert möchte wissen, wie viel Pausenzeiten ihr zustehen.
+c) Frau Schubert möchte wissen, welche Aufgaben die Jugend- und Auszubildendenvertretung hat.
+11. Aufgabe
+Bei der EcoTec GmbH gibt es eine Jugend- und Auszubildendenvertretung (JAV), in der sich Herr Monion engagieren möchte.
+Welcher der folgenden Aussagen zur JAV ist zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+L1] Die regelmäßige Amtszeit in der JAV beträgt vier Jahre.
+2 Das passive Wahlrecht für die JAV endet mit Vollendung des 18. Lebensjahres.
+13 Das Mindestalter für das aktive Wahlrecht beträgt 16 Jahre.
+14 Das aktive Wahlrecht für die JAV endet immer mit Vollendung des 18. Lebensjahres.
+5 Eine JAV kann nur gewählt werden, wenn bereits ein Betriebsrat besteht.
+
+
+12. Aufgabe
+Herr Monion möchte sich als Kandidat zur JAV aufstellen lassen.
+Welche der folgenden Voraussetzungen muss er u. a. dafür erfüllen?
+Tragen Sie die Ziffer vor der zutreffenden Voraussetzung in das Kästchen ein.
+Herr Monion ...
+I1l darf nicht Mitglied des Betriebsrats sein.
+2 muss die deutsche Staatsangehörigkeit besitzen.
+3 muss im zweiten Ausbildungsjahr sein.
+4 darf während der Amtszeit das 25. Lebensjahr nicht überschreiten.
+5 muss bereits seit mindestens drei Monaten im Betrieb beschäftigt sein.
+Grafik zur 13. und 14. Aufgabe
+Leitung
+Rechts-
+abteilung
+Sales
+(Vertrieb)
+Public
+Relations
+Personal
+Organisation/
+IT
+Verwaltung
+Nachhaltigkeits-
+management
+Versand
+Buchhaltung
+IT-Service
+13. Aufgabe
+Herr Monion zeigt Frau Schröder das abgebildete Organigramm der EcoTec GmbH.
+Welches der folgenden Leitungssysteme liegt diesem Organigramm zugrunde?
+Tragen Sie die Ziffer vor dem zutreffenden Leitungssystem in das Kästchen ein.
+[1 Liniensystem
+[2 Stabliniensystem
+3 Mehrliniensystem
+4 Matrixorganisation
+5] Spartenorganisation
+14. Aufgabe
+Darüber hinaus erläutert Herr Monion ihr die Organisationsstruktur aus Aufgabe 13.
+Welche der folgenden Aussagen dazu ist zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+[1 Die IT-Abteilung ist als Stabsstelle organisiert.
+2 Stabsstellen kommen auf keiner der Leitungsebenen der EcoTec GmbH vor.
+3 Das Nachhaltigkeitsmanagement der EcoTec GmbH untersteht der Sales-Abteilung.
+4 Die Leitung Personalmanagement ist nicht an die Weisungen der Geschäftsführung gebunden.
+[ Die Rechtsabteilung berät die Geschäftsleitung, ist jedoch gegenüber den Angestellten der EcoTec GmbH nicht weisungsbefugt.
+
+
+15. Aufgabe
+Indikatoren
+Bruttoinlandsprodukt in Billionen EUR
+Arbeitslosenquote
+Wirtschaftswachstum
+Herrn Monion liegen folgende Zahlen bezüglich der aktuellen Entwicklung der wirtschaftlichen Situation in Europa vor.
+1. Quartal
+2. Quartal
+3. Quartal 4. Quartal
+3,87
+3,7
+3,5
+3,3
+8,5 %
+9 %
+10 %
+11,5 %
+1 %
+-1,1 %
+-1,5 %
+-2 %
+Mit welchem der folgenden Begriffe können Sie die gesamtwirtschaftliche Situation bezogen auf das ganze Jahr beschreiben?
+Tragen Sie die Ziffer vor dem zutreffenden Begriff in das Kästchen ein.
+[1 Aufschwung
+2 Stillstand (Stagnation)
+3 Höchststand (Boom)
+4 Inflation
+5 Abschwung (Rezession)
+Situation zur 16. und 17. Aufgabe
+Die EcoTec GmbH ist in den folgenden beiden Märkten tätig: spezielle IT-Dienstleistungen für Medikamentenabrechnungen. Hier gibt es vier Mit-
+bewerber. Außerdem bietet die EcoTec GmbH für eine Vielzahl von Privathaushalten und Unternehmen allgemeine IT-Dienstleistungen für Steuer-
+abrechnungen an. In diesem zweiten Bereich gibt es eine Vielzahl von Konkurrenten.
+16. Aufgabe
+Welche der folgenden Aussagen beschreibt und begründet die vorliegenden Marktformen korrekt?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+1 Bei den Medikamentenabrechnungen ist die Marktform des Polypols gegeben, da viele Unternehmen und Haushalte als Nachfrager auftreten.
+2 Der Markt für allgemeine IT-Dienstleistungen für Steuerabrechnungen weist auf ein Polypol hin, da neben der EcoTec GmbH eine hohe Zahl an
+Anbietern auf eine Vielzahl von Nachfragern trifft.
+3 Das Nachfrageoligopol kennzeichnet den Markt für Steuerabrechnungen, da mit Unternehmen und Haushalten nur zwei große Gruppen von
+Nachfragern auftreten.
+4 Da neben der EcoTec GmbH nur wenige Anbieter auf dem Markt für Medikamentenabrechnungen zu finden sind, liegt die Marktform des Ange-
+botsmonopols vor.
+51 Es liegt ein Quasi-Monopol als Marktform vor, da es insgesamt lediglich vier Anbieter für Steuerabrechnungen gibt, die somit automatisch eine
+marktbeherrschende Stellung innehaben.
+17. Aufgabe
+Welchen der folgenden Unterschiede weist der Markt für Steuerabrechnungen zu dem Modell des vollkommenen Marktes bzw. der vollständigen
+Konkurrenz auf?
+Tragen Sie die Ziffer vor dem zutreffenden Unterschied in das Kästchen ein.
+E] In dem Markt der vollständigen Konkurrenz kann der Staat zum Schutz der Verbraucher Mindestpreise und Höchstpreise festlegen. Dies ist für
+den Markt für Steuerabrechnungen nicht möglich.
+2 Der Markt für Steuerabrechnungen stellt einen Verkäufermarkt dar. Im Modell der vollständigen Konkurrenz liegt dagegen nur der Käufermarkt vor.
+3 Im Modell des vollkommenen Marktes wird von jedem Anbieter eine eigenständige und unabhängige Preispolitik betrieben.
+4 Da es sich im vorliegenden Fall nur um wenige Anbieter von Steuerabrechnungen handelt, liegt auf der Nachfrageseite vollständige Markttrans-
+parenz vor. Diese ist im Modell der vollständigen Konkurrenz nicht gegeben.
+5 Das Modell des vollkommenen Marktes unterstellt die Homogenität der Güter; dies ist im Fall des Marktes für Steuerabrechnungen jedoch nicht
+gegeben, da die Anbieter ihre Software mit verschiedenen Merkmalen und Eigenschaften auf den Markt bringen.
+
+
+18. Aufgabe
+Die EcoTec GmbH stellt sich in ihrem Leitbild unter anderem auch als „lernende Organisation" dar. Ein Aspekt hiervon ist die regelmäßige Anpas-
+sung und Aktualisierung der Unternehmensziele. Bei der Formulierung der Unternehmensziele kann es zu Konflikten zwischen einzelnen Zielen
+kommen.
+Welche der folgenden Zielarten lassen sich den nachstehenden Zielsetzungspaaren zuordnen?
+Tragen Sie die Ziffer vor der jeweils zutreffenden Zielart in das Kästchen ein.
+Zielarten
+1 Komplementäre Ziele
+2 Konkurrierende Ziele
+3 Indifferente Ziele
+Zielsetzungspaare
+a) Mitarbeiterzufriedenheit erhöhen - erhöhte Ausgaben für Verpackungen vermeiden
+b) Einkauf ausschließlich der preisgünstigsten Produkte + Erlangung eines Gütesiegels in der Produktion
+c) Gutes Arbeitsklima → Recycling der Verpackungen
+d) Kundenzufriedenheit durch kompetente Mitarbeitende - Mitarbeiterqualifikationen durch Fortbildungen erhöhen
+e) Bezugskosten minimieren → Gewinnmaximierung
+19. Aufgabe
+Die EcoTec GmbH verfolgt auch soziale Ziele.
+Welche der folgenden Maßnahmen orientiert sich nicht an sozialen Zielen?
+Tragen Sie die Ziffer vor der zutreffenden Maßnahme in das Kästchen ein.
+1 Verwenden von fair gehandelten Produkten
+2 Verfolgung strenger Diversity- und Compliance-Regelungen
+3 Beteiligung der Arbeitenden am Unternehmenserfolg
+4 Einrichten eines betrieblichen Kindergartens
+5 Sammeln der Verpackungsabfälle aus dem Wareneingang
+20. Aufgabe
+Einem Mitarbeiter der EcoTec GmbH wurde nach dreijähriger Betriebszugehörigkeit betriebsbedingt gekündigt.
+Welchen der folgenden Gründe kann eine betriebsbedingte Kündigung haben?
+Tragen Sie die Ziffer vor dem zutreffenden Grund in das Kästchen ein.
+• Zeitablauf des befristeten Arbeitsvertrages
+2 Trunkenheit am Arbeitsplatz
+3 Wegfall des Arbeitsplatzes durch Standortschließung
+4 Mangelndes Fachwissen
+5 Grobe Beleidigung eines Vorgesetzten
+
+
+Situation zur 21. und 22 Aufgabe
+Drei ehemalige Mitarbeitende der EcoTec GmbH wollen sich selbstständig machen und ein Unternehmen als GmbH gründen. Die Einlagen vertei-
+len sich wie folgt.
+- John Walsch mit einer Einlage in Höhe von 50.000 EUR
+- Susanne Venga mit einer Einlage in Höhe von 20.000 EUR
+- Denis Ozgül mit einer Einlage in Höhe von 15.000 EUR
+Als Geschäftsführerin für die neue GmbH wird Claudia Müller eingestellt. Im Gesellschaftsvertrag wird auf die gesetzlichen Bestimmungen bezüg-
+lich Haftung und Vertretung verwiesen.
+21. Aufgabe
+Die drei Gesellschafter wollen die GmbH rechtswirksam gründen.
+Welcher der folgenden Sachverhalte entspricht den gesetzlichen Regelungen zur GmbH?
+Tragen Sie die Ziffer vor dem zutreffenden Sachverhalt in das Kästchen ein.
+[ Eine Eintragung der GmbH ins Handelsregister muss nicht zwangsläufig beantragt werden.
+2 Der Name des neuen Unternehmens in dem Antrag könnte auch auf „EcoTec GmbH" lauten.
+13] Die Geschäftsführung des neuen Unternehmens muss durch eine außenstehende Person erfolgen, da zur Vermeidung von Interessenkonflikten
+Gesellschafter einer GmbH nicht auch deren Geschäfte führen dürfen.
+4 Die Einlagen der drei Gesellschafter übersteigen das gesetzlich geforderte Mindestkapital der neuen GmbH.
+5 Der Gesellschaftsvertrag zwischen den drei Gesellschaftern kann auch mündlich abgeschlossen werden, um rechtswirksam sein zu können.
+22. Aufgabe
+Die neu gegründete GmbH erwirbt einen neuen Server.
+Wie ist die Haftung der GmbH gegenüber dem Verkäufer geregelt?
+Tragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.
+E1 Dem Verkäufer gegenüber haftet nur der Gesellschafter mit der höchsten Einlage.
+2 Die GmbH haftet mit ihrem Stammkapital und die drei Gesellschafter zusätzlich auch mit ihrem Privatvermögen.
+31 Die GmbH haftet gegenüber dem Verkäufer mit dem gesamten Betriebsvermögen.
+4 Die GmbH haftet dem Verkäufer der Ware gegenüber nur bis zur Höhe des gesetzlich festgelegten und einzuzahlenden Mindestkapitals.
+5/ Die GmbH haftet gegenüber dem Verkäufer nur mit den liquiden Mitteln der Gesellschaft.
+Situation zur 23. bis 25. Aufgabe
+Die EcoTec GmbH formuliert interne Ziele bezüglich der Nachhaltigkeit und des Umweltschutzes im Unternehmen.
+23. Aufgabe
+Welche der folgenden Aussagen stellt ein ökologisches Ziel dar?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+1 Alle Produkte sollen von ökologisch zertifizierten Lieferanten bezogen werden, ohne Abstriche bei der Qualität und Funktionalität hinzunehmen.
+2 Hohe Investitionen in neue Produktionslagen.
+3 Die Verbesserung der Kundenzufriedenheit und damit der Kundenbindung
+4 Umstellung des Fuhrparks für die Geschäftsführung auf größere und leistungsstärkere Fahrzeuge mit Verbrennungsmotor.
+5 Umsatzsteigerung durch stetige Erweiterung des Sortiments.
+24. Aufgabe
+Im Lager der EcoTec GmbH werden zu hohe umweltbelastende Emissionen festgestellt.
+Welche der folgenden Aussagen ist in diesem Zusammenhang richtig?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+[1 Emissionen entstehen in der EcoTec GmbH ausschließlich durch den Transport von Waren zwischen verschiedenen Lagerorten.
+2 Zu den umweltbelastenden Emissionen gehören neben umweltschädlichen Abgasen auch mögliche Schallemissionen.
+3 Emissionen können durch den Bau höherer Schornsteine für Abgase der EcoTec GmbH reduziert oder vermieden werden.
+4 Für die Luftreinhaltung ist gemäß Bundesimmissionsschutzgesetz die Sicherheitsbeauftragte der EcoTec GmbH zuständig.
+5 Die Verringerung der Emissionen in der EcoTec GmbH unterliegt keinerlei gesetzlichen Regelungen.
+
+
+25. Aufgabe
+Die EcoTec GmbH strebt die Verleihung des Umweltzeichens „Blauer Engel" an.
+Welche der folgenden Aussagen zu der mit dem Umweltzeichen „Blauer Engel" ausgezeichneten Ware ist zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+Diese Ware ...
+1 ist besonders haltbar.
+2 ist besonders sicher in der Handhabung.
+3 ist aus schadstoffarmen Rohstoffen und umweltschonend produziert worden.
+4 hat bereits mehrere Umweltpreise gewonnen.
+5] ist nach ihrer Benutzung ausschließlich über das Duale System zu entsorgen.
+26. Aufgabe
+Herr Monion soll nach Beendigung seiner Ausbildung die Aufgaben des Arbeitsschutzbeauftragten bei der EcoTec GmbH übernehmen.
+Welche der folgenden Aufgaben hat Herr Monion als Arbeitsschutzbeauftragter?
+Tragen Sie die Ziffer vor der zutreffenden Aufgabe in das Kästchen ein.
+Der Arbeitsschutzbeauftragte ...
+E1 ist für die Sicherheit im Betrieb allein verantwortlich.
+2 unterstützt den Arbeitgeber bei der Durchführung des Unfallschutzes.
+3 ist ein selbstständiges Organ im Sinne des Betriebsverfassungsrechts.
+4 ist verantwortlich für die Installation von Schließsystemen.
+51 ist automatisch Mitglied im Arbeitssicherheitsausschuss des Betriebsrates.
+27. Aufgabe
+In einem Seminar bei der EcoTec GmbH werden Sofortmaßnahmen im Brandfall thematisiert.
+Welche der folgenden Maßnahmen müssen im Falle eines Brandes bei der EcoTec GmbH sofort ergriffen werden?
+Tragen Sie die Ziffern vor den zwei zutreffenden Maßnahmen in die Kästchen ein.
+1 Alle Fenster öffnen, damit der Rauch abziehen kann
+2 Den Notruf absetzen
+3 Den Sicherheitsbeauftragten informieren, da er für die technischen Anlagen zuständig ist
+4 Den Vorgesetzten informieren, da dieser die Verantwortung für die Abteilung hat
+5 Alle gefährdeten Personen evakuieren
+6 Alle erreichbaren Wasserstellen öffnen
+
+
+28. Aufgabe
+Die EcoTec GmbH sucht nach geeigneten Maßnahmen, um die Gesundheit am Arbeitsplatz zu verbessern. Nach einer betrieblichen Umfrage steht
+der Wunsch nach Stressreduzierung an erster Stelle.
+Welche der folgenden Maßnahmen sind dafür nicht geeignet?
+Tragen Sie die Ziffern vor den zwei nicht geeigneten Maßnahmen in die Kästchen ein.
+Kundenbeschwerden werden nicht mehr in persönlicher Gegenwart des Kunden, sondern ausschließlich am Telefon bearbeitet und am schwarzen
+Brett veröffentlicht.
+2 Es werden Workshops zur Work-Life-Balance angeboten.
+3 Es wird eine angenehme Arbeitsatmosphäre geschaffen.
+14 Das Betriebssportangebot wird stark erweitert.
+5/ Misserfolge der Mitarbeitenden werden für alle und nicht nur für die Vorgesetzten bekanntgegeben.
+[E Die Möglichkeit zum Homeoffice wird offener und flexibler gestaltet.
+29. Aufgabe
+Mitarbeitenden.
+Die EcoTec GmbH legt sowohl während des Einstellungsverfahrens als auch während der Beschäftigung großen Wert auf die Gleichbehandlung aller
+Welche der folgenden Aussagen trifft auf das Allgemeine Gleichbehandlungsgesetz (AGG) zu?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+I Das AGG gilt nicht für Auszubildende.
+2 Bei Verstoß gegen das AGG haben die Betroffenen keinen Anspruch auf Schadenersatz.
+[3] Das AGG regelt unter anderem, dass Benachteiligungen aus Gründen des Geschlechts, der Religion oder Weltanschauung nicht zulässig sind
+4 Stellenausschreibungen müssen nicht zwingend geschlechtsneutral ausgeschrieben werden.
+5 Die Benachteiligungsverbote des AGG erstrecken sich nicht auf Ungleichbehandlungen bei dem beruflichen Aufstieg sowie bei den Arbeits-
+bedingungen.
+30. Aufgabe
+Die EcoTec GmbH plant, zwei Fachinformatiker Anwendungsentwicklung (m/w/d) einzustellen.
+Welche der folgenden Formulierungen in einer Stellenanzeige verstößt gegen das Allgemeine Gleichbehandlungsgesetz (AGG)?
+Tragen Sie die Ziffer vor der zutreffenden Formulierung in das Kästchen ein.
+[I Sie verfügen über hervorragende Kenntnisse in Webprogrammierung.
+2 Sie passen in unser junges dynamisches Team, wenn Sie jünger als 30 Jahre sind.
+3 Sie sind mobil und bereit, auch mehrtägige Geschäftsreisen zu unternehmen.
+4] Sie sind an flexible Arbeitszeiten gewöhnt und können gelegentlich abends länger arbeiten.
+5] Sie beherrschen die englische Sprache verhandlungssicher in Wort und Schrift.
