@@ -15,7 +15,9 @@ export default defineConfig({
     title: 'Ausbildung',
     social: {
       github: 'https://github.com/wearesolutionarchitects',
+      discord:'https://discord.gg/GEdQ3xg6t6',
     },
+    
     logo: {
       src: './src/assets/logo.png',
     },
