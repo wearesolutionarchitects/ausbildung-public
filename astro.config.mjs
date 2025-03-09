@@ -78,12 +78,12 @@ export default defineConfig({
           ],
         },
         {
-          label: 'Praktikum',
-          items: [{ label: 'Übersicht', link: '/praktikum/uebersicht' }],
+          label: 'Projekt',
+          items: [{ label: 'Projektbeschreibung', link: '/03/readme' }],
         },
         {
-          label: 'Projekt',
-          items: [{ label: 'Projektbeschreibung', link: '/projekt/projektbeschreibung' }],
+          label: 'Praktikum',
+          items: [{ label: 'Übersicht', link: '/04/readme' }],
         },
         {
           label: 'Bürokratie',
