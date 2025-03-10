@@ -13,7 +13,7 @@
 - [5. Fazit (ca. 2 Minuten)](#5-fazit-ca-2-minuten)
 - [6. Fragen & Diskussion (ca. 10 Minuten)](#6-fragen--diskussion-ca-10-minuten)
 - [7. Live-Demo (ca. 10 Minuten)](#7-live-demo-ca-10-minuten)
-- [8. Fragen & Diskussion zur Live-Demo (ca. 10 Minuten)](#8-fragen--diskussion-ca-10-minuten)
+- [8. Fragen & Diskussion zur Live-Demo (ca. 10 Minuten)](#8-fragen--diskussion-zur-live-demo-ca-10-minuten)
 
 ---
 
