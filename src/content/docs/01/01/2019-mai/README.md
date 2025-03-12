@@ -48,33 +48,41 @@ Sie sollen im Rahmen dieses Auftrags vier der folgenden fünf Handlungsschritte 
 
 ---
 
-## 1. Handlungsschritt (25 Punkte)
+## 1. Handlungsschritt
+
+> 25 Punkte
 
 Die Klübero GmbH wurde von der Fidule GmbH mit mehreren Installationsarbeiten beauftragt.
 
-### a)
+### 1a
 
-Sie sollen für die Netzwerkverkabelung des neuen Bürogebäudes das Material beschaffen.  
-Die Planung ergab, dass im Bürogebäude 2.300 Meter Netzwerkkabel verlegt werden müssen.  
-Die Klübero GmbH rechnet mit 10 Prozent Verschnitt von der einzukaufenden Kabelmenge, welcher noch zusätzlich berücksichtigt werden muss.
+Sie sollen für die Netzwerkverkabelung des neuen Bürogebäudes das Material beschaffen.
 
-#### aa)
+Die Planung ergab, dass im Bürogebäude **2.300** Meter Netzwerkkabel verlegt werden müssen. Die Klübero GmbH rechnet mit 10 Prozent Verschnitt von der einzukaufenden Kabelmenge, welcher noch zusätzlich berücksichtigt werden muss.
+
+#### 1aa
+
+> 2 Punkte
 
 Für die Kalkulation der im Betrieb verfügbaren Menge liegt folgende unvollständige Tabelle vor.  
-*Vervollständigen Sie die folgende Tabelle (2 Punkte):*
+Vervollständigen Sie die folgende Tabelle:
 
-- Lagerbestand: 2.400  
-- Eiserner Bestand: 500  
-- Werkstattbestand: 200  
-- Vormerkbestand für andere Projekte: 800  
-- Für das Projekt verfügbare Menge: ?
+| Kabel | | Menge |
+| :--- | :--- | :--- |
+| Lagerbestand | | 2.400 |
+| Eiserner Bestand | - | 500 |
+| Werkstattbestand | + | 200 |
+| Vormerkbestand für andere Projekte | - | 800 |
+| Für das Projekt verfügbare Menge | = | **1300** |
 
-#### ab)
+#### 1ab
 
 Ermitteln Sie die Länge Netzwerkkabel in vollen Metern, die mindestens bestellt werden muss.  
-Der Rechenweg ist anzugeben. (4 Punkte)
+Der Rechenweg ist anzugeben.
 
-#### ac)
+2300 - 1300 = 1000 + 200 = 1200 m
+
+#### 1ac)
 
 Sie sollen die Wareneingangskontrolle für die bestellten Materialien durchführen.  
 Nennen Sie eine Prüfung, die Sie vor Annahme der Waren durchführen müssen und beschreiben Sie zu dieser genannten Prüfung eine entsprechende Reaktion, wenn ein Mangel festgestellt wurde. (4 Punkte)
