@@ -209,6 +209,7 @@ Ergänzen Sie das Klassendiagramm entsprechend den Vorgaben:
 Beispiel für die Klasse Haltestelle:
 
 Haltestelle
+
 - bezeichnung : String
 - position : Koordinaten
 - aufenthaltsdauer : Integer
