@@ -46,6 +46,7 @@ export default defineConfig({
               { label: 'März 2022', link: '/01/01/2022-maerz/readme' },
               { label: 'September 2021', link: '/01/01/2021-september/readme' },
               { label: 'März 2021', link: '/01/01/2021-maerz/readme' },
+              { label: 'Mai 2019', link: '/01/01/2019-mai/readme' },
             ],
           },
           {
