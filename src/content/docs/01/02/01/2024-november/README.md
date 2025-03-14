@@ -21,7 +21,18 @@ tags:
 - "2024"
 - Pseudocode
 - Klassendiagramm
-
+- Zustandsdiagramm
+- Entwurfsmuster
+- Vorgehensmodelle
+- Netzwerkkonzepte
+- MAC-Adresse
+- IP-Adresse
+- Aggregation
+- Multiplizität
+- Komposition
+- Erzeugungsmuster
+- Strukturmuster
+- Verhaltensmuster
 
 ---
 
@@ -46,7 +57,7 @@ Der Benutzer dieser App muss sich für die Nutzung der App registrieren. Es soll
 
 Bei der Entwicklung der App „Fahrplanauskunft“ haben Sie die Möglichkeit, aus unterschiedlichen Vorgehensmodellen auszuwählen.
 
-### 1a
+### 1a Vorgehensmodelle
 
 > 4 Punkte
 
@@ -57,7 +68,7 @@ Beschreiben Sie zwei Kategorien von möglichen Vorgehensmodellen.
 
 ---
 
-### 1b
+### 1b Modellbeschreibung
 
 >4 Punkte
 
@@ -68,7 +79,7 @@ Beschreiben Sie jeweils ein Modell zu den in 1a genannten Kategorien.
 
 ---
 
-### 1c
+### 1c Begriffe zur Projektdurchführung
 
 >12 Punkte
 
@@ -84,7 +95,7 @@ Füllen Sie dazu die folgende Tabelle aus:
 
 ---
 
-### 1d
+### 1d Datenschutz
 
 >4 Punkte
 
@@ -100,7 +111,7 @@ Beschreiben Sie zwei Gründe, warum die Verwendung einer „Datenschutzerklärun
 
 >26 Punkte
 
-### 2a
+### 2a Netzwerkkonzepte
 
 Die KVAG betreibt je nach Anforderung verschiedene Datennetze.
 
@@ -120,11 +131,11 @@ Ordnen Sie folgende drei Netzwerkkonzepte ihrem jeweiligen Anwendungsgebiet zu u
 
 ---
 
-### 2b
+### 2b Ethernet
 
 Der am häufigsten verwendete Technologiestandard in einem Local Area Network (LAN) ist das paketvermittelnde Ethernet.
 
-#### 2ba
+#### 2ba Felder des Ethernet-Frames
 
 >6 Punkte
 
@@ -143,7 +154,7 @@ Ordnen Sie die Nummern der folgenden Bezeichner den Feldern des Ethernet-Frames 
 
 ---
 
-#### 2bb
+#### 2bb MAC-Adresse
 
 >3 Punkte
 
@@ -226,7 +237,7 @@ Im Klassendiagramm sind die Beziehungen als Aggregation modelliert.
 
 ---
 
-#### 3ba
+#### 3ba Aggregation
 
 >2 Punkte
 
@@ -236,7 +247,7 @@ Beschreiben Sie die Bedeutung der Aggregation zwischen den Klassen Personalverwa
 
 ---
 
-#### 3bb
+#### 3bb Multiplizität
 
 >3 Punkte
 
@@ -247,7 +258,7 @@ sowie die Bedeutung der Multiplizität `*` in der Beziehung zwischen den Klassen
 
 ---
 
-#### 3bc
+#### 3bc Aggregation oder Komposition
 
 >3 Punkte
 
@@ -263,7 +274,7 @@ Erläutern Sie, ob für die Modellierung der Beziehung zwischen den Klassen Pers
 
 Die aktuelle Auslastung der Bahnen soll auf verschiedenen Anzeigen ausgegeben werden.
 
-### 4a
+### 4a Zustandsdiagramm
 
 >15 Punkte
 
