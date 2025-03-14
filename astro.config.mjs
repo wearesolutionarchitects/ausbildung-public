@@ -25,9 +25,16 @@ export default defineConfig({
       {
         label: 'Prüfungskatalog',
         items: [
-          { label: 'Katalog', link: '/00/readme', },
-          { label: 'Themenübersicht', link: '/tags-table', attrs: { target: '_blank', rel: 'noopener noreferrer' } },
-        ],
+          {
+            label: 'Katalog', 
+            // Bug fix: removed the redundant "link" property because having both a link and sub-items can cause issues.
+            items: [
+              { label: 'Teil 1', link: '/00/01/readme' },
+              { label: 'Teil 2', link: '/00/02/readme' }
+            ]
+          },
+          { label: 'Themenübersicht', link: '/tags-table', attrs: { target: '_blank', rel: 'noopener noreferrer' } }
+        ]
       },
       {
         label: 'Abschlussprüfungen',
