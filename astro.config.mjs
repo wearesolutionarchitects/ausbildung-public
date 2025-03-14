@@ -16,8 +16,10 @@ export default defineConfig({
     social: {
       github: 'https://github.com/wearesolutionarchitects',
       discord:'https://discord.gg/GEdQ3xg6t6',
-    },
-    
+      linkedin: 'https://www.linkedin.com/in/hfanieng/',
+      twitch: 'https://www.twitch.tv/mysteryland1909',
+      youtube: 'http://www.youtube.com/@mysterylanddotbiz',
+        },
     logo: {
       src: './src/assets/logo.png',
     },
@@ -102,12 +104,13 @@ export default defineConfig({
         items: [{ label: 'Übersicht', link: '/04/readme' }],
       },
       {
-        label: 'Bürokratie',
+        label: 'Gesetzliche Grundlagen',
         items: [
-          { label: 'Ausbildungsnachweis', link: '/05/01/readme' },
-          { label: 'Zeitnachweis', link: '/05/02/readme'},
+          { label: 'Berufsbildungsgesetz (BBiG) ', link: '/05/01/readme' },
           { label: 'Industrie- und Handelskammern', link: '' },
+          { label: 'Ausbildungsnachweis', link: '/05/03/readme' },
           { label: 'Bildungsträger', link: '' },
+          { label: 'Zeitnachweis', link: '/05/05/readme'},
           { label: 'Kostenträger', link: '' },
         ],
       },
