@@ -17,6 +17,7 @@ body:
         - label: Netzplantechnik, Gantt-Diagramm, kritischer Pfad
         - label: Risikoanalyse und Projektcontrolling
         - label: Projektstrukturplanung (Top-Down, Bottom-Up, Yo-Yo)
+        - label: Ereignisgesteuerte Prozessketten (EPK) und Business Process Model and Notation (BPMN)
   - type: markdown
     id: Aufgabe
     attributes:
