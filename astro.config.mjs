@@ -25,7 +25,7 @@ export default defineConfig({
     },
     sidebar: [
       {
-        label: 'Prüfungskatalog',
+        label: '01 Prüfungskatalog',
         items: [
           {
             label: 'Katalog', 
@@ -39,7 +39,7 @@ export default defineConfig({
         ]
       },
       {
-        label: 'Abschlussprüfungen',
+        label: '02 Abschlussprüfungen',
         items: [
           {
             label: 'AP1 Einrichtung',
@@ -96,15 +96,22 @@ export default defineConfig({
         ],
       },
       {
-        label: 'Projekt',
-        items: [{ label: 'Projektbeschreibung', link: '/03/readme' }],
+        label: '03 Projekt',
+        items: [{ label: 'Was ist ein Projekt', link: '/03/01/readme' }],
+        items: [{ label: 'Formale Vorgaben', link: '/03/02/readme' }],
+        items: [{ label: 'Thema', link: '/03/03/readme' }],
+        items: [{ label: 'Der Projektantrag', link: '/03/04/readme' }],
+        items: [{ label: 'Ausarbeitung', link: '/03/05/readme' }],
+        items: [{ label: 'Erfahrung aus der Praxis', link: '/03/06/readme' }],
+        items: [{ label: 'Abschluss', link: '/03/07/readme' }],
+        items: [{ label: 'Bewertung', link: '/03/08/readme' }],
       },
       {
-        label: 'Praktikum',
+        label: '04 Praktikum',
         items: [{ label: 'Übersicht', link: '/04/readme' }],
       },
       {
-        label: 'Gesetzliche Grundlagen',
+        label: '05 Gesetzliche Grundlagen',
         items: [
           { label: 'Berufsbildungsgesetz (BBiG) ', link: '/05/01/readme' },
           { label: 'Industrie- und Handelskammern', link: '' },
