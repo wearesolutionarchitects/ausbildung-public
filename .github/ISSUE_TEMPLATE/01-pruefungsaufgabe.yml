@@ -46,9 +46,15 @@ body:
         - "07-06 Leistungsübergabe und Einweisung"
         - "07-07 Leistungserbringung bewerten"
   - type: textarea
-    id: beitrag
+    id: aufgabe
     attributes:
-      label: "Antworten"
-      description: "Bitte mögliche Antworten im Markdown-Format eintragen."
-      placeholder: "# [Subthema]\n\n## Inhalt\n\n"
+      label: "## Aufgabe"
+      description: "Bitte die Aufgabe im Markdown-Format eintragen."
+      placeholder: "### [Subthema]\n\n### Inhalt\n\n"
+  - type: textarea
+    id: loesung
+    attributes:
+      label: "## Lösung"
+      description: "Bitte die Lösung im Markdown-Format eintragen."
+      placeholder: "### [Subthema]\n\n### Inhalt\n\n"
       
