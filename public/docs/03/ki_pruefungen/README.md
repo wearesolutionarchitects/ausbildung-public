@@ -1,4 +1,52 @@
-# KI-gestützte Analyse alter Prüfungsaufgaben für Fachinformatiker Anwendungsentwicklung
+---
+title: KI-gestützte Analyse alter Prüfungsaufgaben für Fachinformatiker
+description: KI-gestützte Analyse alter Prüfungsaufgaben für Fachinformatiker
+pubDate: 2025-03-16
+meta:
+  - name: "description"
+    content: "KI-gestützte Analyse alter Prüfungsaufgaben für Fachinformatiker"
+  - name: "author"
+    content: "Heiko Fanieng"
+  - property: "og:title"
+    content: "Prüfungen"
+  - property: "og:description"
+    content: "KI-gestützte Analyse alter Prüfungsaufgaben für Fachinformatiker"
+  - http-equiv: "content-language"
+    content: "de"
+---
+
+## KI-gestützte Analyse alter Prüfungsaufgaben für Fachinformatiker
+
+### Projektziel
+
+Das Projekt „KI-gestützte Analyse alter Prüfungsaufgaben für Fachinformatiker“ hat zum Ziel, aus alten Prüfungsaufgaben der vergangenen Jahre mittels KI und Verschlagwortung die wahrscheinlichen Aufgabenbereiche für kommende Prüfungen zu ermitteln.
+
+Dies soll den Fachinformatiker-Anwärtern ein **besseres Verständnis der Prüfungsanforderungen** verschaffen und dadurch eine **effizientere Prüfungsvorbereitung** ermöglichen.
+
+![GitHub](01-github.png)
+
+---
+
+### Maintainer
+
+[Heiko Fanieng](https://fanieng.com)  
+Mail: [heiko@fanieng.com](mailto:heiko@fanieng.com)  
+LinkedIn: [hfanieng](https://www.linkedin.com/in/hfanieng)  
+Github: [hfanieng](https://github.com/hfanieng)
+
+### Contributors
+
+- Farzaneh Soghani
+- Hiba Al Anssari
+- Katrin Kraus
+- Tanja Kretschmann
+- Abderrahim El Bouanani
+- Puya Khandany  
+- ...
+- GitHub: [wearesolutionarchitects](https://github.com/wearesolutionarchitects)  
+- LLMs: Chat GPT 4.5, o1, o3-mini | Stable Diffusion: RealVisXL30 | Mistral | Llama | ...
+
+---
 
 ## Inhaltsverzeichnis
 
