@@ -71,7 +71,17 @@ tags:
   - Wirtschaftlichkeitsanalyse
 ---
 
-## Credits
+## Präzise Tags für Prüfungsdateien
+
+### Projektziel
+
+Ermittlung präziser Tags für die Zuordnung von Aufgaben in Prüfungsdateien.
+
+Die Tags dienen der eindeutigen Identifikation von Aufgaben und ermöglichen dadurch eine präzise Analyse durch Large Language Models (LLMs; dt.: große Sprachmodelle)
+
+---
+
+### Credits
 
 Ersteller: [Heiko Fanieng](https://fanieng.com)  
 Mail: [heiko@fanieng.com](mailto:heiko@fanieng.com)  
