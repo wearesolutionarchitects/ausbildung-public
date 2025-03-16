@@ -85,9 +85,8 @@ Die Tags dienen der eindeutigen Identifikation von Aufgaben und ermöglichen dad
 
 Ersteller: [Heiko Fanieng](https://fanieng.com)  
 Mail: [heiko@fanieng.com](mailto:heiko@fanieng.com)  
-LinkedIn: [hfanieng](https://www.linkedin.com/in/hfanieng)
-Github: [hfanieng](https://github.com/hfanieng)  
-Github-Organisation: [wearesolutionarchitects](https://github.com/wearesolutionarchitects)  
+LinkedIn: [hfanieng](https://www.linkedin.com/in/hfanieng)  
+Github: [hfanieng](https://github.com/hfanieng) | [wearesolutionarchitects](https://github.com/wearesolutionarchitects)  
 LLMs: Chat GPT 4.5, o1, o3-mini
 
 ---
