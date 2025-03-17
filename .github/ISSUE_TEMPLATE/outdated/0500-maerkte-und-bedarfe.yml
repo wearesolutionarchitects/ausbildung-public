@@ -1,0 +1,22 @@
+---
+name: 5. Märkte und Bedarfe
+description: Themen rund um Märkte und Bedarfe
+title: "[Märkte und Bedarfe]: "
+labels: ["Märkte", "Bedarfe"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Themenbezogene Aufgaben für Märkte und Bedarfe**
+  - type: checkboxes
+    id: maerkte-und-bedarfe-themen
+    attributes:
+      label: Wähle die relevanten Themen
+      options:
+        - label: "Marktformen: Monopol, Oligopol, Polypol"
+        - label: "Bedürfnis vs. Bedarf vs. Nachfrage"
+        - label: "Zielgruppenanalyse, Marktforschung"
+  - type: markdown
+    id: Referenz
+    attributes:
+      value: "Quellenangabe: Kommunikation mit ChatGTP, Model o3-mini"

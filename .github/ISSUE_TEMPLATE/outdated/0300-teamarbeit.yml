@@ -1,0 +1,24 @@
+---
+name: 3. Teamarbeit
+description: Themen rund um die Teamarbeit
+title: "[Teamarbeit]: "
+labels: ["Teamarbeit"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Themenbezogene Aufgaben für Teamarbeit**
+  - type: checkboxes
+    id: teamarbeit-themen
+    attributes:
+      label: Wähle die relevanten Themen
+      options:
+        - label: Phasen der Teamentwicklung (Forming, Storming, Norming, Performing, Adjourning)
+        - label: Reflexion, Feedback-Kultur, Lessons Learned
+        - label: Win-Win-Strategie, Harvard-Konzept
+        - label: Kommunikationsmodelle (4-Ohren-Modell, Sender-Empfänger)
+        - label: Diversity, Interkulturalität
+  - type: markdown
+    id: Referenz
+    attributes:
+      value: "Quellenangabe: Kommunikation mit ChatGTP, Model o3-mini"

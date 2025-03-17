@@ -1,0 +1,24 @@
+---
+name: 2. Methoden und Modelle
+description: Themen rund um die Methoden und Modelle
+title: "[Methoden und Modelle]"
+labels: ["Methoden", "Modelle"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Themenbezogene Aufgaben für Methoden und Modelle**
+  - type: checkboxes
+    id: methoden-und-modelle-themen
+    attributes:
+      label: Wähle die relevanten Themen
+      options:
+        - label: Wasserfallmodell, Scrum, Agile Methoden
+        - label: Netzplantechnik, Gantt-Diagramm, kritischer Pfad
+        - label: Risikoanalyse und Projektcontrolling
+        - label: Projektstrukturplanung (Top-Down, Bottom-Up, Yo-Yo)
+        - label: Ereignisgesteuerte Prozessketten (EPK) und Business Process Model and Notation (BPMN)
+  - type: markdown
+    id: Aufgabe
+    attributes:
+      value: "Erstelle einen Sub-Issue zum markierten Thema mit einer Übungsaufgabe und einer Lösung."

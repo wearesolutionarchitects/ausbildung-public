@@ -33,6 +33,18 @@ tags:
 
 ---
 
+## Übersicht Lernfelder (LF)
+
+LF 1: Das Unternehmen und die eigene Rolle im Betrieb beschreiben  
+LF 2: Arbeitsplätze nach Kundenwunsch ausstatten  
+LF 3: Clients in Netzwerke einbinden  
+LF 4: Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen  
+LF 5: Software zur Verwaltung von Daten anpassen  
+LF 6: Serviceanfragen bearbeiten  
+LF 7: Cyber-physische Systeme ergänzen  
+
+---
+
 ## Struktur
 
 ```plaintext

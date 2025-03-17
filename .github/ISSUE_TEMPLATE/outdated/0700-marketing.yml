@@ -1,0 +1,18 @@
+---
+name: 7. Marketing
+description: Themen rund um Marketing
+title: "[Marketing]: "
+labels: ["Marketing"]
+body:
+  - type: checkboxes
+    id: marketing-themen
+    attributes:
+      label: Wähle die relevanten Themen
+      options:
+        - label: ABC-Analyse, AIDA-Modell
+        - label: Produktlebenszyklus, Marktentwicklung
+        - label: "Vertriebskonzepte: B2B, B2C, B2G"
+  - type: markdown
+    id: Referenz
+    attributes:
+      value: "Quellenangabe: Kommunikation mit ChatGTP, Model o3-mini"
