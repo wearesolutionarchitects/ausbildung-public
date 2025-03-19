@@ -1,9 +1,7 @@
 // astro.config.mjs
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-
 import auth from 'auth-astro';
-
 import node from '@astrojs/node';
 
 export default defineConfig({
