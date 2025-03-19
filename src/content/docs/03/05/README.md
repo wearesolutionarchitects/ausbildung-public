@@ -174,7 +174,7 @@ Wer also einen klaren und übersichtlichen Ablaufplan erstellt hat, ist nun klar
 
 Ein Außenstehender, der an der Durchführung nicht beteiligt war, muss in der Lage sein, anhand dieser Beschreibung genau nachzuvollziehen, was durch wen, wie und in welcher Reihentolge getan wurde.
 
-Jedoch darf sich die Beschreibung auch nicht im Detail verlieren. 
+Jedoch darf sich die Beschreibung auch nicht im Detail verlieren.
 
 Um sicherzustellen, dass die Aktivitäten während der Durchführung auch zielführend sind,ist es wichtig, sie einer regelmäßigen Qualitätssicherung zu unterziehen.
 
@@ -318,7 +318,7 @@ Von einer Dokumentation, die den Abschluss einer Ausbildung darstellt, kann man 
 
 - **Projektplanung und -ergebnis werden nachträglich passend gemacht**
 
-Ein Projektleiter freut sich, wenn er im Nachhinein feststellt, dass er das Projektziel mit den eingeplanten Ressourcen tatsächlich erreicht hat. In der Realität erbringt jedoch nur ein Bruchteil aller Projekte rechtzeitig mit den ursprünglich geplanten Ressourcen ein Projekt ergebnis in der geforderten Qualität.
+Ein Projektleiter freut sich, wenn er im Nachhinein feststellt, dass er das Projektziel mit den eingeplanten Ressourcen tatsächlich erreicht hat. In der Realität erbringt jedoch nur ein Bruchteil aller Projekte rechtzeitig mit den ursprünglich geplanten Ressourcen ein Projektergebnis in der geforderten Qualität.
 
 In einer Vielzahl von Projektdokumentationen fällt jedoch sofort auf, dass die Planung nach der Durchführung so verändert wurde, dass sie 100-prozentig passt.
 
