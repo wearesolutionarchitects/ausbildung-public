@@ -36,12 +36,12 @@ Github: [hfanieng](https://github.com/hfanieng)
 
 ### Contributors
 
-- Farzaneh Soghani
-- Hiba Al Anssari
-- Katrin Kraus
-- Tanja Kretschmann
-- Abderrahim El Bouanani
-- Puya Khandany  
+- [Farzaneh Soghani](https://github.com/Farzaneh0101)
+- [Hiba Al Anssari](https://github.com/HibaAlanssari)
+- [Katrin Kraus](https://github.com/xTrina)
+- [Tanja Kretschmann](https://github.com/Kretta)
+- [Abderrahim El Bouanani](https://github.com/Abdel-213)
+- [Puya Khandany](https://github.com/PuyaKh)  
 - ...
 - GitHub: [wearesolutionarchitects](https://github.com/wearesolutionarchitects)  
 - LLMs: Chat GPT 4.5, o1, o3-mini | Stable Diffusion: RealVisXL30 | Mistral | Llama | ...
@@ -86,15 +86,49 @@ Github: [hfanieng](https://github.com/hfanieng)
 - Markdown-Dateien: Jede Aufgabe in einer separaten Datei.
 - YAML Frontmatter: Enthält Metadaten wie
 
-  ```yaml
-  ---
-  title: "Aufgabe Datenbanken"
-  tags: ["SQL", "Datenmodellierung"]
-  ihk_katalog: ["Anwendungsentwicklung - Datenbanken"]
-  ---
-  ```
+```yaml
+---
+title: Herbst 2024
+description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+pubDate: 2024-09-17
+meta:
+  - name: "description"
+    content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+  - name: "author"
+    content: "Heiko Fanieng"
+  - property: "og:title"
+    content: "Prüfungen"
+  - property: "og:description"
+    content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+  - http-equiv: "content-language"
+    content: "de"
+tags:
+- AP1
+- Einrichtung
+- Herbst
+- September
+- "2024"
+- IT-Grundschutz
+- Netzwerkkonfiguration
+- UML
+- Anwendungsfall-Diagramm
+- Array
+- Pseudocode
+- Gesamtkosten
+- Netto- und Bruttopreis
+- Ratendarlehen
+- RAM-Kompatibilität
+- Phishing
+- Lasten- und Pflichtenheft
+- Datenmodell
+- Leasing
+- Ökologische Aspekte
+---
+```
 
 - Zweck: Klare Struktur, schnelle Filterung und Sortierung.
+
+---
 
 ### 2.3 Abgleich mit IHK-Prüfungskatalog
 
