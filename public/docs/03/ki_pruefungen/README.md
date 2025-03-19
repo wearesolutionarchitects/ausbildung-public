@@ -77,9 +77,13 @@ Github: [hfanieng](https://github.com/hfanieng)
 
 ### 2.1 Digitalisierung & Datensammlung
 
+![Aufgaben](02-aufgaben.png)
+
 - Alte Aufgaben in digitaler Form (PDF, Scans etc.).
 - Extraktion der Inhalte in Textform (z.B. mittels OCR-Tools).
 - Vorteil: Einheitliches Format, automatisierte Weiterverarbeitung.
+
+---
 
 ### 2.2 Tagging & Verschlagwortung
 
@@ -132,9 +136,13 @@ tags:
 
 ### 2.3 Abgleich mit IHK-Prüfungskatalog
 
+![Katalog](02-katalog.png)
+
 - IHK-Katalog analysieren: Welche Themen sind besonders relevant/neu?
 - Mapping: Aufgaben-Tags vs. Themenbereiche im Katalog.
 - Dynamische Gewichtung: Fokus auf besonders relevante Kategorien.
+
+---
 
 ### 2.4 KI-gestützte Analyse
 
@@ -165,6 +173,8 @@ tags:
 2. Schnelle Wiederverwendung: Aufgaben lassen sich einfach filtern und neu zusammenstellen.
 3. Team-Workflow: GitHub-Integration erlaubt kollaboratives Arbeiten.
 4. Datengestützte Prognose: KI liefert systematisch verwertbare Ergebnisse.
+
+---
 
 ### Nachteile
 
