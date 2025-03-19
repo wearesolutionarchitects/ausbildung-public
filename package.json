@@ -16,5 +16,9 @@
     "astro": "^5.5.3",
     "auth-astro": "^4.2.0",
     "sharp": "^0.32.5"
+  },
+  "devDependencies": {
+    "fast-glob": "^3.3.3",
+    "gray-matter": "^4.0.3"
   }
 }
