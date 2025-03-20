@@ -1,41 +1,47 @@
 import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
 import fg from 'fast-glob';
+import matter from 'gray-matter';
+import path from 'path';
 
 async function collectTags() {
-    const entries = await fg('src/**/*.{md,mdx}');
-    const tags: Record<string, number> = {};
+  const files = await fg('src/**/*.{md,mdx}', { absolute: true });
 
-    for (const entry of entries) {
-        const content = fs.readFileSync(entry, 'utf8');
-        const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
-        if (fmMatch) {
-            const fm = fmMatch[1];
-            const tagsMatch = fm.match(/tags:\s*\[(.*?)\]/s);
-            if (tagsMatch) {
-                const tagsArray = fm[1].split('\n').map(line => line.replace(/- /, '').trim());
-                tagsArray.forEach(tag => {
-                    tags[tag] = (tags[tag] || 0) + 1;
-                });
-            }
-        }
+  const tags: Record<string, number> = {};
+
+  files.forEach((filePath) => {
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    const { data } = matter(fileContent);
+
+    if (data.tags && Array.isArray(data.tags)) {
+      data.tags.forEach((tag: string) => {
+        tags[tag] = (tags[tag] || 0) + 1;
+      });
     }
+  });
 
-    return tags;
+  return tags;
 }
 
 async function generateReadme() {
-    const tags = await collectTags();
+  const tags = await collectTags();
 
-    let readmeContent = '# 📌 Tag Übersicht\n\n| Tag | Häufigkeit |\n| ---- | ---- |\n';
+  let readmeContent = '# 📌 Tag-Übersicht\n\n| Tag | Häufigkeit |\n| ---- | ---- |\n';
 
-    Object.entries(tags).forEach(([tag, count]) => {
-        readmeContent += `| ${tag} | ${count} |\n`;
-    });
+  Object.entries(tags).forEach(([tag, count]) => {
+    readmeContent += `| ${tag} | ${count} |\n`;
+  });
 
-    fs.writeFileSync('README.md', readmeContent);
-    console.log('README.md erfolgreich generiert!');
+  // An diesen Pfad wird die README.md geschrieben:
+  const targetPath = path.resolve(process.cwd(), 'src', 'content', 'docs', '00', '03', 'README.md');
+
+  console.log(`🖨️  Erstelle README.md in: ${targetPath}`);
+
+  try {
+    fs.writeFileSync(targetPath, readmeContent);
+    console.log('✅ README.md erfolgreich erstellt.');
+  } catch (err) {
+    console.error('❌ Fehler beim Schreiben der README.md:', err);
+  }
 }
 
 generateReadme();

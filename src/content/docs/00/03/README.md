@@ -27,8 +27,8 @@
 | IHK | 3 |
 | Projektantrag | 2 |
 | BBiG | 1 |
-| Aubildungsnachweis | 1 |
 | Projektdokumentation | 1 |
+| Zeitnachweis | 1 |
 | Mai | 1 |
 | Prüfung | 1 |
 | Ganzheitliche Aufgabe | 1 |
@@ -102,7 +102,6 @@
 | Bezugskosten | 2 |
 | Leasing | 4 |
 | Nutzwertanalyse | 2 |
-| Zeitnachweis | 1 |
 | Kritikpunkte | 2 |
 | Maßnahmen | 4 |
 | Servicequalität | 2 |
@@ -124,6 +123,7 @@
 | Technisch-organisatorische Maßnahmen | 2 |
 | TOM | 2 |
 | Verschlüsselung | 2 |
+| Aubildungsnachweis | 1 |
 | IT-Grundschutz | 2 |
 | Netzwerkkonfiguration | 2 |
 | Anwendungsfall-Diagramm | 2 |
@@ -160,6 +160,7 @@
 | Kundenanliegen | 1 |
 | November | 9 |
 | Winter | 9 |
+| April | 4 |
 | Klassendiagramm | 1 |
 | Entwurfsmuster | 1 |
 | Vorgehensmodelle | 1 |
@@ -172,5 +173,4 @@
 | Erzeugungsmuster | 1 |
 | Strukturmuster | 1 |
 | Verhaltensmuster | 1 |
-| April | 4 |
 | Umsetzung | 5 |
