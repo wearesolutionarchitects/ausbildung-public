@@ -111,7 +111,7 @@ export default defineConfig({
                         { label: 'Berufsbildungsgesetz (BBiG) ', link: '/05/01/readme' },
                         { label: 'Industrie- und Handelskammern', link: '' },
                         { label: 'Ausbildungsnachweis', link: '/05/03/readme' },
-                        { label: 'Bildungsträger', link: '' },
+                        { label: 'Bildungsträger', link: '/05/04/readme' },
                         { label: 'Zeitnachweis', link: '/05/05/readme' },
                         { label: 'Kostenträger', link: '' }
                     ]
