@@ -1,4 +1,21 @@
-# 📌 Tag-Übersicht
+---
+title: Themen
+pubDate: 2025-03-07
+meta:
+  - name: "description"
+    content: "Themen"
+  - name: "author"
+    content: "Heiko Fanieng"
+  - property: "og:title"
+    content: "Prüfungen"
+  - property: "og:description"
+    content: "Themen"
+  - http-equiv: "content-language"
+    content: "de"
+---
+
+
+## 📌 Tag-Übersicht
 
 | Tag | Häufigkeit |
 | ---- | ---- |
@@ -26,8 +43,8 @@
 | Abschlussprüfungen | 5 |
 | IHK | 3 |
 | Projektantrag | 2 |
-| BBiG | 1 |
 | Projektdokumentation | 1 |
+| BBiG | 1 |
 | Zeitnachweis | 1 |
 | Mai | 1 |
 | Prüfung | 1 |
@@ -79,29 +96,8 @@
 | logische Prozessoren | 2 |
 | WLAN-Einrichtung | 2 |
 | WPA-Enterprise RADIUS | 2 |
-| Marktform | 2 |
-| Stakeholder | 2 |
-| Projektberater | 2 |
-| Effektiver Stundensatz | 2 |
-| Dienstvertrag | 2 |
-| Werkvertrag | 2 |
-| IPv6-Adressierung | 2 |
-| Adressierung | 2 |
-| Angebotsvergleich | 2 |
-| SQL-Abfrage | 4 |
-| Struktogramm | 2 |
-| ERM | 2 |
-| IT-Sicherheit | 4 |
-| KI | 2 |
-| Schadensabwicklung | 2 |
-| Pflichtenheft | 2 |
+| Aubildungsnachweis | 1 |
 | UML | 6 |
-| SELECT | 2 |
-| SQL | 2 |
-| ERD | 4 |
-| Bezugskosten | 2 |
-| Leasing | 4 |
-| Nutzwertanalyse | 2 |
 | Kritikpunkte | 2 |
 | Maßnahmen | 4 |
 | Servicequalität | 2 |
@@ -116,27 +112,35 @@
 | Projektmanagement | 2 |
 | Gantt-Diagramm | 2 |
 | Netzplan | 2 |
+| ERD | 4 |
+| SQL-Abfrage | 4 |
 | Priorität | 2 |
 | Anzahl | 2 |
 | Kunden | 2 |
 | Ticket | 2 |
+| IT-Sicherheit | 4 |
 | Technisch-organisatorische Maßnahmen | 2 |
 | TOM | 2 |
 | Verschlüsselung | 2 |
-| Aubildungsnachweis | 1 |
-| IT-Grundschutz | 2 |
-| Netzwerkkonfiguration | 2 |
-| Anwendungsfall-Diagramm | 2 |
-| Array | 2 |
-| Pseudocode | 3 |
-| Gesamtkosten | 2 |
-| Netto- und Bruttopreis | 2 |
-| Ratendarlehen | 2 |
-| RAM-Kompatibilität | 2 |
-| Phishing | 2 |
-| Lasten- und Pflichtenheft | 2 |
-| Datenmodell | 2 |
-| Ökologische Aspekte | 2 |
+| Marktform | 2 |
+| Stakeholder | 2 |
+| Projektberater | 2 |
+| Effektiver Stundensatz | 2 |
+| Dienstvertrag | 2 |
+| Werkvertrag | 2 |
+| IPv6-Adressierung | 2 |
+| Adressierung | 2 |
+| Angebotsvergleich | 2 |
+| Struktogramm | 2 |
+| ERM | 2 |
+| KI | 2 |
+| Schadensabwicklung | 2 |
+| Pflichtenheft | 2 |
+| SELECT | 2 |
+| SQL | 2 |
+| Bezugskosten | 2 |
+| Leasing | 4 |
+| Nutzwertanalyse | 2 |
 | OSI-Modell | 2 |
 | Netzwerk | 2 |
 | Kaufvertrag | 2 |
@@ -158,6 +162,19 @@
 | Kundenstörungen | 1 |
 | Meldung | 1 |
 | Kundenanliegen | 1 |
+| IT-Grundschutz | 2 |
+| Netzwerkkonfiguration | 2 |
+| Anwendungsfall-Diagramm | 2 |
+| Array | 2 |
+| Pseudocode | 3 |
+| Gesamtkosten | 2 |
+| Netto- und Bruttopreis | 2 |
+| Ratendarlehen | 2 |
+| RAM-Kompatibilität | 2 |
+| Phishing | 2 |
+| Lasten- und Pflichtenheft | 2 |
+| Datenmodell | 2 |
+| Ökologische Aspekte | 2 |
 | November | 9 |
 | Winter | 9 |
 | April | 4 |

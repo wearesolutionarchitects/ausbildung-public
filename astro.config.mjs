@@ -28,7 +28,7 @@ export default defineConfig({
                     items: [
                         { label: 'Teil 1', link: '/00/01/readme' },
                         { label: 'Teil 2', link: '/00/02/readme' },
-                        { label: 'Themenübersicht', link: '/00/03/redme' },
+                        { label: 'Themenübersicht', link: '/00/03/readme' },
                     ]
                 },
                 {
