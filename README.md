@@ -1,176 +1,122 @@
-# 📌 Tag-Übersicht
+---
+title: Ausbildung Fachinformatiker:in Anwendungsentwicklung
+description: "Ausbildung Fachinformatiker:in Anwendungsentwicklung"
+author: "Heiko Fanieng"
+pubpubDate: "2025-03-02"
+tags:
+  - Ausbildung
+  - Abschlussprüfungen
+  - Projektarbeit
+---
 
-| Tag | Häufigkeit |
-| ---- | ---- |
-| 2019 | 1 |
-| 2021 | 2 |
-| 2022 | 7 |
-| 2023 | 10 |
-| 2024 | 8 |
-| 2025 | 1 |
-| AP1 | 20 |
-| Einrichtung | 20 |
-| AP2 | 20 |
-| Planung | 10 |
-| Entwicklung | 11 |
-| WiSo | 10 |
-| Algorithmen | 7 |
-| Software | 2 |
-| Wirtschaft | 2 |
-| Sozialkunde | 2 |
-| Lernfelder | 3 |
-| Projektarbeit | 7 |
-| Framework | 1 |
-| Anwendungsentwicklung | 1 |
-| Ausbildung | 7 |
-| Abschlussprüfungen | 5 |
-| IHK | 3 |
-| Projektantrag | 2 |
-| BBiG | 1 |
-| Aubildungsnachweis | 1 |
-| Projektdokumentation | 1 |
-| Mai | 1 |
-| Prüfung | 1 |
-| Ganzheitliche Aufgabe | 1 |
-| Kernqualifikationen | 1 |
-| Sommer | 7 |
-| IT-Systemhaus | 1 |
-| IT-Support | 1 |
-| Auftrag | 1 |
-| Netzwerkverkabelung | 1 |
-| Materialbeschaffung | 1 |
-| Nachkalkulation | 1 |
-| Wirtschaftlichkeit | 3 |
-| Cloud-Eigenschaften | 1 |
-| Rechnungsbestandteile | 1 |
-| Aufbewahrungsfristen | 1 |
-| Datenschutz | 7 |
-| Herbst | 8 |
-| September | 4 |
-| Zustandsdiagramm | 3 |
-| Anwendungsfalldiagramm | 4 |
-| OOP-Methoden | 2 |
-| ER-Modell | 2 |
-| SQL-Abfragen | 2 |
-| UML-Modellierung | 2 |
-| Smartphone-Dashboard | 2 |
-| Tankfüllstände | 2 |
-| Sensordaten | 2 |
-| Datenbank | 4 |
-| Zeiterfassung | 2 |
-| Frühjahr | 3 |
-| März | 5 |
-| Projektmachbarkeit | 2 |
-| Präsentation | 2 |
-| Erstgespräch | 2 |
-| Leistungsangebote | 2 |
-| Lastenheft | 4 |
-| Ist-Analyse | 2 |
-| Zeitrahmen | 2 |
-| CPU | 2 |
-| Mainboard | 2 |
-| RAM | 2 |
-| SSD | 2 |
-| Grafikkarte | 2 |
-| USB-Anschluss | 2 |
-| BIOS-Flashback | 2 |
-| Taktfrequenz | 2 |
-| Cache | 2 |
-| logische Prozessoren | 2 |
-| WLAN-Einrichtung | 2 |
-| WPA-Enterprise RADIUS | 2 |
-| Marktform | 2 |
-| Stakeholder | 2 |
-| Projektberater | 2 |
-| Effektiver Stundensatz | 2 |
-| Dienstvertrag | 2 |
-| Werkvertrag | 2 |
-| IPv6-Adressierung | 2 |
-| Adressierung | 2 |
-| Angebotsvergleich | 2 |
-| SQL-Abfrage | 4 |
-| Struktogramm | 2 |
-| ERM | 2 |
-| IT-Sicherheit | 4 |
-| KI | 2 |
-| Schadensabwicklung | 2 |
-| Pflichtenheft | 2 |
-| UML | 6 |
-| SELECT | 2 |
-| SQL | 2 |
-| ERD | 4 |
-| Bezugskosten | 2 |
-| Leasing | 4 |
-| Nutzwertanalyse | 2 |
-| Zeitnachweis | 1 |
-| Kritikpunkte | 2 |
-| Maßnahmen | 4 |
-| Servicequalität | 2 |
-| Kommunikationsmodelle | 2 |
-| Vier-Ohren-Modell | 2 |
-| Telearbeit | 2 |
-| Ergonomie | 2 |
-| Preiskalkulation | 2 |
-| Service-Pricing | 2 |
-| VPN | 4 |
-| Ticketsystem | 2 |
-| Projektmanagement | 2 |
-| Gantt-Diagramm | 2 |
-| Netzplan | 2 |
-| Priorität | 2 |
-| Anzahl | 2 |
-| Kunden | 2 |
-| Ticket | 2 |
-| Technisch-organisatorische Maßnahmen | 2 |
-| TOM | 2 |
-| Verschlüsselung | 2 |
-| IT-Grundschutz | 2 |
-| Netzwerkkonfiguration | 2 |
-| Anwendungsfall-Diagramm | 2 |
-| Array | 2 |
-| Pseudocode | 3 |
-| Gesamtkosten | 2 |
-| Netto- und Bruttopreis | 2 |
-| Ratendarlehen | 2 |
-| RAM-Kompatibilität | 2 |
-| Phishing | 2 |
-| Lasten- und Pflichtenheft | 2 |
-| Datenmodell | 2 |
-| Ökologische Aspekte | 2 |
-| OSI-Modell | 2 |
-| Netzwerk | 2 |
-| Kaufvertrag | 2 |
-| Malware | 2 |
-| Datenübertragung | 2 |
-| Stromkosten | 2 |
-| Dateiformate | 2 |
-| CAD | 2 |
-| Netzteil | 2 |
-| Kundenzufriedenheit | 2 |
-| Kaufvertragstörungen | 2 |
-| künstliche Intelligenz | 1 |
-| Kl-gestützte Software | 1 |
-| Netzwerküberwachung | 1 |
-| Wartung | 1 |
-| Sicherheit | 1 |
-| IT-Prozesse | 1 |
-| Kundenanfragen | 1 |
-| Kundenstörungen | 1 |
-| Meldung | 1 |
-| Kundenanliegen | 1 |
-| November | 9 |
-| Winter | 9 |
-| Klassendiagramm | 1 |
-| Entwurfsmuster | 1 |
-| Vorgehensmodelle | 1 |
-| Netzwerkkonzepte | 1 |
-| MAC-Adresse | 1 |
-| IP-Adresse | 1 |
-| Aggregation | 1 |
-| Multiplizität | 1 |
-| Komposition | 1 |
-| Erzeugungsmuster | 1 |
-| Strukturmuster | 1 |
-| Verhaltensmuster | 1 |
-| April | 4 |
-| Umsetzung | 5 |
+## Willkommen / your welcome
+
+🔹 Willkommen im Repository zur Prüfungsvorbereitung! 🔹
+
+🚀 Hier findest du eine strukturierte Übersicht über die Meilensteine innerhalb der Ausbildung – von den schriftlichen Prüfungen bis zur Projektarbeit.
+
+📌 Neu: Du kannst jetzt direkt über die Links auf vergangene AP1-Prüfungen zugreifen und gezielt die relevanten Inhalte durchstöbern.
+
+- [ ] März 2025 (ab 26.03.2025)
+- [ ] [September 2024](/src/content/docs/01/01/2024-september/README.mdx)
+- [ ] [März 2024](/src/content/docs/01/01/2024-maerz/README.mdx)
+- [ ] [September 2023](src/content/docs/01/01/2023-september/README.mdx)
+- [ ] [März 2023](/src/content/docs/01/01/2023-maerz/README.mdx)
+- [ ] [September 2022](/src/content/docs/01/01/2022-september/README.mdx)
+- [ ] [März 2022](/src/content/docs/01/01/2022-maerz/README.md)
+- [ ] [September 2021](/src/content/docs/01/01/2021-september/README.mdx)
+
+🎯 Lass uns gemeinsam die Prüfung meistern – Schritt für Schritt! Viel Erfolg und viel Spaß beim Lernen! 💡✨
+
+## Ausbildung Fachinformatiker:in Anwendungsentwicklung
+
+### Inhaltsverzeichnis
+
+1. [Einleitung](#einleitung)
+2. [Berufsbild](#berufsbild)
+3. [Ausbildungsdauer](#ausbildungsdauer)
+4. [Ausbildungsinhalte](#ausbildungsinhalte)
+5. [Ausbildungsvergütung](#ausbildungsvergütung)
+6. [Ausbildungsvoraussetzungen](#ausbildungsvoraussetzungen)
+7. [Ausbildungsort](#ausbildungsort)
+8. [Ausbildungsabschluss](#ausbildungsabschluss)
+9. [Weiterbildungsmöglichkeiten](#weiterbildungsmöglichkeiten)
+10. [Fazit](#fazit)
+
+---
+
+## Einleitung
+
+Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung ist eine der beliebtesten Ausbildungen in der IT-Branche. In diesem Beruf entwickeln Fachinformatiker:innen Softwarelösungen für Unternehmen und Organisationen. Sie analysieren die Anforderungen der Kunden, entwerfen Softwarekonzepte, programmieren Anwendungen und testen diese auf ihre Funktionalität. Dabei arbeiten sie eng mit anderen Fachkräften wie Softwareentwickler:innen, Projektleiter:innen und Kunden zusammen.
+
+---
+
+## Berufsbild
+
+Fachinformatiker:innen der Fachrichtung Anwendungsentwicklung entwickeln Softwarelösungen für Unternehmen und Organisationen. Sie analysieren die Anforderungen der Kunden, entwerfen Softwarekonzepte, programmieren Anwendungen und testen diese auf ihre Funktionalität. Dabei arbeiten sie eng mit anderen Fachkräften wie Softwareentwickler:innen, Projektleiter:innen und Kunden zusammen.
+
+---
+
+## Ausbildungsdauer
+
+Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung dauert in der Regel 3 Jahre.
+
+Unter bestimmten Voraussetzungen ist eine Verkürzung der Ausbildungsdauer auf bis zu 2 Jahre möglich. Dies ist beispielsweise dann der Fall, wenn du bereits über eine abgeschlossene Berufsausbildung oder ein Studium verfügst.
+
+---
+
+## Ausbildungsinhalte
+
+Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung umfasst eine Vielzahl von Themen aus den Bereichen Informatik, Programmierung, Softwareentwicklung, Datenbanken, Betriebssysteme, Netzwerke, Projektmanagement und Qualitätssicherung.
+
+---
+
+## Ausbildungsvergütung
+
+Die Ausbildungsvergütung richtet sich nach dem jeweiligen Tarifvertrag des Ausbildungsbetriebs. In der Regel liegt die Vergütung im ersten Ausbildungsjahr zwischen 800 und 1.000 Euro brutto pro Monat. Mit jedem Ausbildungsjahr steigt die Vergütung an.
+
+---
+
+## Ausbildungsvoraussetzungen
+
+Für die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung benötigst du in der Regel einen mittleren Bildungsabschluss oder einen höheren Bildungsabschluss. Darüber hinaus sind gute Kenntnisse in Mathematik, Informatik und Englisch von Vorteil.
+
+---
+
+## Ausbildungsort
+
+Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung findet in der Regel im Ausbildungsbetrieb statt. Darüber hinaus besuchst du die Berufsschule, in der du theoretische Kenntnisse vermittelt bekommst.
+
+---
+
+## Ausbildungsabschluss
+
+Nach erfolgreichem Abschluss der Ausbildung zum Fachinformatiker:in Anwendungsentwicklung erhältst du ein anerkanntes Berufsabschlusszeugnis. Dieses Zeugnis bescheinigt dir die erfolgreiche Teilnahme an der Ausbildung und deine erworbenen Kenntnisse und Fähigkeiten.
+
+---
+
+## Weiterbildungsmöglichkeiten
+
+Nach Abschluss der Ausbildung zum Fachinformatiker:in Anwendungsentwicklung stehen dir zahlreiche Weiterbildungsmöglichkeiten offen. Du kannst beispielsweise eine Weiterbildung zum/zur staatlich geprüften Techniker:in der Fachrichtung Informatik oder zum/zur staatlich geprüften Informatiker:in absolvieren. Darüber hinaus besteht die Möglichkeit, ein Studium im Bereich Informatik oder Wirtschaftsinformatik aufzunehmen.
+
+---
+
+## Fazit
+
+Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung bietet dir vielfältige berufliche Perspektiven in der IT-Branche. Mit einem anerkannten Berufsabschluss und guten Kenntnissen in den Bereichen Informatik, Programmierung und Softwareentwicklung stehen dir zahlreiche Weiterbildungsmöglichkeiten offen. Wenn du Interesse an der Entwicklung von Softwarelösungen hast und gerne im Team arbeitest, ist die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung genau das Richtige für dich.
+
+---
+[Meilensteine](docs/01/README.md)
+
+---
+
+## Astro Framework
+
+| Befehl | Aktion |
+| :--- | :--- |
+| npm install | Installiert Abhängigkeiten |
+| npm run dev | Startet lokalen Entwicklungsserver auf localhost:4321 |
+| npm run build | Erstellt die Produktionsversion im Ordner ./dist/ |
+| npm run preview | Vorschau der erstellten Produktionsversion lokal anzeigen |
+| npm run astro  | Astro-CLI-Befehle wie astro add oder astro check ausführen |
+| npm run astro -- --help  | Hilfe zur Nutzung der Astro-CLI anzeigen |
