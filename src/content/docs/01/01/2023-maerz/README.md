@@ -1,37 +1,43 @@
 ---
 title: März 2023
+
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+
 pubDate: 2023-03-01
+
 meta:
   - name: "description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - name: "author"
-    content: "Heiko Fanieng"
+    content: "ZPA Nord-West"
   - property: "og:title"
     content: "Prüfungen"
   - property: "og:description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - http-equiv: "content-language"
     content: "de"
-tags:
+
+categories:
 - AP1
 - "2023"
 - März
+- Frühjahr
 - Einrichtung
+
+tags:
+- Bezugskosten
+- Datenbank
 - Datenschutz
+- ERD
 - IT-Sicherheit
 - KI
-- Schadensabwicklung
 - Lastenheft
-- Pflichtenheft
-- UML
-- SELECT
-- SQL
-- Datenbank
-- ERD
-- Bezugskosten
 - Leasing
 - Nutzwertanalyse
+- Pflichtenheft
+- Schadensabwicklung
+- SQL-Abfrage
+- UML-Klassendiagramm
 
 ---
 
@@ -243,7 +249,7 @@ Beschreiben Sie mithilfe der folgenden Tabelle jeweils eine Funktion Ihrer oben 
 
 Bei Ihren Recherchen zur Sicherheit rund um das Betriebssystem treffen Sie auf eine Information des Bundesamts für Sicherheit in der Informationstechnik (BSI). Beim Lesen des Textes ergeben sich die unten aufgeführten Fragen.
 
->„Ein Großteil der erfolgreichen Angriffe auf IT-Systeme mit Microsoft Windows 10 lässt sich bereits mit den im Betriebssys- tem vorhandenen Bordmitteln erkennen oder verhindern. Um die nötige Konfiguration des Betriebssystems zu erleichtern, hat das Bundesamt für Sicherheit in der Informationstechnik (BSD im Rahmen der „Studie zu Systemaufbau, Protokollie- rung, Härtung und Sicherheitsfunktionen in Windows 10" (SiSyPHuS Win 10) Hand/ungsempfehlungen zurAbsicherung der Windows-Systeme in deutscher und englischer Sprache veröffentlicht. Ein Fokus bei der Erstellung lag auf der einfachen Umsetzung und praktischen Anwendung. Daher stellt das BSI die empfohlenen Konfigurationseinstellungen als direkt in Windows importierbare Gruppenrichtlinienobjekte (GP9) zum Download bereit — ein Service, der schnell und sicher ist. " [Quelle:](https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2021/210503_SiSyPHuS.html) veröffentlicht am 03. Mai 2021
+>„Ein Großteil der erfolgreichen Angriffe auf IT-Systeme mit Microsoft Windows 10 lässt sich bereits mit den im Betriebssys- tem vorhandenen Bordmitteln erkennen oder verhindern. Um die nötige Konfiguration des Betriebssystems zu erleichtern, hat das Bundesamt für Sicherheit in der Informationstechnik (BSD im Rahmen der „Studie zu Systemaufbau, Protokollie- rung, Härtung und Sicherheitsfunktionen in Windows 10" (SiSyPHuS Win 10) Hand/ungsempfehlungen zurAbsicherung der Windows-Systeme in deutscher und englischer Sprache veröffentlicht. Ein Fokus bei der Erstellung lag auf der einfachen Umsetzung und praktischen Anwendung. Daher stellt das BSI die empfohlenen Konfigurationseinstellungen als direkt in Windows importierbare Gruppenrichtlinienobjekte (GP9) zum Download bereit — ein Service, der schnell und sicher ist. " [Quelle:] (https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2021/210503_SiSyPHuS.html) veröffentlicht am 03. Mai 2021
 
 #### 3ba Aufgaben des BSI
 

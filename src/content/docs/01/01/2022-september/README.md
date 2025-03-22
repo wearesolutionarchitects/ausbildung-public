@@ -1,24 +1,31 @@
 ---
 title: September 2022
+
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+
 pubDate: 2022-09-21
+
 meta:
   - name: "description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - name: "author"
-    content: "Heiko Fanieng"
+    content: "ZPA Nord-West"
   - property: "og:title"
     content: "Prüfungen"
   - property: "og:description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - http-equiv: "content-language"
     content: "de"
-tags:
+
+categories:
 - AP1
 - Einrichtung
 - Herbst
 - "2022"
-- Marktform
+- September
+
+tags:
+- Marktformen
 - Stakeholder
 - Projektberater
 - Effektiver Stundensatz
