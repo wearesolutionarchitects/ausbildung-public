@@ -1,9 +1,12 @@
 ---
-title: Sommer 2019
+# src/content/docs/01/01/2019-mai/README.md
+title: Mai 2019
 
 description: "Ganzheitliche Aufgabe II Kernqualifikationen"
 
 pubDate: 2019-05-19
+
+lastUpdated: 2025-03-22
 
 meta:
   - name: "description"
