@@ -2,6 +2,9 @@
 # src/content/docs/01/01/2019-mai/README.md
 title: Mai 2019
 
+sidebar:
+  badge: New
+
 description: "Ganzheitliche Aufgabe II Kernqualifikationen"
 
 pubDate: 2019-05-19
