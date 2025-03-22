@@ -39,7 +39,7 @@ tags:
   - RAM-Kompatibilität
   - Ratendarlehen
   - Schreibtischtest
-  - UML
+  - UML-Modellierung
   - Ökologische Aspekte
 ---
 
@@ -55,7 +55,7 @@ tags:
 
 ---
 
-## 1. Aufgabe
+## 1. Aufgabe 
 
 >26 Punkte
 
@@ -114,7 +114,7 @@ Anschluss an ein vom LAN der Institution getrenntes Datennetz:
 
 Sie erhalten vom Netzwerkadministrator der Identify OHG die folgenden Vorgaben für die Netzwerkkonfiguration des Präsentationsrechners. Die Adressvergabe soll statisch erfolgen, um eine spätere Fernwartung zu vereinfachen.
 
-Netzwerk: `192.168.20.0/24`  
+Netzwerk: `192.168.20.0/24`   
 DHCP-Range: `192.168.20.20 - 192.168.20.254`  
 Router: `192.168.20.1`
 
@@ -223,7 +223,7 @@ Erläutern Sie den wesentlichen Unterschied zwischen den beiden Übersetzungsart
 
 >5 Punkte
 
-Sie werden beauftragt, für die Schlüsselsystemsoftware ein UML-Anwendungsfalldiagramm (Use-Case) zu erstellen.
+Sie werden beauftragt, für die Schlüsselsystemsoftware ein UML-Anwendungsfalldiagramm (Use-Case) zu erstellen. 
 Die folgenden Anforderungen liegen vor:
 
 - Der Mitarbeiter kann Türen öffnen und Türen zuschließen. Dabei findet immer eine Berechtigungsprüfung statt.
@@ -242,8 +242,8 @@ Ergänzen Sie das gegebene UML-Anwendungsfalldiagramm.
 
 >6 Punkte
 
-Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erstelt.
-Diese übergibt eine Mitarbeiter-ID und eine Raumnummer, um abzufragen, ob für diesen Raum eine Zutritsberechtigung besteht.
+Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erstelt. 
+Diese übergibt eine Mitarbeiter-ID und eine Raumnummer, um abzufragen, ob für diesen Raum eine Zutritsberechtigung besteht. 
 **Ermitteln und begründen Sie den Rückgabewert, der bei Aufruf der Funktion mit id = 3 und romNr = 236 geliefert wird.**
 
 Hinweis:
@@ -289,7 +289,7 @@ Berechnen Sie die Gesamtkosten für die Schule über einen Zeitraum von fünf Ja
 
 ...
 
-## 3. Aufgabe
+## 3. Aufgabe 
 
 >24 Punkte
 
@@ -447,7 +447,7 @@ Nennen Sie zwei Maßnahmen, die das Unternehmen **den Mitarbeitern** beim Empfan
 
 ---
 
-## 4. Aufgabe
+## 4. Aufgabe 
 
 >26 Punkte
 
