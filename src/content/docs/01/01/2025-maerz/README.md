@@ -25,7 +25,7 @@ categories:
   - "2025"
 
 tags:
-  - künstliche Intelligenz
+  - Künstliche Intelligenz
   - Kl-gestützte Software
   - Netzwerküberwachung
   - Wartung

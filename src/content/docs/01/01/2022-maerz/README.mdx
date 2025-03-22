@@ -35,6 +35,7 @@ tags:
   - Leistungsangebote
   - logische Prozessoren
   - Mainboard
+  - OSI-Modell
   - Projektmachbarkeit
   - Präsentation
   - RAM

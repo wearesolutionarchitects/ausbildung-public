@@ -30,7 +30,6 @@ tags:
   - Cloud-Eigenschaften
   - Datenschutz
   - IT-Support
-  - IT-Systemhaus
   - Materialbeschaffung
   - Nachkalkulation
   - Netzwerkverkabelung
@@ -65,7 +64,9 @@ Sie sollen für die Netzwerkverkabelung des neuen Bürogebäudes das Material be
 
 Die Planung ergab, dass im Bürogebäude **2.300** Meter Netzwerkkabel verlegt werden müssen. Die Klübero GmbH rechnet mit 10 Prozent Verschnitt von der einzukaufenden Kabelmenge, welcher noch zusätzlich berücksichtigt werden muss.
 
-#### 1aa
+---
+
+#### 1aa Kalkulation
 
 > 2 Punkte
 
@@ -80,21 +81,23 @@ Vervollständigen Sie die folgende Tabelle:
 | Vormerkbestand für andere Projekte | - | 800 |
 | Für das Projekt verfügbare Menge | = | **1300** |
 
-#### 1ab
+---
+
+#### 1ab Materialbedarf
 
 Ermitteln Sie die Länge Netzwerkkabel in vollen Metern, die mindestens bestellt werden muss.  
 Der Rechenweg ist anzugeben.
 
 2300 - 1300 = 1000 + 200 = 1200 m
 
-#### 1ac)
+#### 1ac Warenannahme
 
 Sie sollen die Wareneingangskontrolle für die bestellten Materialien durchführen.  
 Nennen Sie eine Prüfung, die Sie vor Annahme der Waren durchführen müssen und beschreiben Sie zu dieser genannten Prüfung eine entsprechende Reaktion, wenn ein Mangel festgestellt wurde. (4 Punkte)
 
 ---
 
-### b)
+### 1b Nachkalkulation
 
 Die Klübero GmbH hat den Auftrag der Fidule GmbH erfolgreich abgeschlossen.  
 Sie sollen die Nachkalkulation durchführen und die Wirtschaftlichkeit prüfen.
@@ -127,31 +130,31 @@ Für die Nachkalkulation soll folgendes Schema verwendet werden (Auszug aus der 
 | Angebotspreis (brutto)     | 26.554,00          | 25.950,00             |
 | Wirtschaftlichkeit       | 1,10               | ?                     |
 
-#### ba)
+#### 1ba Selbstkosten
 
 Ermitteln Sie den IST-Aufwand (Selbstkosten).  
 Tragen Sie das Ergebnis in die Tabelle auf Seite 3 ein.  
 Der Rechenweg ist anzugeben. (4 Punkte)
 
-#### bb)
+#### 1bb Zahlungsbetrag
 
 Ermitteln Sie die im Zahlungsbetrag enthaltene Umsatzsteuer.  
 Tragen Sie das Ergebnis in die Tabelle auf Seite 3 ein.  
 Der Rechenweg ist anzugeben. (2 Punkte)
 
-#### bc)
+#### 1bc Barverkaufspreis
 
 Ermitteln Sie den Barverkaufspreis (netto).  
 Tragen Sie das Ergebnis in die Tabelle auf Seite 3 ein.  
 Der Rechenweg ist anzugeben. (2 Punkte)
 
-#### bd)
+#### 1bd Gewinn
 
 Ermitteln Sie den tatsächlich erzielten Gewinn (in EUR und in Prozent).  
 Tragen Sie das Ergebnis in die Tabelle auf Seite 3 ein.  
 Der Rechenweg ist anzugeben. (3 Punkte)
 
-#### be)
+#### 1be Wirtschaftlichkeit
 
 Ermitteln Sie die Wirtschaftlichkeit des Auftrags.  
 Tragen Sie das Ergebnis in die Tabelle auf Seite 3 ein.  
@@ -159,7 +162,7 @@ Der Rechenweg ist anzugeben. (2 Punkte)
 
 ---
 
-### c)
+### 1c Gewinnsteigerung
 
 Nennen Sie zwei Möglichkeiten, zukünftig den Gewinn zu erhöhen.  
 (2 Punkte)
@@ -168,12 +171,13 @@ Nennen Sie zwei Möglichkeiten, zukünftig den Gewinn zu erhöhen.
 
 ## 2. Handlungsschritt (25 Punkte)
 
-### a)
+### 2a
+
 Sie bieten der Fidule GmbH das Cloud-System „OpenStack Cloud“ an.
 
 Der folgende englische Ausgangstext (leicht abgeändert und ergänzt) beschreibt das Angebot:
 
-**Benefits of OpenStack Cloud**
+- **Benefits of OpenStack Cloud**
 
 1. **Maximum security**  
    OpenStack Cloud is an Infrastructure as a Service solution that couples the highest level of security with competitive pricing, hosted in Germany for compliance with ISO/IEC 27001 and ISO/IEC 27018, that satisfies the exacting compliance and regulatory standards that public sector and large enterprise customers have come to expect.
@@ -190,59 +194,71 @@ Der folgende englische Ausgangstext (leicht abgeändert und ergänzt) beschreibt
 5. **Instant provisioning of servers and storage**  
    Order, configure and deploy your infrastructure in minutes with our simple and intuitive online console. Manage your resources online and integrate them with your existing environments via a comprehensive set of APIs.
 
-_(Quelle: https://cloud.telekom.de/en/infrastructure/open-telekom-cloud/ – etwas abgeändert und ergänzt)_
+_(Quelle: <https://cloud.telekom.de/en/infrastructure/open-telekom-cloud/> – etwas abgeändert und ergänzt)_
 
 Bitte beantworten Sie folgende Fragen zu dieser Cloud in Deutsch:
 
-#### aa)
+#### 2aa
+
 In welchem Land werden die Daten gespeichert? (2 Punkte)
 
-#### ab)
+#### 2ab
+
 Benennen Sie die Cloud-Eigenschaft, die darauf hinweist, dass der Kunde eigene Anwendungen installieren kann. (2 Punkte)
 
-#### ac)
+#### 2ac
+
 Benennen Sie die Standards, die zugesichert werden. (2 Punkte)
 
-#### ad)
+#### 2ad
+
 Benennen Sie die Möglichkeiten, welche die OpenStack Architektur bietet. (2 Punkte)
 
-#### ae)
+#### 2ae
+
 Nennen Sie die Cloud-Ressourcen, welche entsprechend den Kundenanforderungen angepasst werden können. (2 Punkte)
 
-#### af)
+#### 2af
+
 Auf welche Art und Weise kann die Ressourcen-Verwaltung vorgenommen werden? (2 Punkte)
 
 ---
 
-### b)
+### 2b
+
 Die Klübero GmbH hat die auf Seite 7 abgebildete Ausgangsrechnung erstellt.
 
-#### ba)
+#### 2ba
+
 Geben Sie drei Rechnungsbestandteile in der Rechnung der Klübero GmbH an, die gesetzlich vorgeschrieben sind.  
 Die Nennung der Ziffern ist ausreichend. (3 Punkte)
 
-#### bb)
+#### 2bb
+
 Geben Sie drei Rechnungsbestandteile in der Rechnung der Klübero GmbH an, die gesetzlich nicht vorgeschrieben sind.  
 Die Nennung der Ziffern ist ausreichend. (3 Punkte)
 
 ---
 
-### c) Gesetzliche Aufbewahrungsfristen
+### 2c Gesetzliche Aufbewahrungsfristen
 
 Nach § 14b des Umsatzsteuergesetzes (UStG) besteht für eine Rechnung eine Aufbewahrungsfrist:  
 „Der Unternehmer hat ein Doppel der Rechnung, die er selbst […] ausgestellt hat, sowie alle Rechnungen, die er erhalten […] hat, zehn Jahre aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem Schluss des Kalenderjahres, in dem die Rechnung ausgestellt worden ist; …“
 
 Nennen Sie jeweils das Datum (TT.MM.JJJJ):
 
-#### ca)
+#### 2ca
+
 Ab welchem Datum wird die Aufbewahrungsfrist der Rechnung gerechnet? (2 Punkte)
 
-#### cb)
+#### 2cb
+
 Bis zu welchem Datum müssen die Klübero GmbH und die Fidule GmbH die Rechnung aufbewahren? (2 Punkte)
 
 ---
 
-### d)
+### 2d
+
 Die Klübero GmbH hat die in der Rechnung beschriebene Leistung (siehe nebenstehende Rechnung) für die Fidule GmbH erbracht.  
 Für die Rechnungserstellung gilt folgende Regelung:
 
@@ -251,4 +267,3 @@ Für die Rechnungserstellung gilt folgende Regelung:
 
 Ermitteln Sie das Datum, an dem die Klübero GmbH diese Rechnung spätestens hätte erstellen müssen.  
 (3 Punkte)
-

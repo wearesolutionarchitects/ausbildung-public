@@ -28,7 +28,7 @@ tags:
   - Kundenanfragen
   - Kundenanliegen
   - Kundenstörungen
-  - künstliche Intelligenz
+  - Künstliche Intelligenz
   - Meldung
   - Netzwerküberwachung
   - Sicherheit
