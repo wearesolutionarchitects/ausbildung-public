@@ -1,7 +1,10 @@
 ---
 title: Frühjahr 2025
+
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+
 pubDate: 2025-03-25
+
 meta:
   - name: "description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
@@ -13,22 +16,25 @@ meta:
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - http-equiv: "content-language"
     content: "de"
+
+categories:
+  - AP1
+  - Einrichtung
+  - März
+  - Frühjahr
+  - "2025"
+
 tags:
-- AP1
-- Einrichtung
-- März
-- Frühjahr
-- "2025"
-- künstliche Intelligenz
-- Kl-gestützte Software
-- Netzwerküberwachung
-- Wartung
-- Sicherheit
-- IT-Prozesse
-- Kundenanfragen
-- Kundenstörungen
-- Meldung
-- Kundenanliegen
+  - künstliche Intelligenz
+  - Kl-gestützte Software
+  - Netzwerküberwachung
+  - Wartung
+  - Sicherheit
+  - IT-Prozesse
+  - Kundenanfragungen
+  - Kundenstörungen
+  - Meldung
+  - Kundenanliegen
 
 ---
 
