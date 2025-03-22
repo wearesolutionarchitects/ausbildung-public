@@ -1,10 +1,14 @@
 // astro.config.mjs
 import { defineConfig } from 'astro/config';
+import { remarkReadingTime } from './remark-reading-time.mjs';
 import starlight from '@astrojs/starlight';
 import auth from 'auth-astro';
 import node from '@astrojs/node';
 
 export default defineConfig({
+    markdown: {
+        remarkPlugins: [remarkReadingTime],
+    },
     integrations: [
         starlight({
             head: [
