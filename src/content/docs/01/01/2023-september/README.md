@@ -291,7 +291,7 @@ Nennen Sie dazu zwei in Deutschland für den Datenschutz relevante gesetzliche G
 
 ---
 
-### 3b Technisch-organisatorische Maßnahmen (TOM) (TOM)
+### 3b Technisch-organisatorische Maßnahmen (TOM)
 
 >4 Punkte
 

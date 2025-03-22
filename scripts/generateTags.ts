@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 import path from 'path';
 
 async function collectTags() {
-  const files = await fg('src/content/docs/01/**/*.{md,mdx}', { absolute: true });
+  const files = await fg('src/content/docs/01/01/**/*.{md,mdx}', { absolute: true });
 
   const tags: Record<string, number> = {};
 
@@ -44,15 +44,19 @@ meta:
 `;
 
   let readmeContent = `${yamlHeader}
-## 📌 Tag-Übersicht
+## 📌 Themen-Übersicht
 
-| Tag | Häufigkeit |
+### AP 1
+
+| Thema | Häufigkeit |
 | ---- | ---- |
 `;
 
-  Object.entries(tags).forEach(([tag, count]) => {
-    readmeContent += `| ${tag} | ${count} |\n`;
-  });
+Object.entries(tags)
+.sort(([, a], [, b]) => b - a)
+.forEach(([tag, count]) => {
+  readmeContent += `| ${tag} | ${count} |\n`;
+});
 
   const targetPath = path.resolve(process.cwd(), 'src', 'content', 'docs', '00', '03', 'README.md');
 

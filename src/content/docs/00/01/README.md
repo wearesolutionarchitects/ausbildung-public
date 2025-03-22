@@ -150,7 +150,7 @@ AP1_Einrichten_eines_IT-gestützten_Arbeitsplatzes
 ├── 06_IT-Sicherheit_und_Datenschutz
 │   ├── 01_IT-Sicherheitsregelungen_und_Grundschutz
 │   │   ├── Verfuegbarkeit, Vertraulichkeit, Integritaet
-│   │   ├── Technisch-organisatorische Maßnahmen (TOM) (TOM)
+│   │   ├── Technisch-organisatorische Maßnahmen (TOM)
 │   │   └── IT-Sicherheitsrichtlinien (z. B. Passwort-Policy)
 │   ├── 02_Schutzbedarfsanalyse
 │   │   └── Analyse von Anwendungen, IT-Systemen, Infrastruktur und Kommunikationsverbindungen
