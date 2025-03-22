@@ -42,7 +42,7 @@ tags:
 - Ticket
 - Datenschutz
 - IT-Sicherheit
-- Technisch-organisatorische Maßnahmen
+- Technisch-organisatorische Maßnahmen (TOM)
 - TOM
 - Verschlüsselung
 ---
@@ -291,7 +291,7 @@ Nennen Sie dazu zwei in Deutschland für den Datenschutz relevante gesetzliche G
 
 ---
 
-### 3b Technisch-organisatorische Maßnahmen (TOM)
+### 3b Technisch-organisatorische Maßnahmen (TOM) (TOM)
 
 >4 Punkte
 

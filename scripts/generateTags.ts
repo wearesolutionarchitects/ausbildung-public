@@ -27,7 +27,7 @@ async function generateReadme() {
 
   const yamlHeader = `---
 title: Themen
-pubDate: 2025-03-07
+pubDate: 2025-03-22
 meta:
   - name: "description"
     content: "Themen"

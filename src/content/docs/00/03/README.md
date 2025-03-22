@@ -1,6 +1,6 @@
 ---
 title: Themen
-pubDate: 2025-03-07
+pubDate: 2025-03-22
 meta:
   - name: "description"
     content: "Themen"
@@ -19,39 +19,43 @@ meta:
 
 | Tag | Häufigkeit |
 | ---- | ---- |
-| 2019 | 1 |
-| 2021 | 2 |
-| 2022 | 7 |
-| 2023 | 10 |
-| 2024 | 8 |
+| 2021 | 1 |
+| 2022 | 5 |
+| 2023 | 8 |
+| 2024 | 7 |
 | 2025 | 1 |
-| AP1 | 16 |
-| Einrichtung | 16 |
+| AP1 | 9 |
+| Einrichtung | 10 |
 | AP2 | 16 |
 | Planung | 6 |
 | Entwicklung | 6 |
 | WiSo | 6 |
-| Ausbildung | 2 |
-| Abschlussprüfungen | 2 |
-| Projektarbeit | 2 |
-| Mai | 1 |
-| Prüfung | 1 |
-| Ganzheitliche Aufgabe | 1 |
-| Kernqualifikationen | 1 |
-| Sommer | 7 |
-| IT-Systemhaus | 1 |
-| IT-Support | 1 |
+| Ausbildung | 1 |
+| Abschlussprüfungen | 1 |
+| Projektarbeit | 1 |
+| IT-Prozesse | 2 |
+| Kl-gestützte Software | 2 |
+| Kundenanfragen | 2 |
+| Kundenanliegen | 2 |
+| Kundenstörungen | 2 |
+| künstliche Intelligenz | 2 |
+| Meldung | 2 |
+| Netzwerküberwachung | 2 |
+| Sicherheit | 2 |
+| Wartung | 2 |
+| Aufbewahrungsfristen | 1 |
 | Auftrag | 1 |
-| Netzwerkverkabelung | 1 |
+| Cloud-Eigenschaften | 1 |
+| Datenschutz | 7 |
+| IT-Support | 1 |
+| IT-Systemhaus | 1 |
 | Materialbeschaffung | 1 |
 | Nachkalkulation | 1 |
-| Wirtschaftlichkeit | 3 |
-| Cloud-Eigenschaften | 1 |
+| Netzwerkverkabelung | 1 |
 | Rechnungsbestandteile | 1 |
-| Aufbewahrungsfristen | 1 |
-| Datenschutz | 7 |
-| Herbst | 8 |
-| September | 4 |
+| Wirtschaftlichkeit | 3 |
+| Herbst | 4 |
+| September | 2 |
 | Zustandsdiagramm | 3 |
 | Anwendungsfalldiagramm | 4 |
 | OOP-Methoden | 2 |
@@ -63,8 +67,8 @@ meta:
 | Sensordaten | 2 |
 | Datenbank | 4 |
 | Zeiterfassung | 2 |
-| Frühjahr | 3 |
-| März | 5 |
+| Frühjahr | 2 |
+| März | 3 |
 | Projektmachbarkeit | 2 |
 | Präsentation | 2 |
 | Erstgespräch | 2 |
@@ -84,7 +88,7 @@ meta:
 | logische Prozessoren | 2 |
 | WLAN-Einrichtung | 2 |
 | WPA-Enterprise RADIUS | 2 |
-| Marktform | 2 |
+| Marktform | 1 |
 | Stakeholder | 2 |
 | Projektberater | 2 |
 | Effektiver Stundensatz | 2 |
@@ -96,6 +100,7 @@ meta:
 | SQL-Abfrage | 4 |
 | Struktogramm | 2 |
 | ERM | 2 |
+| Marktformen | 1 |
 | IT-Sicherheit | 4 |
 | KI | 2 |
 | Schadensabwicklung | 2 |
@@ -125,9 +130,10 @@ meta:
 | Anzahl | 2 |
 | Kunden | 2 |
 | Ticket | 2 |
-| Technisch-organisatorische Maßnahmen | 2 |
-| TOM | 2 |
+| Technisch-organisatorische Maßnahmen (TOM) | 1 |
+| TOM | 1 |
 | Verschlüsselung | 2 |
+| Technisch-organisatorische Maßnahmen (TOM) (TOM) | 1 |
 | OSI-Modell | 2 |
 | Netzwerk | 2 |
 | Kaufvertrag | 2 |
@@ -152,19 +158,11 @@ meta:
 | Lasten- und Pflichtenheft | 2 |
 | Datenmodell | 2 |
 | Ökologische Aspekte | 2 |
-| künstliche Intelligenz | 1 |
-| Kl-gestützte Software | 1 |
-| Netzwerküberwachung | 1 |
-| Wartung | 1 |
-| Sicherheit | 1 |
-| IT-Prozesse | 1 |
-| Kundenanfragen | 1 |
-| Kundenstörungen | 1 |
-| Meldung | 1 |
-| Kundenanliegen | 1 |
+| Schreibtischtest | 1 |
 | November | 9 |
 | Winter | 9 |
 | April | 4 |
+| Sommer | 6 |
 | Klassendiagramm | 1 |
 | Entwurfsmuster | 1 |
 | Vorgehensmodelle | 1 |

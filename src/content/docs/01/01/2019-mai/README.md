@@ -1,36 +1,41 @@
 ---
 title: Sommer 2019
+
 description: "Ganzheitliche Aufgabe II Kernqualifikationen"
+
 pubDate: 2019-05-19
+
 meta:
   - name: "description"
     content: "Ganzheitliche Aufgabe II Kernqualifikationen"
   - name: "author"
-    content: "Heiko Fanieng"
+    content: "ZPA Nord-West"
   - property: "og:title"
     content: "Prüfungen"
   - property: "og:description"
     content: "Ganzheitliche Aufgabe II Kernqualifikationen"
   - http-equiv: "content-language"
     content: "de"
-tags:
+
+categories:
   - "2019"
   - Mai
-  - Prüfung
-  - Ganzheitliche Aufgabe
-  - Kernqualifikationen
-  - Sommer
-  - IT-Systemhaus
-  - IT-Support
+  - AP1
+  - Einrichtung
+  - Frühjahr
+
+tags:
+  - Aufbewahrungsfristen
   - Auftrag
-  - Netzwerkverkabelung
+  - Cloud-Eigenschaften
+  - Datenschutz
+  - IT-Support
+  - IT-Systemhaus
   - Materialbeschaffung
   - Nachkalkulation
-  - Wirtschaftlichkeit
-  - Cloud-Eigenschaften
+  - Netzwerkverkabelung
   - Rechnungsbestandteile
-  - Aufbewahrungsfristen
-  - Datenschutz
+  - Wirtschaftlichkeit
 ---
 
 ## Situation
