@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 import path from 'path';
 
 async function collectTags() {
-  const files = await fg('src/**/*.{md,mdx}', { absolute: true });
+  const files = await fg('src/content/docs/01/**/*.{md,mdx}', { absolute: true });
 
   const tags: Record<string, number> = {};
 

@@ -37,8 +37,6 @@ export default defineConfig({
                         {
                             label: 'AP1 Einrichtung',
                             items: [
-                                // { label: 'Ablauf', link: '/01/readme' },
-                                { label: 'Themen', link: '/01/01/readme' },
                                 { label: 'März 2025', link: '/01/01/2025-maerz/readme' },
                                 { label: 'September 2024', link: '/01/01/2024-september/readme' },
                                 { label: 'März 2024', link: '/01/01/2024-maerz/readme' },

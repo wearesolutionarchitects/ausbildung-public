@@ -1,39 +1,46 @@
 ---
 title: Herbst 2024
+
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+
 pubDate: 2024-09-17
+
 meta:
   - name: "description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - name: "author"
-    content: "Heiko Fanieng"
+    content: "ZPA Nord-West"
   - property: "og:title"
     content: "Prüfungen"
   - property: "og:description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - http-equiv: "content-language"
-    content: "de"
+    content: "de"  
+
+categories:
+  - AP1
+  - Einrichtung
+  - Herbst
+  - September
+  - "2024"
+
 tags:
-- AP1
-- Einrichtung
-- Herbst
-- September
-- "2024"
-- IT-Grundschutz
-- Netzwerkkonfiguration
-- UML
-- Anwendungsfall-Diagramm
-- Array
-- Pseudocode
-- Gesamtkosten
-- Netto- und Bruttopreis
-- Ratendarlehen
-- RAM-Kompatibilität
-- Phishing
-- Lasten- und Pflichtenheft
-- Datenmodell
-- Leasing
-- Ökologische Aspekte
+  - Anwendungsfall-Diagramm
+  - Array
+  - Datenmodell
+  - Gesamtkosten
+  - IT-Grundschutz
+  - Lasten- und Pflichtenheft
+  - Leasing
+  - Netto- und Bruttopreis
+  - Netzwerkkonfiguration
+  - Phishing
+  - Pseudocode
+  - RAM-Kompatibilität
+  - Ratendarlehen
+  - Schreibtischtest
+  - UML
+  - Ökologische Aspekte
 ---
 
 ## Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
@@ -48,7 +55,9 @@ tags:
 
 ---
 
-## 1. Aufgabe (26 Punkte)
+## 1. Aufgabe 
+
+>26 Punkte
 
 Zur Vorbereitung der Absicherung eines Besprechungsraums informieren Sie sich u. a. über Maßnahmen aus dem BSI IT-Grund-schutz-Kompendium und wirken an der Umsetzung mit.
 
@@ -103,12 +112,11 @@ Anschluss an ein vom LAN der Institution getrenntes Datennetz:
 
 >3 Punkte
 
-Sie erhalten vom Netzwerkadministrator der Identify OHG die folgenden Vorgaben für die Netzwerkkonfiguration des Präsenta-
-tionsrechners. Die Adressvergabe soll statisch erfolgen, um eine spätere Fernwartung zu vereinfachen.
+Sie erhalten vom Netzwerkadministrator der Identify OHG die folgenden Vorgaben für die Netzwerkkonfiguration des Präsentationsrechners. Die Adressvergabe soll statisch erfolgen, um eine spätere Fernwartung zu vereinfachen.
 
-Netzwerk: 192.168.20.0/24
-DHCP-Range: 192.168.20.20 - 192.168.20.254
-Router: 192.168.20.1
+Netzwerk: `192.168.20.0/24`   
+DHCP-Range: `192.168.20.20 - 192.168.20.254`  
+Router: `192.168.20.1`
 
 ---
 
@@ -215,7 +223,8 @@ Erläutern Sie den wesentlichen Unterschied zwischen den beiden Übersetzungsart
 
 >5 Punkte
 
-Sie werden beauftragt, für die Schlüsselsystemsoftware ein UML-Anwendungsfaldiagramm (Use-Case) zu erstellen. Die folgenden Anforderungen liegen vor:
+Sie werden beauftragt, für die Schlüsselsystemsoftware ein UML-Anwendungsfalldiagramm (Use-Case) zu erstellen. 
+Die folgenden Anforderungen liegen vor:
 
 - Der Mitarbeiter kann Türen öffnen und Türen zuschließen. Dabei findet immer eine Berechtigungsprüfung statt.
 - Der Administrator kann alles, was ein Mitarbeiter kann. Zusätzlich kann er die Türschlösser programmieren. Dabei findet
@@ -233,10 +242,12 @@ Ergänzen Sie das gegebene UML-Anwendungsfalldiagramm.
 
 >6 Punkte
 
-Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erstelt. Diese übergibt eine Mitarbeiter-ID und eine Raumnummer, um abzufragen, ob für diesen Raum eine Zutritsberechtigung besteht. Ermitteln und begründen Sie den Rückgabewert, der bei Aufruf der Funktion mit id = 3 und romNr = 236 geliefert wird.
+Ihr Kollege hat gerade die Methode bool checkAuthority (int id, int roomNr) erstelt. 
+Diese übergibt eine Mitarbeiter-ID und eine Raumnummer, um abzufragen, ob für diesen Raum eine Zutritsberechtigung besteht. 
+**Ermitteln und begründen Sie den Rückgabewert, der bei Aufruf der Funktion mit id = 3 und romNr = 236 geliefert wird.**
 
 Hinweis:
-Die Funktion greift auf ein globales zweidimensionales Array keyData [][] zu. In der ersten Spalte steht die Mitarbeiter-ID. Die
+Die Funktion greift auf ein globales zweidimensionales Array keyData [] zu. In der ersten Spalte steht die Mitarbeiter-ID. Die
 folgenden Spalten enthalten die Räume, für die eine Zutrittsberechtigung besteht. Der Zeilen- und Spaltenindex beginnt bei O.
 Es gibt **keine Kopfzeile** im Array, sie dient nur zur Erläuterung.
 
@@ -278,7 +289,9 @@ Berechnen Sie die Gesamtkosten für die Schule über einen Zeitraum von fünf Ja
 
 ...
 
-## 3. Aufgabe (24 Punkte)
+## 3. Aufgabe 
+
+>24 Punkte
 
 Die Identify OHG möchte Computer kaufen und Sie begleiten den Beschafungsprozess. Ferner soll der Arbeitsspeicher bestehender Laptops erweitert werden.
 
@@ -434,7 +447,9 @@ Nennen Sie zwei Maßnahmen, die das Unternehmen **den Mitarbeitern** beim Empfan
 
 ---
 
-## 4. Aufgabe (26 Punkte)
+## 4. Aufgabe 
+
+>26 Punkte
 
 ### 4a Lasten- und Pflichtenheft
 
