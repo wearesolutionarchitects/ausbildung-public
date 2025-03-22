@@ -5,6 +5,8 @@ description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwick
 
 pubDate: 2024-09-17
 
+lastUpdated: 2025-03-22
+
 meta:
   - name: "description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"

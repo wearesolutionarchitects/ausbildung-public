@@ -1,9 +1,13 @@
 ---
+# src/content/docs/01/01/2025-maerz/README.md
+
 title: Frühjahr 2025
 
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
 
 pubDate: 2025-03-25
+
+lastUpdated: 2025-03-22
 
 meta:
   - name: "description"

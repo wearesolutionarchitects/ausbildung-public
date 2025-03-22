@@ -1,0 +1,13 @@
+---
+const { frontmatter, readingTime } = Astro.props;
+---
+<article class="prose mx-auto">
+  <header class="mb-6">
+    <h1 class="text-3xl font-bold">{frontmatter.title}</h1>
+    <p class="text-sm text-gray-500">
+      Lesezeit: {readingTime.text} • {frontmatter.date}
+    </p>
+  </header>
+
+  <slot />
+</article>
