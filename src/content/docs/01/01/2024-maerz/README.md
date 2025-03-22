@@ -1,35 +1,43 @@
 ---
 title: Frühjahr 2024
+
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+
 pubDate: 2024-02-28
+
 meta:
   - name: "description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - name: "author"
-    content: "Heiko Fanieng"
+    content: "ZPA Nord-West"
   - property: "og:title"
     content: "Prüfungen"
   - property: "og:description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - http-equiv: "content-language"
     content: "de"
-tags:
+
+categories:
 - AP1
 - Einrichtung
-- OSI-Modell
-- Netzwerk
-- Kaufvertrag
-- Malware
-- Datenschutz
-- VPN
-- Datenübertragung
-- Stromkosten
-- Dateiformate
+- "2024"
+- Frühjahr
+
+tags:
 - CAD
-- Netzteil
-- Kundenzufriedenheit
+- Dateiformate
+- Datenschutz
+- Datenübertragung
+- Kaufvertrag
 - Kaufvertragstörungen
+- Kundenzufriedenheit
 - Maßnahmen
+- Malware
+- Netzwerk
+- Netzteil
+- OSI-Modell
+- Stromkosten
+- VPN
 
 ---
 

@@ -1,7 +1,10 @@
 ---
 title: Herbst 2023
+
 description: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
+
 pubDate: 2023-09-19
+
 meta:
   - name: "description"
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
@@ -13,38 +16,40 @@ meta:
     content: "Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung"
   - http-equiv: "content-language"
     content: "de"
-tags:
+
+categories:
 - AP1
 - Einrichtung
-- Herbst
 - "2023"
-- UML
+- September
+- Herbst
+
+tags:
 - Anwendungsfalldiagramm
-- Kritikpunkte
-- Maßnahmen
-- Servicequalität
-- Kommunikationsmodelle
-- Vier-Ohren-Modell
-- Telearbeit
-- Ergonomie
-- Preiskalkulation
-- Service-Pricing
-- VPN
-- Ticketsystem
-- Projektmanagement
-- Gantt-Diagramm
-- Netzplan
-- ERD
-- SQL-Abfrage
-- Priorität
 - Anzahl
-- Kunden
-- Ticket
 - Datenschutz
+- ERD
+- Ergonomie
+- Gantt-Diagramm
 - IT-Sicherheit
+- Kommunikationsmodelle
+- Kritikpunkte
+- Kunden
+- Maßnahmen
+- Netzplan
+- Preiskalkulation
+- Priorität
+- Projektmanagement
+- Service-Pricing
+- Servicequalität
+- SQL-Abfrage
+- Ticketsystem
 - Technisch-organisatorische Maßnahmen (TOM)
-- TOM
+- Telearbeit
+- UML
+- VPN
 - Verschlüsselung
+- Vier-Ohren-Modell
 ---
 
 ## Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
@@ -53,7 +58,7 @@ tags:
 
 ## Situation
 
->Sie absolvieren Ihre Ausbildung bei der Optisoft-XXL GmbH. Diese hat sich als Systemhaus darauf spezialisiert, Software üfr Handwerksbetriebe herzustellen und anzupassen. Die Geschäftsleitung legt großen Wert auf eine umfassende Kundenbetreuung. Bisher beschränkte sich diese im Wesentlichen auf die üblichen Öfnungszeiten des Unternehmens. Zur Verbeserung der Konkurenzfähigkeit soll ein 24/7-Service als eigene Abteilung mit passenden PC-Arbeitsplätzen eingerichtet werden.
+>Sie absolvieren Ihre Ausbildung bei der Optisoft-XXL GmbH. Diese hat sich als Systemhaus darauf spezialisiert, Software üfr Handwerksbetriebe herzustellen und anzupassen. Die Geschäftsleitung legt großen Wert auf eine umfassende Kundenbetreuung. Bisher beschränkte sich diese im Wesentlichen auf die üblichen Öfnungszeiten des Unternehmens. Zur Verbeserung der Konkurenzfähigkeit soll ein **24/7-Service** als eigene Abteilung mit passenden PC-Arbeitsplätzen eingerichtet werden.
 
 ---
 
