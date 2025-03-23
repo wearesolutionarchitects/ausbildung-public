@@ -1,3 +1,0 @@
-# Seite Aufgabe
-
-...
