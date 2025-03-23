@@ -100,9 +100,9 @@ zu anderen Abteilungen oder Systemen.
 Datenschutz: Die Software muss lokal speichern und den Anforderungen der DSGVO
 entsprechen.
 
-3.  PROJEKTSTRUKTURPLAN ENTWICKELN
+## 3.  PROJEKTSTRUKTURPLAN ENTWICKELN
 
-3.1 WAS IST ZUR ERFÜLLUNG DER ZIELSETZUNG ERFORDERLICH?
+### 3.1 WAS IST ZUR ERFÜLLUNG DER ZIELSETZUNG ERFORDERLICH?
 
 Das Projekt wird in einem agilen Ansatz umgesetzt, um flexibel auf Anforderungen und
 Änderungen reagieren zu können. Durch regelmäßiges Feedback der zukünftigen Nutzer
@@ -256,9 +256,3 @@ Erstellung eines Testprotokolls zur Dokumentation der durchgeführten Tests
 2 h
 
 2h
-
-Seite 4 von 5
-
-Seite 5 von 5
-
-

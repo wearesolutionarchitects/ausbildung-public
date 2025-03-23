@@ -1,6 +1,8 @@
 ---
 title: Teil 2 der gestreckten Abschlussprüfung
+
 pubDate: 2025-03-14
+
 meta:
   - name: "description"
     content: "Teil 2 der gestreckten Abschlussprüfung"
@@ -12,6 +14,7 @@ meta:
     content: "Teil 2 der gestreckten Abschlussprüfung"
   - http-equiv: "content-language"
     content: "de"
+
 tags:
 - AP2
 - Planung
