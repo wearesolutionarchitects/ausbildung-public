@@ -7,7 +7,7 @@ von DSGVO und Softwarequalitätsstandards für den Zeitraum 01.03.2025 -25.04.20
 
 ### 1.1. KURZFORM DER AUFGABENERSTELLUNG
 
-Für die Backhaus IT soll die Erfassung von Arbeitszeiten, insbesondere für remote arbeitende
+Für die SolArcs GmbH soll die Erfassung von Arbeitszeiten, insbesondere für remote arbeitende
 Mitarbeiter, durch eine lokale Softwarelösung erleichtert werden. Ziel ist es, die manuelle
 Zeiterfassung zu ersetzen und eine benutzerfreundliche Anwendung zu entwickeln, die
 Arbeitszeiten effizient dokumentiert, speichert und auswertet. Hierzu soll eine
@@ -16,7 +16,7 @@ der Mitarbeiter genutzt werden kann.
 
 ### 1.2. IST-ANALYSE
 
-Die Mitarbeiter der Backhaus IT arbeiten größtenteils im Homeoffice und erfassen ihre
+Die Mitarbeiter der SolArcs arbeiten größtenteils im Homeoffice und erfassen ihre
 Arbeitszeiten individuell. Derzeit geschieht dies manuell, zum Beispiel auf Papier, in Tabellen
 oder über verschiedene externe Tools. Dadurch treten immer wieder Probleme auf: Die
 erfassten Zeiten sind oft fehlerhaft und nicht einheitlich, was es schwierig macht, sie
@@ -31,16 +31,13 @@ einheitliche Erfassung der Arbeitszeiten
 ### 2.1 WAS SOLL AM ENDE DES PROJEKTES ERREICHT SEIN?
 
 Ziel des Projekts ist die Entwicklung einer benutzerfreundlichen Zeiterfassungssoftware für die
-Backhaus IT. Die Anwendung wird lokal auf den Geräten der Mitarbeiter installiert und
+SolArcs GmbH. Die Anwendung wird lokal auf den Geräten der Mitarbeiter installiert und
 plattformunabhängig entwickelt, sodass sie problemlos auf Windows, MacOS und Linux
 genutzt werden kann.
 
 Die Software soll den Arbeitsalltag vereinfachen, indem Arbeitszeiten, Pausen und
 Überstunden schnell und fehlerfrei erfasst werden können. Durch eine intuitive
-
-
-
-Benutzeroberfläche wird sichergestellt, dass die Bedienung auch ohne lange Einarbeitung
+Benutzeroberfläche wird sichergestellt, dass die Bedienung auch ohne lange Einarbeitung
 möglich ist. Arbeitszeiten und Pausenzeiten werden automatisch berechnet, wodurch Fehler
 und manuelle Nacharbeit vermieden werden. Zusätzlich werden die Daten in einem
 einheitlichen Format gespeichert, sodass Berichte und Statistiken, wie etwa
