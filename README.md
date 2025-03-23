@@ -28,6 +28,10 @@ tags:
 
 🎯 Lass uns gemeinsam die Prüfung meistern – Schritt für Schritt! Viel Erfolg und viel Spaß beim Lernen! 💡✨
 
+## Statisiken / Beitragende
+
+![Alt](https://repobeats.axiom.co/api/embed/63ec757c356d967afb048edc636e171a94f369f6.svg "Repobeats analytics image")
+
 ## Ausbildung Fachinformatiker:in Anwendungsentwicklung
 
 ### Inhaltsverzeichnis
