@@ -1,0 +1,50 @@
+name: "Prüfungsaufgabe"
+title: "[Themenbereich]: "
+description: "Ein einfaches Issue-Template für die Erstellung einer Prüfungsaufgabe zur AP 2"
+labels: ["AP2", "Einrichtung", "Prüfungen"]
+assignees: []
+
+body:
+  - type: dropdown
+    id: themenbereich
+    attributes:
+      label: "Auswahl des Themenbereichs für die Prüfungsaufgabe"
+      description: "Bitte den passenden Themenbereich für die Prüfungsaufgabe auswählen."
+      options:
+        - "01: Informieren und Beraten von Kunden und Kundinnen (§ 4 Abs. 2 Nr. 2)"
+        - "02: Entwickeln, Erstellen und Betreuen von IT-Lösungen (§ 4 Abs. 2 Nr. 4)"
+        - "03: Durchführen und Dokumentieren von qualitätssichernden Maßnahmen (§ 4 Abs. 2 Nr. 5)"
+        - "04: Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz (§ 4 Abs. 2 Nr. 6)"
+        - "05: Betreiben von IT-Systemen (§ 4 Abs. 2 Nr. 8)"
+        - "06: Inbetriebnehmen von Speicherlösungen (§ 4 Abs. 2 Nr. 9)"
+        - "07: Programmieren von Softwarelösungen (§ 4 Abs. 2 Nr. 10)"
+        - "08: Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen (§ 4 Abs. 3 Nr. 1)"
+        - "09: Sicherstellen der Qualität von Softwareanwendungen (§ 4 Abs. 3 Nr. 2)"
+        - "WISO 01: Berufsausbildung sowie Arbeits- und Tarifrecht (§ 4 Abs. 3 Nr. 1)"
+        - "WISO 02: Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Abs. 3 Nr. 2)"
+        - "WISO 03: Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Abs. 3 Nr. 3)"
+        - "WISO 04: Umweltschutz (§ 4 Abs. 3 Nr. 4)"
+        - "WISO 05: Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien (§ 4 Abs. 3 Nr. 5)"
+  - type: textarea
+    id: aufgabe
+    attributes:
+      label: "## Aufgabe"
+      description: "Bitte die Aufgabe im Markdown-Format eintragen."
+      placeholder: |
+        ### [Subthema/Titel der Prüfungsaufgabe]
+        
+        **Beschreibung:**
+        - Was soll gelöst werden?
+        - Was ist die Ausgangslage?
+        
+        **Vorgaben:**
+        - Zeitrahmen, erwartete Ergebnisse, etc.
+  - type: textarea
+    id: loesung
+    attributes:
+      label: "## Lösung"
+      description: "Bitte die Lösung im Markdown-Format eintragen."
+      placeholder: |
+        ### Mögliche Lösung / Musterlösung
+        
+        - Beschreibung, Code, Testfälle, etc.      
