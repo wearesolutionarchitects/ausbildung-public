@@ -105,7 +105,10 @@ export default defineConfig({
                 },
                 {
                     label: '04 Praktikum',
-                    items: [{ label: 'Übersicht', link: '/04/readme' }]
+                    items: [
+                        { label: 'Java', link: '/04/01/readme' },
+                        { label: 'JavaScript', link: '/04/01/readme' }
+                    ]
                 },
                 {
                     label: '05 Gesetzliche Grundlagen',
