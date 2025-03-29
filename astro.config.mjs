@@ -127,7 +127,10 @@ export default defineConfig({
                 }
             ]
         }),
-        auth()
+        auth(),
+        sitemap({
+            // Beliebige Plugin-Optionen hier
+          }),
     ],
     adapter: node({
         mode: 'standalone'
