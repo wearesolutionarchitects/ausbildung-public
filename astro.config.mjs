@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import { remarkReadingTime } from './remark-reading-time.mjs';
 import starlight from '@astrojs/starlight';
+import sitemap from '@astrojs/sitemap';
 import auth from 'auth-astro';
 import node from '@astrojs/node';
 
@@ -9,6 +10,7 @@ export default defineConfig({
     markdown: {
         remarkPlugins: [remarkReadingTime],
     },
+    site: 'https://www.ausbildung.fanieng.com',
     integrations: [
         starlight({
             head: [
