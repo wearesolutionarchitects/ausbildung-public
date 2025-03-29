@@ -85,7 +85,9 @@ export default defineConfig({
                                         { label: 'April 2023', link: '/01/02/03/2023-april/readme' },
                                         { label: 'November 2022', link: '/01/02/03/2022-november/readme' }
                                     ]
-                                }
+                                },
+                                { 
+                                    label: '04 Lernplan', link: '/01/02/04/readme' }
                             ]
                         }
                     ]
