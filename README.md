@@ -15,9 +15,13 @@ tags:
 
 🚀 Hier findest du eine strukturierte Übersicht über die Meilensteine innerhalb der Ausbildung – von den schriftlichen Prüfungen bis zur Projektarbeit.
 
-📌 Neu: Du kannst jetzt direkt über die Links auf vergangene AP1-Prüfungen zugreifen und gezielt die relevanten Inhalte durchstöbern.
+📌 Neu: Du kannst jetzt direkt über die Links auf vergangene Prüfungen zugreifen und gezielt die relevanten Themen durchstöbern. Dabei kannst Du Dir einen Überblick verschaffen, wie die Punkteverteilung zu den Themenkomplexen war.
 
-- [ ] März 2025 (ab 26.03.2025)
+---
+
+## Teil 1 der gestreckten Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
+
+- [ ] [März 2025](/src/content/docs/01/01/2025-maerz/README.mdx)
 - [ ] [September 2024](/src/content/docs/01/01/2024-september/README.mdx)
 - [ ] [März 2024](/src/content/docs/01/01/2024-maerz/README.mdx)
 - [ ] [September 2023](src/content/docs/01/01/2023-september/README.mdx)
@@ -25,6 +29,12 @@ tags:
 - [ ] [September 2022](/src/content/docs/01/01/2022-september/README.mdx)
 - [ ] [März 2022](/src/content/docs/01/01/2022-maerz/README.md)
 - [ ] [September 2021](/src/content/docs/01/01/2021-september/README.mdx)
+
+---
+
+## Teil 2 der gestreckten Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
+
+---
 
 🎯 Lass uns gemeinsam die Prüfung meistern – Schritt für Schritt! Viel Erfolg und viel Spaß beim Lernen! 💡✨
 
@@ -110,7 +120,7 @@ Nach Abschluss der Ausbildung zum Fachinformatiker:in Anwendungsentwicklung steh
 Die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung bietet dir vielfältige berufliche Perspektiven in der IT-Branche. Mit einem anerkannten Berufsabschluss und guten Kenntnissen in den Bereichen Informatik, Programmierung und Softwareentwicklung stehen dir zahlreiche Weiterbildungsmöglichkeiten offen. Wenn du Interesse an der Entwicklung von Softwarelösungen hast und gerne im Team arbeitest, ist die Ausbildung zum Fachinformatiker:in Anwendungsentwicklung genau das Richtige für dich.
 
 ---
-[Meilensteine](docs/01/README.md)
+[Meilensteine](https://github.com/wearesolutionarchitects/ausbildung-public/milestones)
 
 ---
 
