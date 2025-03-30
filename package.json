@@ -16,7 +16,9 @@
     "@auth/core": "^0.37.4",
     "astro": "^5.5.3",
     "auth-astro": "^4.2.0",
+    "dotenv": "^16.4.7",
     "mdast-util-to-string": "^4.0.0",
+    "node-fetch": "^3.3.2",
     "reading-time": "^1.5.0",
     "sharp": "^0.32.5"
   },
