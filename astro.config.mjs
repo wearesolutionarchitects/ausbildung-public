@@ -61,31 +61,31 @@ export default defineConfig({
                                 {
                                     label: '01 Planung ',
                                     items: [
-                                        { label: 'November 2024', link: '/01/02/01/2024-november/readme' },
-                                        { label: 'April 2024', link: '/01/02/01/2024-april/readme' },
+                                        { label: 'November 2024', link: '/01/02/01/2024-november/readme' }
+                                        /* { label: 'April 2024', link: '/01/02/01/2024-april/readme' },
                                         { label: 'November 2023', link: '/01/02/01/2023-november/readme' },
                                         { label: 'April 2023', link: '/01/02/01/2023-april/readme' },
-                                        { label: 'November 2022', link: '/01/02/01/2022-november/readme' }
+                                        { label: 'November 2022', link: '/01/02/01/2022-november/readme' } */
                                     ]
                                 },
                                 {
                                     label: '02 Entwicklung und Umsetzung',
                                     items: [
-                                        { label: 'November 2024', link: '/01/02/02/2024-november/readme' },
-                                        { label: 'April 2024', link: '/01/02/02/2024-april/readme' },
+                                        { label: 'November 2024', link: '/01/02/02/2024-november/readme' }
+                                        /* { label: 'April 2024', link: '/01/02/02/2024-april/readme' },
                                         { label: 'November 2023', link: '/01/02/02/2023-november/readme' },
                                         { label: 'April 2023', link: '/01/02/02/2023-april/readme' },
-                                        { label: 'November 2022', link: '/01/02/02/2022-november/readme' }
+                                        { label: 'November 2022', link: '/01/02/02/2022-november/readme' } */
                                     ]
                                 },
                                 {
                                     label: '03 Wirtschafts- und Sozialkunde',
                                     items: [
-                                        { label: 'November 2024', link: '/01/02/03/2024-november/readme' },
-                                        { label: 'April 2024', link: '/01/02/03/2024-april/readme' },
+                                        { label: 'November 2024', link: '/01/02/03/2024-november/readme' }
+                                        /* { label: 'April 2024', link: '/01/02/03/2024-april/readme' },
                                         { label: 'November 2023', link: '/01/02/03/2023-november/readme' },
                                         { label: 'April 2023', link: '/01/02/03/2023-april/readme' },
-                                        { label: 'November 2022', link: '/01/02/03/2022-november/readme' }
+                                        { label: 'November 2022', link: '/01/02/03/2022-november/readme' } */
                                     ]
                                 },
                                 { 
