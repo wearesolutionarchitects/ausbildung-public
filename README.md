@@ -9,6 +9,10 @@ tags:
   - Projektarbeit
 ---
 
+## Entwicklung
+
+Für lokale Entwicklung/Build wird Node.js 22 LTS erwartet (siehe `.nvmrc`).
+
 ## Willkommen / your welcome
 
 🔹 Willkommen im Repository zur Prüfungsvorbereitung! 🔹
