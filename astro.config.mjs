@@ -18,13 +18,13 @@ export default defineConfig({
                 { tag: 'meta', attrs: { name: 'viewport', content: 'width=device-width, initial-scale=1' } }
             ],
             title: 'Ausbildung',
-            social: {
-                github: 'https://github.com/wearesolutionarchitects',
-                discord: 'https://discord.gg/GEdQ3xg6t6',
-                linkedin: 'https://www.linkedin.com/in/hfanieng/',
-                twitch: 'https://www.twitch.tv/mysteryland1909',
-                youtube: 'http://www.youtube.com/@mysterylanddotbiz'
-            },
+            social: [
+                { icon: 'github', label: 'GitHub', href: 'https://github.com/wearesolutionarchitects' },
+                { icon: 'discord', label: 'Discord', href: 'https://discord.gg/GEdQ3xg6t6' },
+                { icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/in/hfanieng/' },
+                { icon: 'twitch', label: 'Twitch', href: 'https://www.twitch.tv/mysteryland1909' },
+                { icon: 'youtube', label: 'YouTube', href: 'http://www.youtube.com/@mysterylanddotbiz' },
+            ],
             logo: {
                 src: './src/assets/logo.png'
             },
