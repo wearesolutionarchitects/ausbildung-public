@@ -1,3 +1,0 @@
-# Anschuldigungen
-
-![Anschuldigung](image.png)
