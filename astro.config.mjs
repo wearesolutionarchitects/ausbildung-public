@@ -102,12 +102,11 @@ export default defineConfig({
                     items: [
                         { label: 'Was ist ein Projekt', link: '/03/01/readme' },
                         { label: 'Formale Vorgaben', link: '/03/02/readme' },
-                        { label: 'Thema', link: '/03/03/readme' },
-                        { label: 'Der Projektantrag', link: '/03/04/readme' },
-                        { label: 'Ausarbeitung', link: '/03/05/readme' },
-                        { label: 'Erfahrung aus der Praxis', link: '/03/06/readme' },
-                        { label: 'Abschluss', link: '/03/07/readme' },
-                        { label: 'Bewertung', link: '/03/08/readme' }
+                        { label: 'Projektantrag', link: '/03/03/readme' },
+                        { label: 'Projektdokumentation', link: '/03/04/readme' },
+                        { label: 'Projektpräsentation', link: '/03/05/readme' },
+                        { label: 'Fachgespräch', link: '/03/06/readme' },
+                        { label: 'Bewertung', link: '/03/07/readme' }
                     ]
                 },
                 {
