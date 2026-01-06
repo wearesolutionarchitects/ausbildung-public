@@ -1,9 +1,9 @@
 ---
 # src/content/docs/01/01/2025-maerz/ki-notizen.md
 
-title: "Frhjahr 2025 (Notizen)"
+title: "Frühjahr 2025 (Notizen)"
 
-description: "Ergnzende Notizen/Entwrfe (KI/EPK)"
+description: "Ergänzende Notizen/Entwürfe (KI/EPK)"
 
 pubDate: 2025-03-25
 
@@ -11,58 +11,58 @@ lastUpdated: 2025-03-22
 
 meta:
   - name: "description"
-    content: "Ergnzende Notizen/Entwrfe (KI/EPK)"
+    content: "Ergänzende Notizen/Entwürfe (KI/EPK)"
   - name: "author"
     content: "Heiko Fanieng"
   - property: "og:title"
-    content: "Prfungen"
+    content: "Prüfungen"
   - property: "og:description"
-    content: "Ergnzende Notizen/Entwrfe (KI/EPK)"
+    content: "Ergänzende Notizen/Entwürfe (KI/EPK)"
   - http-equiv: "content-language"
     content: "de"
 
 categories:
   - AP1
   - Einrichtung
-  - Mrz
-  - Frhjahr
+  - März
+  - Frühjahr
   - "2025"
 
 tags:
-  - Knstliche Intelligenz
-  - Kl-gesttzte Software
-  - Netzwerkberwachung
+  - Künstliche Intelligenz
+  - KI-gestützte Software
+  - Netzwerküberwachung
   - Wartung
   - Sicherheit
   - IT-Prozesse
   - Kundenanfragungen
-  - Kundenstrungen
+  - Kundenstörungen
   - Meldung
   - Kundenanliegen
 
 ---
 
-## Teil 1 der Abschlussprfung Fachinformatiker:in Anwendungsentwicklung
+## Teil 1 der Abschlussprüfung Fachinformatiker:in Anwendungsentwicklung
 
-**Einrichten eines IT-gesttzten Arbeitsplatzes.**
+**Einrichten eines IT-gestützten Arbeitsplatzes.**
 
 ## Situation
 
 | |
 | :--- |
-| Sie sind Auszubildender der SolArcs GmbH und sollen die Prfung absolvieren, nachdem neue Aufgaben zur knstlichen Intelligenz in den Fragenkatolog aufgenommen wurden. |
+| Sie sind Auszubildender der SolArcs GmbH und sollen die Prüfung absolvieren, nachdem neue Aufgaben zur künstlichen Intelligenz in den Fragenkatalog aufgenommen wurden. |
 
 ## 1. Aufgabe
 
 > 25 Punkte
 
-### 1a Aufgaben zum Thema knstliche Intelligenz in der Netzwerkberwachung
+### 1a Aufgaben zum Thema künstliche Intelligenz in der Netzwerküberwachung
 
 > 6 Punkte
 
 ---
 
-#### 1aa Beispiele fr Verbesserungen durch Kl-gesttzte Software
+#### 1aa Beispiele für Verbesserungen durch KI-gestützte Software
 
 > 4 Punkte
 
@@ -98,11 +98,11 @@ tags:
 
 ---
 
-#### 1bd bersetzung des Gesetzestextes
+#### 1bd Übersetzung des Gesetzestextes
 
 > 2 Punkte
 
-**bersetzung:**
+**Übersetzung:**
 
 ...
 
@@ -148,23 +148,23 @@ Ereignisgestuerte Prozesskette (EPK)
 
 Du sollst einem Kollegen den Prozess des Wareneingangs als EPK darstellen.
 
-#### 1. Bei uns wird die Ware in zwei Schritten geprft
+#### 1. Bei uns wird die Ware in zwei Schritten geprüft
 
 #### 2. Schritt 1: Sichtkontrolle und Belegkontrolle, wenn die Ware ankommt
 
-- Ein Mitarbeiter schaut sich die Ware von auen an.
-- Er prft auch die Lieferpapiere (z. B. Lieferschein).
-- Entdeckt er schon jetzt einen Fehler (z. B. beschdigte Verpackung oder falsche Ware laut Lieferschein), muss er sich entscheiden:
+- Ein Mitarbeiter schaut sich die Ware von außen an.
+- Er prüft auch die Lieferpapiere (z. B. Lieferschein).
+- Entdeckt er schon jetzt einen Fehler (z. B. beschädigte Verpackung oder falsche Ware laut Lieferschein), muss er sich entscheiden:
   - Er kann die Annahme der Ware ablehnen.
-  - Oder er nimmt die Ware nur unter Vorbehalt an. Das bedeutet: Wir sind uns nicht sicher, ob mit der Lieferung alles stimmt.
-  - Wenn kein Fehler sichtbar ist, unterschreibt der Mitarbeiter fr den Frachtfhrer, damit dieser gehen kann. Dann kommt die Ware zur genaueren Warenprfung.
+  - Oder er nimmt die Ware nur „unter Vorbehalt“ an. Das bedeutet: Wir sind uns nicht sicher, ob mit der Lieferung alles stimmt.
+  - Wenn kein Fehler sichtbar ist, unterschreibt der Mitarbeiter für den Frachtführer, damit dieser gehen kann. Dann kommt die Ware zur genaueren Warenprüfung.
 
-#### 3.Schritt 2: Warenprfung (genaue Kontrolle)
+#### 3.Schritt 2: Warenprüfung (genaue Kontrolle)
 
 - Hier wird die Ware genau untersucht.
-- Finden wir dabei einen Fehler, erstellen wir einen Prfbericht.
-- Der Prfbericht geht an die Einkaufsabteilung zur Reklamation (Beschwerde).
+- Finden wir dabei einen Fehler, erstellen wir einen Prüfbericht.
+- Der Prüfbericht geht an die Einkaufsabteilung zur Reklamation (Beschwerde).
 - Die Ware wird markiert und gesondert (extra) gelagert.
 - Ist alles in Ordnung, kommt die Ware ganz normal ins Lager.
 
-So stellen wir sicher, dass die Warenannahme korrekt abluft und mgliche Fehler frh erkannt werden.
+So stellen wir sicher, dass die Warenannahme korrekt abläuft und mögliche Fehler früh erkannt werden.

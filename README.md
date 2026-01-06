@@ -13,6 +13,8 @@ tags:
 
 Für lokale Entwicklung/Build wird Node.js 22 LTS erwartet (siehe `.nvmrc`).
 
+Hinweis: Die Starlight-Suche (Pagefind) ist auf Apple Silicon (darwin-arm64) deaktiviert, weil Pagefind dort aktuell nicht zuverlässig über `npx` installiert/ausgeführt werden kann. Auf CI/Linux (oder anderen unterstützten Plattformen) bleibt Search aktiv.
+
 ## Willkommen / your welcome
 
 🔹 Willkommen im Repository zur Prüfungsvorbereitung! 🔹

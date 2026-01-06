@@ -6,6 +6,8 @@ import sitemap from '@astrojs/sitemap';
 import auth from 'auth-astro';
 import node from '@astrojs/node';
 
+const disablePagefind = process.platform === 'darwin' && process.arch === 'arm64';
+
 export default defineConfig({
     markdown: {
         remarkPlugins: [remarkReadingTime],
@@ -28,6 +30,7 @@ export default defineConfig({
             logo: {
                 src: './src/assets/logo.png'
             },
+            ...(disablePagefind ? { pagefind: false } : {}),
             sidebar: [
                 {
                     label: '01 Prüfungskatalog',
